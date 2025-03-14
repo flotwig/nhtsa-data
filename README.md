@@ -2,14 +2,14 @@
 
 This repository contains datasets collected from the [NHTSA APIs](https://www.nhtsa.gov/nhtsa-datasets-and-apis).
 
-The NHTSA offers Data Downloads, but they are missing complete data.
-
-Please see below for summaries of the available data.
+### Contents
 
 * [NHTSA Vehicle Safety Rating Data](#nhtsa-vehicle-safety-rating-data)
 * [NHTSA Vehicle Recall Data](#nhtsa-vehicle-recall-data)
 * [NHTSA Complaint Data](#nhtsa-complaint-data)
 * [NHTSA Car Seat Inspection Locations](#nhtsa-car-seat-inspection-locations)
+
+> This repository is neither operated nor endorsed by the National Highway Traffic Safety Administration (NHTSA).
 ## NHTSA Vehicle Safety Rating Data
 
 | Model Year | Ratings | File |
@@ -17,18 +17,18 @@ Please see below for summaries of the available data.
 | 2025 | 683 | [vehicle_safety_ratings_2025.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2025.csv) |
 | 2024 | 847 | [vehicle_safety_ratings_2024.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2024.csv) |
 | 2023 | 872 | [vehicle_safety_ratings_2023.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2023.csv) |
-| 2022 | 880 | [vehicle_safety_ratings_2022.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2022.csv) |
+| 2022 | 881 | [vehicle_safety_ratings_2022.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2022.csv) |
 | 2021 | 822 | [vehicle_safety_ratings_2021.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2021.csv) |
 | 2020 | 812 | [vehicle_safety_ratings_2020.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2020.csv) |
-| 2019 | 855 | [vehicle_safety_ratings_2019.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2019.csv) |
-| 2018 | 800 | [vehicle_safety_ratings_2018.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2018.csv) |
-| 2017 | 793 | [vehicle_safety_ratings_2017.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2017.csv) |
-| 2016 | 751 | [vehicle_safety_ratings_2016.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2016.csv) |
+| 2019 | 850 | [vehicle_safety_ratings_2019.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2019.csv) |
+| 2018 | 797 | [vehicle_safety_ratings_2018.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2018.csv) |
+| 2017 | 787 | [vehicle_safety_ratings_2017.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2017.csv) |
+| 2016 | 747 | [vehicle_safety_ratings_2016.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2016.csv) |
 | 2015 | 790 | [vehicle_safety_ratings_2015.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2015.csv) |
 | 2014 | 694 | [vehicle_safety_ratings_2014.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2014.csv) |
 | 2013 | 734 | [vehicle_safety_ratings_2013.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2013.csv) |
 | 2012 | 720 | [vehicle_safety_ratings_2012.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2012.csv) |
-| 2011 | 706 | [vehicle_safety_ratings_2011.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2011.csv) |
+| 2011 | 702 | [vehicle_safety_ratings_2011.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2011.csv) |
 | 2010 | 424 | [vehicle_safety_ratings_2010.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2010.csv) |
 | 2009 | 443 | [vehicle_safety_ratings_2009.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2009.csv) |
 | 2008 | 457 | [vehicle_safety_ratings_2008.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2008.csv) |
@@ -50,7 +50,7 @@ Please see below for summaries of the available data.
 | 1992 | 107 | [vehicle_safety_ratings_1992.csv](./vehicle_safety_ratings/vehicle_safety_ratings_1992.csv) |
 | 1991 | 101 | [vehicle_safety_ratings_1991.csv](./vehicle_safety_ratings/vehicle_safety_ratings_1991.csv) |
 | 1990 | 65 | [vehicle_safety_ratings_1990.csv](./vehicle_safety_ratings/vehicle_safety_ratings_1990.csv) |
-| **Total** | **16,631** | |
+| **Total** | **16,610** | |
 
 
 ## NHTSA Vehicle Recall Data
@@ -58,9 +58,9 @@ Please see below for summaries of the available data.
 | Model Year | Number of Recalls | File |
 |------------|------------------:|----------|
 | 2025 | 102 | [recalls_2025.csv](./recalls/recalls_2025.csv) |
-| 2024 | 514 | [recalls_2024.csv](./recalls/recalls_2024.csv) |
-| 2023 | 901 | [recalls_2023.csv](./recalls/recalls_2023.csv) |
-| 2022 | 1,398 | [recalls_2022.csv](./recalls/recalls_2022.csv) |
+| 2024 | 516 | [recalls_2024.csv](./recalls/recalls_2024.csv) |
+| 2023 | 903 | [recalls_2023.csv](./recalls/recalls_2023.csv) |
+| 2022 | 1,399 | [recalls_2022.csv](./recalls/recalls_2022.csv) |
 | 2021 | 1,744 | [recalls_2021.csv](./recalls/recalls_2021.csv) |
 | 2020 | 1,695 | [recalls_2020.csv](./recalls/recalls_2020.csv) |
 | 2019 | 1,854 | [recalls_2019.csv](./recalls/recalls_2019.csv) |
@@ -122,21 +122,21 @@ Please see below for summaries of the available data.
 | 1960 | 1 | [recalls_1960.csv](./recalls/recalls_1960.csv) |
 | 1959 | 1 | [recalls_1959.csv](./recalls/recalls_1959.csv) |
 | 1949 | 1 | [recalls_1949.csv](./recalls/recalls_1949.csv) |
-| **Total** | **57,538** | |
+| **Total** | **57,543** | |
 
 ## NHTSA Complaint Data
 
 | Model Year | Complaints | Crashes | Fires | Injuries | Deaths | File |
 |------------|-----------:|--------:|------:|---------:|-------:|------|
-| 2025 | 717 | 39 | 6 | 26 | 1 | [complaints_2025.csv](./complaints/complaints_2025.csv) |
-| 2024 | 5,872 | 283 | 45 | 250 | 3 | [complaints_2024.csv](./complaints/complaints_2024.csv) |
-| 2023 | 12,324 | 725 | 66 | 511 | 12 | [complaints_2023.csv](./complaints/complaints_2023.csv) |
-| 2022 | 15,630 | 784 | 174 | 809 | 110 | [complaints_2022.csv](./complaints/complaints_2022.csv) |
-| 2021 | 16,889 | 895 | 225 | 672 | 20 | [complaints_2021.csv](./complaints/complaints_2021.csv) |
-| 2020 | 19,584 | 951 | 274 | 793 | 25 | [complaints_2020.csv](./complaints/complaints_2020.csv) |
-| 2019 | 29,612 | 1,287 | 343 | 1,047 | 18 | [complaints_2019.csv](./complaints/complaints_2019.csv) |
-| 2018 | 37,253 | 1,550 | 419 | 1,260 | 23 | [complaints_2018.csv](./complaints/complaints_2018.csv) |
-| 2017 | 42,159 | 1,884 | 608 | 1,683 | 90 | [complaints_2017.csv](./complaints/complaints_2017.csv) |
+| 2025 | 714 | 39 | 6 | 26 | 1 | [complaints_2025.csv](./complaints/complaints_2025.csv) |
+| 2024 | 5,871 | 283 | 45 | 250 | 3 | [complaints_2024.csv](./complaints/complaints_2024.csv) |
+| 2023 | 12,323 | 725 | 65 | 511 | 12 | [complaints_2023.csv](./complaints/complaints_2023.csv) |
+| 2022 | 15,629 | 784 | 174 | 809 | 110 | [complaints_2022.csv](./complaints/complaints_2022.csv) |
+| 2021 | 16,887 | 895 | 225 | 672 | 20 | [complaints_2021.csv](./complaints/complaints_2021.csv) |
+| 2020 | 19,583 | 951 | 274 | 793 | 25 | [complaints_2020.csv](./complaints/complaints_2020.csv) |
+| 2019 | 29,609 | 1,287 | 343 | 1,047 | 18 | [complaints_2019.csv](./complaints/complaints_2019.csv) |
+| 2018 | 37,250 | 1,550 | 419 | 1,260 | 23 | [complaints_2018.csv](./complaints/complaints_2018.csv) |
+| 2017 | 42,156 | 1,884 | 608 | 1,683 | 90 | [complaints_2017.csv](./complaints/complaints_2017.csv) |
 | 2016 | 44,512 | 2,077 | 668 | 1,848 | 137 | [complaints_2016.csv](./complaints/complaints_2016.csv) |
 | 2015 | 47,565 | 2,421 | 940 | 2,163 | 65 | [complaints_2015.csv](./complaints/complaints_2015.csv) |
 | 2014 | 52,030 | 2,649 | 1,004 | 2,306 | 56 | [complaints_2014.csv](./complaints/complaints_2014.csv) |
@@ -199,7 +199,7 @@ Please see below for summaries of the available data.
 | 1957 | 1 | 0 | 0 | 0 | 0 | [complaints_1957.csv](./complaints/complaints_1957.csv) |
 | 1955 | 3 | 0 | 0 | 0 | 0 | [complaints_1955.csv](./complaints/complaints_1955.csv) |
 | 1949 | 3 | 1 | 1 | 5 | 0 | [complaints_1949.csv](./complaints/complaints_1949.csv) |
-| **Total** | **1,468,685** | **90,630** | **38,956** | **81,670** | **4,716** | |
+| **Total** | **1,468,667** | **90,630** | **38,955** | **81,670** | **4,716** | |
 
 ## NHTSA Car Seat Inspection Locations
 
