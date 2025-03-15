@@ -60,10 +60,10 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 | 2025 | 102 | [recalls_2025.csv](./recalls/recalls_2025.csv) |
 | 2024 | 516 | [recalls_2024.csv](./recalls/recalls_2024.csv) |
 | 2023 | 903 | [recalls_2023.csv](./recalls/recalls_2023.csv) |
-| 2022 | 1,399 | [recalls_2022.csv](./recalls/recalls_2022.csv) |
-| 2021 | 1,744 | [recalls_2021.csv](./recalls/recalls_2021.csv) |
-| 2020 | 1,695 | [recalls_2020.csv](./recalls/recalls_2020.csv) |
-| 2019 | 1,854 | [recalls_2019.csv](./recalls/recalls_2019.csv) |
+| 2022 | 1,400 | [recalls_2022.csv](./recalls/recalls_2022.csv) |
+| 2021 | 1,747 | [recalls_2021.csv](./recalls/recalls_2021.csv) |
+| 2020 | 1,699 | [recalls_2020.csv](./recalls/recalls_2020.csv) |
+| 2019 | 1,855 | [recalls_2019.csv](./recalls/recalls_2019.csv) |
 | 2018 | 1,711 | [recalls_2018.csv](./recalls/recalls_2018.csv) |
 | 2017 | 1,624 | [recalls_2017.csv](./recalls/recalls_2017.csv) |
 | 2016 | 1,692 | [recalls_2016.csv](./recalls/recalls_2016.csv) |
@@ -122,7 +122,7 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 | 1960 | 1 | [recalls_1960.csv](./recalls/recalls_1960.csv) |
 | 1959 | 1 | [recalls_1959.csv](./recalls/recalls_1959.csv) |
 | 1949 | 1 | [recalls_1949.csv](./recalls/recalls_1949.csv) |
-| **Total** | **57,543** | |
+| **Total** | **57,552** | |
 
 ## NHTSA Complaint Data
 
