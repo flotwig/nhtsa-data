@@ -240,6 +240,7 @@ Matthew,Comden,Trinidad Fire Department,1605 Santa Fe Trail,Trinidad,CO,81082,ma
 Jennifer,Sanchez McDonald,Las Animas County Health Department,412 Benedicta Ave,Trinidad,CO,81082,jsmcdonald@la-h-health.org,,(719)-845-0463,No,2020-09-11T17:10:47Z,No,,37.172875,-104.487356
 Matthew,Comden,Trinidad Fire Station 2,1102 Nevada ave,Trinidad,CO,81082,matthew.comden@trinidad.co.gov,,719-250-9482,No,2023-07-13T18:43:52Z,No,,37.178712,-104.509834
 Heather,Hamilton,Colorado State Patrol,20591 US-160 E,Durango,CO,81301,heather.hamilton@state.co.us,,970-385-1675,No,2020-10-28T19:46:23Z,No,"La Plata, Montezuma, Archuleta, San Juan, Ouray, Dolores, Hinsdale",37.270033,-107.90961
+Trent,Woods,Montezuma County Public Health,106 W North St.,Cortez,CO,81321,Twoods@co.montezuma.co.us,,970-564-4777,No,2025-05-01T12:50:44Z,No,,37.349858,-108.586984
 Adeline,Roybal,Colorado State Patrol,3110 1st Street,Alamosa,CO,81101,adeline.roybal@state.co.us,,719-589-2503,No,2017-07-18T19:01:51Z,No,Alamosa,37.472524,-105.901208
 Linette,Nye Schmidt,South Fork Fire Rescue,28 Mall St,South Fork,CO,81154,linette@southforkfirerescue.com,,7198731030,No,2020-09-11T16:20:53Z,No,,37.669188,-106.632031
 Douglas,Bremer,Colorado State Patrol,617 Raton Avenue,La Junta,CO,81050,douglas.bremer@csps.state.co.us,,719-384-8981,No,2017-07-19T13:28:32Z,No,Otero & surrounding,37.98265,-103.5413
@@ -679,7 +680,6 @@ Jodi,Suter,Caribou County Sheriff,475 S 2nd E,Soda Springs,ID,83276,,,208 547 25
 Chris,McKay,American Falls Police Department,540 N Oregon Trail,American Falls,ID,83211,,,208-541-0102,No,2022-08-23T19:43:23Z,No,,42.785038,-112.857694
 Mindi,Anderson,Pocatello Police Department,911 N 7th Ave,Pocatello,ID,83201,,,208-234-6105,Yes,2022-09-20T15:40:44Z,No,,42.87313,-112.448956
 "Zack Stone, Kayla Nelson, or",Kevin Castillo,Grease Monkey Idaho,1055 Yellowstone Ave,Pocatello,ID,83201,,,208 237 8584,No,2019-10-22T17:45:08Z,No,,42.894567,-112.451827
-Kayla Nelson or,Kirk Smith,Grease Monkey Idaho,710 W Quinn Rd,Pocatello,ID,83202,,,208 232 0787,No,2019-10-22T17:45:42Z,No,,42.90618,-112.46204
 Lane,Brooks,North Bannock Fire,444 E Chubbuck Rd,Pocatello,ID,83202,,,208-867-1341,No,2022-08-23T19:37:38Z,No,,42.92114,-112.457123
 Elizabeth,Bruderer,Chubbuck Police Department,5160 Yellowstone Ave,Chubbuck,ID,83202,,,(208) 238-2376,No,2019-10-22T17:43:32Z,No,,42.927173,-112.465907
 Tammie,Scott,Shoshone-Bannock Tribes,85 Agency Rd,Pocatello,ID,83202,,,208-478-3937,No,2022-09-19T14:52:49Z,No,,43.029669,-112.434016
@@ -716,7 +716,6 @@ Jeff,Glenn,Rigby Police Department,173 E Main St,Rigby,ID,83442,,,208-745-1951,N
 Lorraine,Hiser,Wilder Fire Department,601 Patriot Way,Wilder,ID,83676,,,208 608 2682,No,2019-10-22T16:26:37Z,No,,43.68032,-116.91378
 Dave Gomez,,Boise County Sheriff,3851 Highway 21,Idaho City,ID,83631,,,208-392-4411,No,2023-06-22T22:43:48Z,No,,43.822864,-115.839652
 Julie Haderlie,,Rexburg Police Department,25 E Main St,Rexburg,ID,83440,,,208-359-3008,No,2023-06-22T22:51:06Z,No,,43.826448,-111.782869
-Bryan,Owens,Grease Monkey Idaho,582 N 2nd E,Rexburg,ID,83440,,,208 359 0559,No,2019-10-22T18:02:39Z,No,,43.83838,-111.77752
 "Lynsie Vickery, Beau Patterson,",Matthew Henry,Emmett Fire Department,231 S Washington Ave,Emmett,ID,83617,,,208-398-8042,No,2019-10-22T16:28:53Z,No,,43.873849,-116.500266
 Steve,Castenada,Payette Fire Department,600 N 16th St,Payette,ID,83661,,,208 642 6028,No,2019-10-22T16:28:00Z,No,,44.081314,-116.922284
 Deborah,Story,Weiser Memorial Hospital,645 E 5th St,Weiser,ID,83672,,,208 549 4438,No,2020-01-28T16:24:34Z,No,,44.248806,-116.962459
@@ -733,7 +732,6 @@ Braelynn,Stewart,Public Health Idaho North Central Dist.,215 10th St,Lewiston,ID
 Tammy,Adamson,CASA,1129 Main St,Lewiston,ID,83501,,,208-746-3378,Yes,2022-09-20T15:52:39Z,No,,46.419034,-117.018693
 Krista Brinkley or,Lisa Schacher,"Gritman Medical  Center, Family Birth Center",700 S Main St,Moscow,ID,83843,,,208-883-2229,No,2020-02-04T16:45:50Z,No,,46.728403,-117.000674
 Eric,Warner,Moscow Police Department,118 E 4th St,Moscow,ID,83843,,,208 882 2677,No,2022-08-23T18:42:19Z,No,,46.731912,-117.000447
-Kathleen,Richter,Palouse Care Network,1515 W A St,Moscow,ID,83843,,,208-882-2370,No,2022-08-23T18:34:30Z,No,,46.735425,-117.023038
 Sami,Heath,Potlatch Family Medical,156 6th St,Potlatch,ID,83855,,,208-875-2380,No,2024-07-18T17:25:43Z,No,,46.92438,-116.90223
 John,Miller,Shoshone County Fire District #1,921 E Mullan Ave,Osburn,ID,83849,,,208 752 1101,No,2019-10-22T16:13:44Z,No,,47.502175,-115.991365
 Kaela,Bates,Kellogg Fire Department,14 W Market Ave,Kellogg,ID,83837,,,208 784 1188,No,2019-10-22T16:14:19Z,No,,47.533954,-116.122141
@@ -743,6 +741,106 @@ Tennille,Toussaint,Selkirk Fire and Rescue,517 S Lincoln Ave,Sandpoint,ID,83864,
 Angela,Tennision,Sandpoint Police Department,1123 Lake St,Sandpoint,ID,83864,,,208-263-3587,No,2022-08-22T21:58:36Z,No,,48.271717,-116.563099
 Diane,Davis-Stockton,Life Choices Pregnancy Center,35 Litehouse Dr,Sandpoint,ID,83864,,,208 263 7621,No,2023-06-22T22:23:53Z,No,,48.311106,-116.525508
 Allen,Merritt,South Boundary Fire Protection Dist.,20 Stagecoach Rd,Naples,ID,83847,,,208-290-2613,No,2023-06-22T22:28:58Z,No,,48.571264,-116.392486
+Cassie,Walden,Clarity Women's Care,241 S Lewis Lane,Carbondale,IL,62901,cassie@claritywomenscare.org,,618-549-2794,No,2025-03-25T18:03:07Z,No,,37.724214,-89.198933
+Brock,Whitehead,Marion Fire Department,204 N Court St,Marion,IL,62959,,,618-997-5730,No,2025-03-26T20:06:03Z,No,,37.732124,-88.933032
+Christina,Lewis,SIU Head Start,1900 N Illinois Avenue,Carbondale,IL,62901,,,618-453-0766,No,2025-03-27T20:43:54Z,No,,37.75131,-89.221381
+Heather,Pierce,Carbondale Police Department,501 S. Washington,Carterville,IL,62918,,,618-944-0422,No,2025-03-25T15:32:06Z,No,,37.760903,-89.081181
+Alyssa,Oglesby,Egyptian Health Department,1412 US Highway 45 North,Eldorado,IL,62930,aoglesby@egyptian.org,,618-273-3326,No,2025-03-26T12:28:59Z,No,,37.804024,-88.453344
+Rodger,Goines,Illinois State Police - DuQuoin,1391 South Washington Street,DuQuoin,IL,62832,rodger.goines@illinois.gov,,618-542-2171,No,2025-03-26T16:16:46Z,No,,37.984113,-89.234629
+Amos,Abbott,Franklin County EMA,413 Saint George Street,Benton,IL,62812,,,618-439-4364,No,2025-03-26T13:31:20Z,No,,37.993286,-88.936096
+Kara,Kellerman,Pinckneyville Elementary School,301 West Mulberry,Pinckneyville,IL,62274,kkellerman@jrpanther.com,,618-357-5161,No,2025-03-27T19:02:55Z,No,,38.079737,-89.385023
+David,Agee,Carmi Police,108 N. Main Cross Street,Carmi,IL,62821,dagee@carmischools.org,,618-382-4633,No,2025-03-25T16:43:15Z,No,,38.091432,-88.158793
+Aaron,Shook,Mt. Vernon Fire Department,714 S 42nd Street,Mt Vernon,IL,62864,aaron.shook@mtvernon.com,,618-242-6835,No,2025-03-27T17:32:01Z,No,,38.308291,-88.94179
+Alexus,Tate,Caritas Family Solutions,321 South 10th Street,Mt. Vernon,IL,62864,alexus.tate@caritasfamily.org,,618-316-7537,No,2025-03-25T15:35:00Z,No,,38.314921,-88.903936
+Jamie,Nichols,Project Child,327 Potomac Boulevard,Mt Vernon,IL,62864,nicholsj@rlc.edu,,618-244-2210,No,2025-03-27T19:09:03Z,No,,38.319266,-88.957195
+Megan,Doolen,Spero Family Services,2023 Richview Road,Mt Vernon,IL,62864,megan.day-meador@sperofs.org,,618-242-5600,No,2025-03-27T20:53:15Z,No,,38.325775,-88.91837
+Carla,Heise,Monroe County EMS,901 Illinois Ave,Waterloo,IL,62298,,,618-781-5080,No,2025-03-26T20:43:06Z,No,,38.338863,-90.163255
+Kim,Lamprecht,Columbia EMS,1020 N Main Street,Columbia,IL,62236,klamprecht@columbiaillinois.com,,618-281-4163,No,2025-03-25T18:29:36Z,No,,38.451807,-90.208901
+Alan,Hucke,Millstadt Police Department,108 W White,Millstadt,IL,62260,ahucke@millstadtpolice.org,,618-476-7250,No,2025-03-26T20:37:42Z,No,,38.459624,-90.093356
+Kevin,Beck,Belleville Fire Department,1125 South Illinois Street,Belleville,IL,62220,kbeck@belleville.net,,618-550-8762,No,2025-03-25T14:03:50Z,No,,38.500155,-89.984972
+John,Hinkel,Centralia Police Department,222 S. Poplar,Centralia,IL,62801,jhinkel@c-centraliapolice.org,,618-533-7602,No,2025-03-25T17:05:57Z,No,,38.525515,-89.133768
+Laura,Ottens,Shiloh Police Department,3498 Lebanon Ave,Shiloh,IL,62221,lottens@shilohil.org,,928-202-2154,No,2025-03-27T20:40:56Z,No,,38.547195,-89.925809
+Jeremy,Sherman,O'Fallon EMS,285 N Seven Hills Rd,O'Fallon,IL,62269,jsherman@ofallon.org,,618-409-8772,No,2025-03-27T18:09:34Z,No,,38.596253,-89.893146
+Trisha,Hildreth,Brightpoint - East St. Louis,601 James R Thompson Blvd,East St. Louis,IL,62221,thildreth@childrenshomeandaid.org,,800-467-9200,No,2025-03-25T14:22:38Z,No,,38.622136,-90.162459
+Brad,Crow,Salem Police Department,201 S Rotan Ave,Salem,IL,62881,bcrow@salemilpolice.org,,618-548-2232,No,2025-03-27T20:02:16Z,No,,38.626014,-88.943284
+Samantha,Weidner,Clay County Health Department,601 E 12th Street,Flora,IL,62839,,,618-662-4406,No,2025-03-25T18:10:01Z,No,,38.678292,-88.481365
+Amy,Ray,Lawrenceville County Health Department,2101 James Street,Lawrenceville,IL,62439,aray@lchealth.com,,618-943-3302,No,2025-03-26T16:50:51Z,No,,38.724698,-87.694997
+Doug,Dankenbring,Maryville Fire Department,300 N Donk Ave,Maryville,IL,62062,ddankenbring@maryvillefire.com,,618-344-8099,No,2025-03-26T20:09:12Z,No,,38.725661,-89.955186
+Jennifer,Hautly,Troy Police Department,116 E Market Street,Troy,IL,62294,jhautly@troypolice.us,,618-667-6731,No,2025-03-28T12:46:32Z,No,,38.729252,-89.882167
+Alexander,Ocepek,Troy Fire Protection District,116 W Clay Street,Troy,IL,62294,,,618-876-9292,No,2025-03-28T12:43:25Z,No,,38.729746,-89.884435
+Rylynn,Wyatt,Carle Richland Memorial Hospital,800 E Locust St,Olney,IL,62450,,,618-392-1131,No,2025-03-25T16:40:25Z,No,,38.736605,-88.077368
+Troy,Hemann,Highland Fire Department,1122 Broadway,Highland,IL,62249,,,618-654-5901,No,2025-03-26T16:00:49Z,No,,38.739066,-89.676686
+Carl,Walton,Glen Carbon Fire Protection District,225 Madison Avenue,Glen Carbon,IL,62034,GCFD1902@aol.com,,618-910-8161,No,2025-03-26T15:20:16Z,No,,38.74681,-89.978103
+Kelcey,Chadwick,Highland Police Department,12990 Troxler Avenue,Highland,IL,62249,,,618-654-2131,No,2025-03-26T16:04:23Z,No,,38.755576,-89.663516
+Jordan,Schroette,Glen Carbon Village Hall,149 N Main Street,Glen Carbon,IL,62034,jschroetter@glen-carbon.il.us,,618-900-6561,No,2025-03-26T15:24:49Z,No,,38.763341,-89.96883
+Ryan,Anderson,Edwardsville Fire Department,333 South Main Street,Edwardsville,IL,62025,Randerson@cityofedwardsville.com,,618-692-7540,No,2025-03-26T12:14:55Z,No,,38.807466,-89.955867
+Casey,Imel,Riverbend Head Start,333 Locust Street,East Alton,IL,62024,ccope@riverbendfamilies.org,,618-550-4944,No,2025-03-27T19:38:17Z,No,,38.881835,-90.06189
+Patrick,Kelly,Alton Fire Department,3617 Western Ave.,Alton,IL,62002,pkelly@cityofaltonil.com,,618-975-4059,No,2025-03-25T12:51:55Z,No,,38.891617,-90.130084
+Aaron,Blackford,Godfrey Fire Department,6011 Godfrey Road,Godfrey,IL,62035,,,618-466-0131,No,2025-03-26T15:37:52Z,No,,38.954433,-90.190281
+Heather,Jackson,Fayette County Health Department,416 W Edwards,Vandalia,IL,62471,,,618-283-1044,No,2025-03-26T13:12:16Z,No,,38.958321,-89.095046
+Shannon,Knight,Little Knights Daycare,1100 Airport Rd,Godfrey,IL,62035,,,618-208-0426,No,2025-03-26T16:59:16Z,No,,38.966975,-90.201862
+Amy,Howell,Crawford County Health Department,202 N Christopher Blvd,Robinson,IL,62454,ahowell@cchd.net,,618-546-2529,No,2025-03-25T18:33:05Z,No,,39.00693,-87.755303
+Cindy,Williamson,Crawford Memorial Hospital,1000 N Allen,Robinson,IL,62454,cindy.williamson@crawfordmh.org,,618-546-2529,No,2025-03-25T18:36:01Z,No,,39.01452,-87.750006
+Beth,Wise,Effingham County Connections,104 E Blohm Avenue,Effingham,IL,62401,bethw@effcohealth.org,,217-240-2069,No,2025-03-26T12:24:27Z,No,,39.102162,-88.540795
+Jamie,Damm,Jerseyville Police Department,200 S Jefferson Street,Jerseyville,IL,62052,jdamm@jerseyville-il.us,,618-498-2131,No,2025-03-26T16:23:53Z,No,,39.118696,-90.326052
+Mandy,Myers,Effingham County Health Department,901 W. Virginia,Effingham,IL,62401,mandym@effcohealth.org,,217-342-9237,No,2025-03-26T12:19:14Z,No,,39.12555,-88.553064
+Meghan,Rewers,Crisis Nursery of Effingham County,924 N Merchant Street,Effingham,IL,62401,director@crisisnurseryofeffingham.com,,217-342-3000,No,2025-03-25T18:50:44Z,No,,39.130921,-88.544229
+Juliet,Wooldridge,Macoupin County Public Health Department,205 Oakland Ave,Carlinville,IL,62626,jwooldridge@mcphd.net,,217-854-3223,No,2025-03-26T20:03:26Z,No,,39.27825,-89.87132
+Jodi,Sharp,Clark County Health Department,997 N York Street,Martinsville,IL,62442,jsharp@clarkhd.org,,217-967-2243,No,2025-03-25T18:06:48Z,No,,39.348267,-87.883728
+Katrina,Farris,Mattoon Birth-3,121 S 17th,Mattoon,IL,61938,,,217-238-8906,No,2025-03-26T20:11:44Z,No,,39.481793,-88.375484
+Ashley,Temples,Charleston Police Department,614 6th Street,Charleston,IL,61920,,,217-348-5221,No,2025-03-25T17:39:47Z,No,,39.493939,-88.175771
+Chelsey,Diana,Christian County Health Department,708 N Pawnee Road,Taylorville,IL,62568,,,217-824-4113,No,2025-03-25T17:51:34Z,No,,39.556269,-89.292729
+Kelly,Cusick,Edgar County Public Health Department,502 Shaw Avenue,Paris,IL,61944,,,217-465-2212,No,2025-03-26T12:11:11Z,No,,39.606957,-87.692091
+Jessica,Glen Sanders,Jacksonville Municipal Building,200 W Douglas Ave,Jacksonville,IL,62650,jglenn@jacksonvilleil.gov,,217-479-4616,No,2025-03-25T12:21:24Z,No,,39.736409,-90.230701
+Roy,Maki,Southern View Police Department,3412 S 5th Street,Southern View,IL,62703,rmaki@southernview.us,,217-529-0255,No,2025-03-27T20:50:10Z,No,,39.752829,-89.649366
+,,Green on Dirksen,1200 S Dirksen Pkwy,Springfield,IL,62764,,,other,No,2025-03-26T15:40:17Z,No,,39.788893,-89.605014
+CJ,Compardo,SIU School of Medicine,327 West Calhoun,Springfield,IL,62794,ccompardo98@siumed.edu,,other,No,2025-03-27T20:46:29Z,No,,39.813078,-89.658427
+CJ,Compardo,SIU School of Medicine,327 West Calhoun,Springfield,IL,62794,ccompardo98@siumed.edu,,other,No,2025-03-27T20:46:30Z,No,,39.813078,-89.658427
+Johanna,Voss,Central Fire Station,906 Vermont Street,Quincy,IL,62301,jvoss@adamscountyil.gov,,217-222-8440,No,2025-03-25T17:02:08Z,No,,39.934148,-91.401221
+Katie,Houser,Brown County Health Dept.,120 E. Main St.,Mt. Sterling,IL,62353,,,217-773-2714,No,2025-03-25T14:45:50Z,No,,39.984952,-90.764111
+Sam,Smith,Savoy Fire Department,106 W Tomaras Ave,Savoy,IL,61874,Sam.smith@savoy.illinois.gov,,other,No,2025-03-27T20:05:50Z,No,,40.062909,-88.251147
+Jade,Thomas,Brightpoint,503 S Country Fair Dr.,Champaign,IL,61821,jthomas@brightpoint.org,,217-675-7019,No,2025-03-24T15:10:25Z,No,,40.112065,-88.28335
+Christina,Ladage,CUPHD,201 W. Kenyon Rd,Champaign,IL,61820,cladge@c-uphd.org,,217-353-4932,No,2025-03-25T17:09:53Z,No,,40.133626,-88.246474
+Dolly,Pollock,Danville Fire Station 3,1111 N Griffin St,Danville,IL,61832,jwright@vermilionsheriff.org,,217-443-1435,No,2025-03-28T12:56:43Z,No,,40.143922,-87.601921
+Tessie,Morton,Hancock County Health Department,671 Wabash Avenue,Carthage,IL,62321,tessiemorton@hchd1.org,,217-357-2171,No,2025-03-26T15:48:16Z,No,,40.41266,-91.133144
+,,Pekin Fire Department,3232 Court Street,Pekin,IL,61554,,,309-477-2388,No,2025-03-27T18:53:12Z,No,,40.546549,-89.604639
+,,Morton Fire Department,300 W Courtland Street,Morton,IL,61550,,,309-266-7390,No,2025-03-26T20:45:46Z,No,,40.627598,-89.469511
+,,East Peoria Fire Department,201 W Washington Street,East Peoria,IL,61611,,,309-698-4700,No,2025-03-25T19:20:46Z,No,,40.66751,-89.58261
+,,Peoria Fire Department,505 NE Monroe,Peoria,IL,61614,,,309-494-8700,No,2025-03-27T18:56:16Z,No,,40.698563,-89.587918
+,,OSF Healthcare Children's Hosp of IL,530 NE Glen Oak Avenue,Peoria,IL,61637,,,877-277-6543,No,2025-03-27T18:15:01Z,No,,40.702152,-89.590785
+Rebecca,Petentler,Regional Office of Education #33,105 N E Street,Monmouth,IL,61462,,https://www.roe33.net/,309-734-6822,No,2025-03-27T19:21:45Z,No,,40.912696,-90.654248
+Stephanie,Hilten,OSF Healthcare Holy Family Med Ctr,1000 W Harlem Ave,Monmouth,IL,61462,SLHilten@osfhealthcare.org,,309-734-1516,No,2025-03-27T18:20:45Z,No,,40.922269,-90.658209
+,,Galesburg Police Department,150 S Broad Street,Galesburg,IL,61401,,,309-343-9151,No,2025-03-26T13:39:14Z,No,,40.945976,-90.37195
+Amy,Fullerton,Regional Office of Education #33,932 Harrison Street,Galesburg,IL,61401,,https://www.roe33.net/,309-734-6822,No,2025-03-27T19:18:30Z,No,,40.958242,-90.353291
+Stephanie,Hilten,OSF Healthcare St. Mary Medical Center,3333 N Seminary Street,Galesburg,IL,61401,SLHilten@osfhealthcare.org,,309-734-1516,No,2025-03-27T18:23:36Z,No,,40.98706,-90.359783
+Cara,Becker,Kankakee County Health Department,2390 West Station Street,Kankakee,IL,60901,cbecker@kankakeehealth.org,,other,No,2025-03-26T16:27:29Z,No,,41.117574,-87.898146
+Valerie,Gross,Bourbonnais Elem. School Dist 53,813 W Burns Rd,Bourbonnais,IL,60914,grossv@besd53.org,,other,No,2025-03-25T14:18:29Z,No,,41.179817,-87.891698
+Kevin,Hennessy,Coal City Fire Protection District,35 S DeWitt Place,Coal City,IL,60416,khennessy@ccfire.net,,other,No,2025-03-25T18:13:38Z,No,,41.287053,-88.287398
+Blake,Frund,Peru Police Department,2650 N Peoria Street,Peru,IL,61354,cso@perupolice.org,,815-223-2151,No,2025-03-27T18:59:26Z,No,,41.344901,-89.131245
+Lindsey,Woerle,Regional Office of Education,107 S State Street,Atkinson,IL,61235,,,309-936-7890,No,2025-03-27T19:12:57Z,No,,41.41487,-90.015956
+Robert,Latz,Minooka Police Dept,121 E McEvilly Rd,Minooka,IL,60447,robert.latz@minooka.com,,other,No,2025-03-26T20:40:50Z,No,,41.448826,-88.260482
+Ashley,Morse,Geneseo Police Department,119 S Oakwood Avenue,Geneseo,IL,61254,,,309-944-5141,No,2025-03-26T15:04:45Z,No,,41.452711,-90.154284
+Mark,Cotrano,Park Forest Fire Dept,156 Indianwood Blvd,Park Forest,IL,60466,mcotrano@vopf.com,,708-352-2171,No,2025-03-27T18:51:07Z,No,,41.48166,-87.67896
+Lea,Sims,Aunt Martha's Health and Wellness,440 Forest Blvd,Park Forest,IL,60505,lesims@auntmarthas.org,,630-256-4000,No,2025-03-25T13:05:17Z,No,,41.482437,-87.678285
+Adrienne,Bone,Genesis Health Group Silvis Pediatrics,855 Illini Drive,Silvis,IL,61282,,,309-281-2356,No,2025-03-26T15:10:47Z,No,,41.51237,-90.416071
+Marisa,Tomich,New Lenox Fire Protection District,261 E Maple Street,New Lenox,IL,60451,info@nlfire.com,,847-588-6500,No,2025-03-27T17:35:43Z,No,,41.513079,-87.961866
+Jeanne,Brown,Easterseals Jumpstart Joilet Region,212 Barney Drive,Joliet,IL,60435,jbrown@joliet.easterseals.com,,other,No,2025-03-25T19:26:56Z,No,,41.526306,-88.14273
+AnnMarie,Scheiper,Guardian Angel Community Services,168 N Ottawa Street,Joliet,IL,60432,amscheiper@gacsprograms.org,https://www.hoffmanestates.org/government/police/traffic/request-a-child-safety-seat-inspection,other,No,2025-03-26T15:43:32Z,No,,41.527542,-88.082803
+Loretta,Hamilton,"Cath. Charities, Early Child Srvcs Div.",203 N. Ottawa St.,Joliet,IL,60432,lhamilton@cc-doj.org,,other,No,2025-03-25T16:51:26Z,No,,41.527984,-88.083506
+Sue,Danaher,Flossmoor Police Department,2800 Flossmoor Rd,Flossmoor,IL,60422,sdanaher@flossmoor.org,,other,No,2025-03-26T13:19:54Z,No,,41.542127,-87.685215
+Dina,Navas,Tinley Park Police Department,7850 West 183rd Street,Tinley Park,IL,60477,dnavas@tinleypark.org,,other,No,2025-03-28T12:40:30Z,No,,41.558891,-87.808115
+Debbie,Henning,Lockport IL Police Dept,1212 S Farrell Rd,Lockport,IL,60441,dhenning@lockportpolice.info,,other,No,2025-03-26T19:54:12Z,No,,41.586266,-88.024758
+Danielle,Fary,Homer Twp. Fire Protection District,16131 South Bell Road,Homer Glen,IL,60491,dfary@homerfire.org,,847-294-4400,No,2025-03-26T16:12:03Z,No,,41.595578,-87.924458
+Daniel,Matys,Oak Forest Fire Department,5620 James Drive,Oak Forest,IL,60452,dmatys@oak-forest.org,,other,No,2025-03-27T18:02:56Z,No,,41.610645,-87.75766
+Monica,Zloza,Eisenhower Cooperative,5318 135th Street,Crestwood,IL,60418,mzloza@eisencoop.org,,other,No,2025-03-26T12:33:24Z,No,,41.647649,-87.750461
+Kris,Kearns,Oswego Fire Prot Dist Station #1,3511 Woolley Rd,Oswego,IL,60543,kkerarns@oswegofire@com,,847-359-9014,No,2025-03-27T18:27:24Z,No,,41.672457,-88.328121
+Ashley,Vinson,Palos Heights Height Police Department,7607 W College Drive,Palos Heights,IL,60463,avinson@palosheightspd.org,,708-481-4549,No,2025-03-27T18:39:22Z,No,,41.674465,-87.808238
+Scott,Freed,Alsip Fire Department,12600 S. Pulaski Rd,Alsip,IL,60803,ssf2786@hotmail.com,,847-395-5511,No,2025-03-25T12:47:42Z,No,,41.674702,-87.729385
+,Pirtle,Worth Police Department,7112 W. 111th Street,Worth,IL,60482,tpirtle@villageofworth.com,,other,No,2025-03-28T14:23:19Z,No,,41.690249,-87.795765
+Julie,Johnson,Argonne National Labs,9700 South Cass Avenue,Lemont,IL,60439,juliejohnson@anl.gov,,other,No,2025-03-25T13:01:07Z,No,,41.70483,-87.976036
+Ed,Dunne,Evergreen Park Fire Department,9000 S Kedzie Ave,Evergreen Park,IL,60805,edunne@evppkfd.org,,708-422-2148,No,2025-03-26T12:54:00Z,No,,41.729929,-87.702629
+Don,Huenecke,Evergreen Park Fire Department,9000 S Kedzie Ave,Evergreen Park,IL,60805,dhuenecke@evpkfd.org,,other,No,2025-03-26T12:57:17Z,No,,41.729929,-87.702629
+Michael,Chomiak,Aurora Fire Department,75 N Broadway,Aurora,IL,60505,chomiakm@aurora.il.us,,other,No,2025-03-24T14:36:50Z,No,,41.758619,-88.310977
 Erica,Arthur,Memorial Hospital and Health Care Center,800 W 9th St,Jasper,IN,47546,,,812-966-0305,No,2023-12-06T20:53:34Z,No,,,
 Shelly,Mason Loffer,Pike County Family Health Center,611 E Main St,Petersburg,IN,47567,smason-loffer@gshvin.org,,812-494-9514,No,2024-01-10T18:58:20Z,No,,,
 Kim,Stallings,Spencer County Health Department,200 Main St,Rockport,IN,47635,kstallings@spencercountyhealth.com,,812-649-4441,No,2021-05-26T14:38:42Z,No,,37.882627,-87.046595
@@ -782,15 +880,16 @@ Erica,Hicks,Ripley County Health Department,102 W 1st North St,Versailles,IN,470
 Kelly,Wood,Sullivan County Health Department,27 S Main St,Sullivan,IN,47882,,,812-268-0224,No,2022-12-06T17:39:28Z,No,,39.094533,-87.406886
 Cara,Wickens,"IU Health Bloomington, Community Health Education",333 E Miller Dr,Bloomington,IN,47401,cwickens@iuhealth.org,,812-353-5252,No,2023-12-06T20:49:13Z,No,Monroe,39.147362,-86.528572
 Tonya,Hiday,"Dorel Juvenile Group, Inc.",2525 State St,Columbus,IN,47201,,,812-314-4440,No,2016-08-09T20:45:21Z,No,Bartholomew,39.192165,-85.896568
-Cara,Zogorski,Indiana Health Centers,35 Bob Babbs Dr,Spencer,IN,47460,czugorski@ihcinc.org,,812-652-1700,No,2020-06-11T11:58:50Z,No,,39.28892,-86.78453
+,,Indiana Health Centers,35 Bob Babbs Dr,Spencer,IN,47460,,,812-652-1700,No,2020-06-11T11:58:50Z,No,,39.288378,-86.785694
 Kourtney,Cochran,Pierson Township Volunteer Fire Protection,7610 Firehouse Dr,Pimento,IN,47866,,,812-495-5254,No,2018-04-10T18:44:55Z,No,,39.307787,-87.300356
 Kevin,Wilson,Greensburg Fire Department,528 N Ireland St,Greensburg,IN,47240,kwilson@greensburg.in.gov,,812-663-8671,No,2021-08-12T21:07:40Z,No,,39.341758,-85.488528
 Janine,Huff,Decatur County Memorial Hospital,720 N Lincoln St,Greensburg,IN,47240,,,812-663-1173,No,2018-04-09T18:03:13Z,No,,39.34378,-85.47868
 Kevin,Murphy,Riley Fire Department,6633 State Road 159,Terre Haute,IN,47802,,,812-894-3610 Ext. 45,No,2018-04-10T18:49:11Z,No,Vigo,39.38636,-87.30584
 William,Behnke,Honey Creek Fire Department,6553 S Carlisle St,Terre Haute,IN,47802,,,812-299-2244,No,2016-08-10T15:29:35Z,No,,39.387344,-87.397835
 Deborah,Tibbetts,Franklin County Health Department,1010 Franklin Ave,Brookville,IN,47012,dtibbetts@franklincounty.in.gov,,765-647-4322,No,2022-05-11T16:52:00Z,No,,39.425815,-85.010573
-Jessica,Murphy,Chances and Services For Youth,1101 S 13th St,Terre Haute,IN,47802,,,812-232-5190,No,2018-04-09T14:25:03Z,No,Vigo,39.4551,-87.39833
+,,Chances and Services For Youth,1101 S 13th St,Terre Haute,IN,47802,,,812-232-5190,No,2018-04-09T14:25:03Z,No,Vigo,39.455239,-87.398116
 Tracy,Smith,Johnson County WIC,600 Ironwood Dr,Franklin,IN,46131,,,317-736-6628,No,2023-08-02T14:32:46Z,No,,39.472975,-86.062581
+,,Johnson County WIC,600 Ironwood Dr Suite I,Franklin,IN,46131,,,317-736-6628,No,2025-04-09T14:23:39Z,No,,39.47298,-86.062629
 Joseph,Dillon,Franklin Police Department,2801 N Morton St,Franklin,IN,46131,,,317-736-3670,No,2018-04-10T13:34:22Z,No,Johnson,39.51493,-86.07204
 Holly,Scott,Major Hospital,2451 Intelliplex Dr,Shelbyville,IN,46176,,,317-398-5316,No,2023-11-27T19:00:48Z,No,Shelby,39.560273,-85.785517
 Linda,Hershman,Firefly Children & Family Alliance,520 Tracy Rd,New Whiteland,IN,46184,,,317-535-3326,No,2022-11-07T22:40:29Z,No,,39.565142,-86.090186
@@ -813,7 +912,7 @@ Trasey,Graham,"Indianapolis Fire Department/Firefighters Survive Alive, Inc.",74
 Kristina,Lind,Community Health Network East,1500 N Ritter Ave,Indianapolis,IN,46219,,,317-355-4259,No,2018-04-09T17:40:49Z,No,,39.7877,-86.07397
 Linda,Garrity,Hancock Regional Hospital,801 N State St,Greenfield,IN,46140,www.lgarrity@hancockregional.org,,317-468-4383,No,2016-08-10T15:27:58Z,No,Hancock,39.796268,-85.769211
 Paradise,Bradford,Pretty Passionate Hands Child Care Inc,3421 N Park Ave,Indianapolis,IN,46205,info@pphchildcare.org,,317-737-6435,No,2023-08-02T14:01:25Z,No,,39.818302,-86.146877
-Constance,Cowling,Marion County Public Health,3838 N Rural St,Indianapolis,IN,46205,,,317-221-2025,No,2018-04-10T16:16:24Z,No,Marion,39.8266,-86.11756
+,,Marion County Public Health,3838 N Rural St,Indianapolis,IN,46205,,,317-221-2045,No,2018-04-10T16:16:24Z,No,Marion,39.826542,-86.117257
 Trasey,Graham,"Indianapolis Fire Department/Firefighters Survive Alive, Inc.",4155 N College Ave,Indianapolis,IN,46205,,,317-327-7956,No,2016-08-10T15:34:59Z,No,,39.831429,-86.145064
 Elisiana,Crosby,Brownsburg Police Department,31 N Green St,Brownsburg,IN,46112,ecrosby@brownsburgpolice.org,,317-852-1109 x 9498,No,2023-08-25T15:13:01Z,No,,39.843671,-86.396448
 ,,Reid Health Family Birthing Center,1100 Reid Pkwy,Richmond,IN,47374,Rylie.watkins@reidhealth.org,,765-983-3000,No,2018-04-10T18:48:07Z,Yes,,39.864732,-84.884287
@@ -826,23 +925,22 @@ Lanny,Mitchell,Lebanon Fire Department Station 12,975 Lasley Dr,Lebanon,IN,46052
 Lanny,Mitchell,Lebanon Fire Department Station 11,18 Anderson Ln,Lebanon,IN,46052,,,765-482-8832,No,2018-04-10T14:43:59Z,No,,40.07611,-86.46786
 Janine,Zee-Cheng,Witham Health Services,2705 N Lebanon St,Lebanon,IN,46052,,,765-485-8900,No,2021-04-29T12:33:38Z,No,,40.077489,-86.473264
 Amanda,Arnold,Community Hospitals Anderson,1515 N Madison Ave,Anderson,IN,46011,,,765-298-5164,No,2018-04-09T15:09:22Z,No,,40.1303,-85.69409
+,,Community Hospital Anderson,1515 N Madison Ave.,1515 N Madison Ave.,IN,46011,,,317-478-4958,No,2025-04-09T14:32:00Z,No,,40.130525,-85.693359
 Elizabeth,Hansard,Open Door Health Services,2600 W White River Blvd,Muncie,IN,47303,,,765-286-7000 E: 4161,No,2023-10-16T12:16:48Z,No,,40.187042,-85.417673
 Elizabeth,Hansard,Open Door Health Services,333 S Madison St,Muncie,IN,47305,,,765-286-7000 E: 4161,No,2023-10-16T12:14:33Z,No,,40.191272,-85.382276
 Erin,Jenkins,IU Health Ball Memorial Hospital,2401 W University Ave,Muncie,IN,47303,ejenkins1@iuhealth.org,,765-741-2912,No,2023-01-23T16:59:32Z,No,,40.196768,-85.414646
 Lorra,Archibald,Healthy Communities of Clinton County,1458 Oak St,Frankfort,IN,46041,,,765-659-6063,No,2018-04-10T13:50:49Z,No,,40.26895,-86.51219
 Andrea,Mamaril,IU Health Tipton,1000 S Main St,Tipton,IN,46072,,,765-675-0938,No,2018-04-10T13:57:53Z,No,Tipton,40.27183,-86.04232
-Teresa Jones and,Thomas Sholty,IU Health Arnett,5165 McCarty Ln,Lafayette,IN,47905,,,765-838-4670,No,2016-08-10T15:36:50Z,No,Tippecanoe,40.4006,-86.805046
+,,Warren County Health Department,417 N. High St.,West Lebanon,IN,47991,,,765-764-5855,No,2025-04-09T17:49:33Z,No,,40.279502,-87.385836
+,,IU Health Arnett,5165 McCarty Ln,Lafayette,IN,47905,,,765-838-4670,No,2016-08-10T15:36:50Z,No,Tippecanoe,40.400736,-86.80662
 Jordon,Meyers,Phoenix Paramedic Solutions,3535 McCarty Ln,Lafayette,IN,47905,jmeyers@phoenixparamedics.com,,765-448-4327,No,2022-04-21T14:08:11Z,No,,40.401248,-86.852299
 Jordan,Meyers,Phoenix Paramedic Solutions,3535 McCarty Ln,Lafayette,IN,47905,jmeyers@phoenixparamedics.com,,765-448-4327,No,2022-08-11T16:38:47Z,No,,40.401248,-86.852299
+,,West Lafayette Fire Department,300 North St.,West Lafayette,IN,47906,,,765-775-5175,No,2025-04-09T14:30:55Z,No,,40.425949,-86.908585
 Shelly,Tansey,Franciscan Health Lafayette Central,1501 Hartford St,Lafayette,IN,47904,,,765-449-5133,No,2018-04-10T13:25:11Z,No,,40.4271,-86.88098
 Thomas,Sholty,Connection Point Church,2541 Cumberland Ave,West Lafayette,IN,47906,,,765-463-0956,No,2018-04-09T15:10:38Z,No,,40.4596,-86.90301
 Barbra,Hilton,Family Service Association,618 S Main St,Kokomo,IN,46901,,,765-457-9313 ext 119,No,2018-04-09T18:11:54Z,No,,40.48084,-86.13077
 Doug,Jentes,Grant County Sheriff's Department,214 W 4th St,Marion,IN,46952,,,765-668-8168,No,2018-04-10T13:48:25Z,No,Grant,40.55814,-85.66183
 Carolyn,Burbank,Marion General Hospital,441 N Wabash Ave,Marion,IN,46952,chelsea.lynch@mgh.net,,765-660-6860,No,2016-08-10T15:59:33Z,No,,40.564098,-85.666275
-Sharon,Hartwell,IU Health White Memorial Hospital,720 S 6th St,Monticello,IN,47960,,,574-583-5152,No,2016-08-10T15:46:23Z,No,White,40.735563,-86.775659
-Ryan Hahn or,Nick Green,Monticello Fire Department,911 W South St,Monticello,IN,47960,,,574-583-6401,No,2021-11-02T15:15:58Z,No,,40.737063,-86.776589
-Joe,Nies,Cass County Sheriff's Office,100 Court Park,Logansport,IN,46947,joe.nies@co.cass.in.us,,574-753-6293,No,2023-01-25T16:42:27Z,No,,40.755213,-86.366929
-Joetta,Payne,"Duke's Health System, LLC",275 W 12th St,Peru,IN,46970,,,765-472-8020,No,2018-04-09T18:09:23Z,No,,40.75684,-86.08247
 Stephanie,Farley,Winneshiek Medical Center,901 Montgomery Street,Decorah,IA,52101,,,(563) 387-3030,No,2017-08-02T15:16:44Z,No,,,
 Kacy,Jungers,O'Brien County Public Health,155 S Hayes Street,Primghar,IA,51245,kjungers@obriencounty.org,,712 957-0105,No,2017-08-02T15:08:57Z,No,,40.714276,-94.233219
 Jessica,Goben,Lucas County Health Center,1200 N 7th Street,Chariton,IA,50049,jgoben@lchcia.com,,641-774-3232,No,2017-07-24T18:29:55Z,No,,41.02776,-93.30323
@@ -933,6 +1031,7 @@ Holly Fritter,,SEK Multi-County Health Department Fort Scott Location,524 S lowm
 Chad,Reaves,Ida Police Department,2 W Jackson Ave,Iola,KS,66749,,,620 365-4960,No,2023-02-21T13:48:41Z,No,,37.923394,-95.404707
 Jessica Chappel,,Kearny County Hospital,500 N Thorpe St,Lakin,KS,67860,,,620-355-1521,No,2013-10-30T19:10:43Z,No,Ford,37.946584,-101.251437
 Mike,Racy,Kansas Highway Patrol Troop E,2222 US-50 E Branch,Garden City,KS,67846,mracy@khp.ks.gov,,620-276-3201,No,2013-10-30T18:51:39Z,No,"Greeley, Wichita, Scott, Lane, Ness, Rush, Hamilton, Kearney, Finney, Hodgeman, Pawnee, Morton, Stanton, Grant, Haskell, Gray, Ford, Edwards, Kiowa, Commanche, Clark, Meade, Seward, and Stevens",37.96066,-100.84484
+,,Garden City Police Department,304 N. 9th St.,Garden City,KS,67846,,,620-276-1300,Yes,2025-05-19T15:04:08Z,Yes,,37.967737,-100.875991
 Carina Hernandez; Katrina Lowry,,Russell Child Development Center,2735 N Jennie Barker Road,Garden City,KS,67846,carina.hernandez@rcdc4kids.org; katrina.lowry@rcdc4kids.org,,620-275-0291,No,2024-07-08T15:02:59Z,No,,37.990906,-100.832731
 Shannon Snyder,,Stafford County Health Department,610 E 1st street,St John,KS,67576,,,620-549-3504,No,2014-05-01T14:37:44Z,No,Stafford,37.999227,-98.753582
 Morgan Gonzalez,,Health Ministries Clinic,720 Medical Center Dr,Newton,KS,67114,mgonzalez@hmcks.org,,316-283-6103,Yes,2023-11-14T21:00:58Z,Yes,,38.023183,-97.333431
@@ -985,7 +1084,6 @@ Lt. Robert Meyers,,Mission Police Department,6090 Woodson St,Mission,KS,66202,ca
 ,,Junction City Police Department,210 E 9th St,Junction City,KS,66441,emily.olson@jcks.com,,785-762-5912,No,2024-12-02T21:04:42Z,No,,39.031738,-96.826826
 Francine Collub,,Cotton O'Neil Pediatrics,4100 SW 15th St,Topeka,KS,66604,carseat@stormontvail.org,,785 357-2860,No,2022-09-13T02:22:09Z,No,,39.041746,-95.726788
 ,,Ottawa County Fire District #4,584 N. 180th Rd,Bennington,KS,67422,ocrfd4emsad@gmail.com,,785-488-3768,No,2024-12-02T21:06:58Z,No,,39.042716,-97.592968
-Cyndii Callaway,,Kansas Traffic Safety Resource Center,1207 SW Executive Dr,Topeka,KS,66615,tkimberlin@dccca.org,,800-416-2522,No,2020-10-30T19:02:32Z,No,,39.044722,-95.769261
 David,"Finan, Jr.",Covington Police Department,One Police Memorial Drive,Covington,KY,41014,,,859-292-2252,No,2022-09-13T13:43:51Z,No,Covington residents,,
 Angela,Mouser,Crescent Springs/Villa Hills Fire & EMS,777 Overlook Dr.,Crescent Springs,KY,41017,,,859-341-3840,No,2022-09-13T13:44:10Z,No,"Kenton, Boone, Campbell, Hamilton Co., OH",,
 Brad,Degenhardt,Lakeside Park/Crestview Hills Police,40 Towne Center Boulevard,Crestview Hills,KY,41017,,,859-331-5368,No,2022-09-13T13:44:27Z,No,Kenton County,,
@@ -1456,7 +1554,6 @@ Jacqueline Lambert,,Let’s Talk Baby Café,100 Front Street Ext,Indianola,MS,38
 Michael Walker,,Columbus Fire & Rescue,72 Airline Rd,Columbus,MS,39702,,,662-244-3500,No,2021-07-26T21:24:19Z,No,,33.490007,-88.392961
 ,,Tupelo Family Resource Center,2901 S Eason Blvd,Tupelo,MS,38804,,,662-269-2665,No,2017-03-09T15:19:20Z,No,,34.234982,-88.689278
 ,,Desoto County Sheriff Dept,7280 Craft-Goodman Rd,Olive Branch,MS,38654,,,(662)429-1470,No,2017-02-22T20:39:26Z,No,,34.974918,-89.861198
-Elizabeth,Baker,South Central MO Community Action Agency,RR2 PO BOX 16,Doniphan,MO,65806,ebaker@smcmcaa.org,,573 996-5059,No,2019-08-08T20:18:07Z,No,,,
 Grant,Peters,Logan - Rogersville Fire Protection Department,1675 N Missouri blvd,Strafford,MO,65757,,,4177534265,No,2019-12-03T18:13:18Z,No,,,
 Renee,Hawkins,CoxHealth North,1423 N Jefferson Ave,Springfield,MO,65802,,,417 655-0068,No,2021-11-19T17:04:04Z,No,,,
 Grant,Peters,Logan Rogersville Fire Protection Department,1675 N Missouri BLVD,Rogersville,MO,65742,,,417 753-4265,No,2020-01-06T19:39:39Z,No,,,
@@ -1468,6 +1565,7 @@ Katie Lindsey,,Bollinger County Health Center,107 State Highway 51 N,Marble Hill
 Kenna Frike,,Gasconde County Health Dept.,303 N. 1st St,Owensville,MO,65066,info@gasconadecountyhealth.com,,573-486-3129,No,2023-12-19T21:05:09Z,No,,,
 Kenna Fricke,,Gasconade County Health Dept.,303 N. 1st Street,Owensville,MO,65066,info@gasconadecountyhealth.com,,573-486-3129,No,2023-12-19T21:10:54Z,No,,,
 Kenna Fricke,,Gasconade County Health Dept.,303 N. 1st Street,Owensville,MO,65066,info@gasconadecountyhealth.com,,573-486-3129,No,2023-12-19T21:10:55Z,No,,,
+Elizabeth,Baker,South Central MO Community Action Agency,RR2 PO BOX 16,Doniphan,MO,65806,ebaker@smcmcaa.org,,573 996-5059,No,2019-08-08T20:18:07Z,No,,,
 Vicki,Pyette,Pemiscot County Initiative Network,711 W 3rd St,Caruthersville,MO,63830,bjames@cosmowireless.net,,573-333-5301,No,2013-10-31T13:53:57Z,No,"Pemiscot, Dunklin, New Madrid",36.196175,-89.660796
 Carol,Waggoner,Dunklin County Health Department,410 Teaco Rd,Kennett,MO,63857,,,573-888-9008,No,2013-10-30T20:26:33Z,No,Dunklin,36.233701,-90.042087
 Kristi,Smith,Dunkin Stoddard Caring Council,311 Kennett St,Kennett,MO,63857,ksmith@caringcouncil.org,,573 717-1158,No,2021-06-23T14:28:12Z,No,,36.234095,-90.05584
@@ -2400,6 +2498,7 @@ Gregory,Chito,North Smithfield Police Department,575 Smithfield Rd,North Smithfi
 ,,Hampton County Sherrif's Office,411 Cemetery Rd,Varnville,SC,29944,,,803-914-2200,No,2025-01-08T21:08:26Z,No,,32.862512,-81.08871
 ,,North Charleston City Hall,2500 City Hall Ln,North Charleston,SC,29406,,,843-740-2647,No,2023-01-30T22:15:29Z,No,,32.87707,-80.012174
 ,,Colleton County Sheriffs Department,394 Mable T. Willis Blvd,Walterboro,SC,29488,,,843-549-2211,No,2024-04-22T14:28:17Z,No,,32.881634,-80.693455
+,,Hanahan FIre Department,5826 Campbell St,Hanahan,SC,29410,,,843-327-9915,No,2025-03-14T13:25:03Z,No,,32.902792,-80.007621
 ,,Joint Base Charleston Fire Dept,313 N Graves Ave,Charleston,SC,29404,,,843-963-3777,No,2023-10-20T16:54:35Z,No,,32.903376,-80.053477
 ,,Berkeley County First Steps,1007 Bankton Circle,Hanahan,SC,29140,,,843-202-0739,No,2024-11-12T20:59:03Z,No,,32.912247,-79.988789
 ,,Colleton County First Steps,500 Forest Circle,Walterboro,SC,29488,,,843-782-3634,No,2024-04-22T14:30:48Z,No,,32.917408,-80.680347
@@ -2450,8 +2549,10 @@ Gregory,Chito,North Smithfield Police Department,575 Smithfield Rd,North Smithfi
 ,,Tandem Health,370 S Pike W,Sumter,SC,29150,,,803-774-4500 ext.587,No,2023-05-30T12:08:48Z,No,,33.947558,-80.359083
 ,,Shaw Air Force Base Fire and Emergency Center,452 Killian Avenue,Shaw Air Force Base,SC,29152,,,803-895-1108,No,2024-09-09T12:02:38Z,No,,33.970367,-80.479151
 ,,Shaw Air Force Base Fire and Emergency Center,452 Killran Ave,Shaw Air Force Base,SC,29152,,,803-895-1108,No,2024-04-22T14:24:52Z,No,,33.973106,-80.469078
+,,Lexington County EMS,407 Ballpark Rd,Lexington,SC,29072,,,803-201-4197,No,2025-03-14T13:19:01Z,No,,33.976977,-81.283047
 ,,Lexington County Sheriff Department,521 Gibson Rd,Lexington,SC,29072,,,803-772-4158,No,2023-01-30T18:58:14Z,No,,33.97927,-81.250456
 ,,Lexington Police Department,111 Maiden Ln,Lexington,SC,29072,,,803-359-6260,No,2023-09-20T00:39:37Z,No,,33.980186,-81.237384
+,,The Nurturing Center,1332 Pickens Street,Richland,SC,29201,,,803-771-4160,No,2025-03-14T13:20:12Z,No,,34.005674,-81.02791
 ,,Lexington County Health Services District (Dept of Public Safety),115 Hospital Dr W,West Columbia,SC,29169,,,803-791-2732,No,2023-09-20T13:55:19Z,No,,34.008349,-81.116745
 ,,Saluda County DHEC,793 Columbia Hwy,Saluda,SC,29138,,,803-445-7842,No,2023-09-20T13:35:04Z,No,,34.009783,-81.744853
 ,,SC DPH,2100 Bull St,Columbia,SC,29201,,,803-543-8576,No,2023-01-30T19:20:40Z,No,,34.014262,-81.032491
@@ -2474,9 +2575,6 @@ Gregory,Chito,North Smithfield Police Department,575 Smithfield Rd,North Smithfi
 ,,Lee County EMS,130 Industrial Blvd.,Bishopville,SC,29010,,,803-229-0185,No,2024-09-09T11:49:40Z,No,,34.195394,-80.209956
 ,,Safe Kids Pee Dee/Coastal/McLeod Regional Medical Center,555 E Cheves St,Florence,SC,29506,,,843-777-5021,No,2023-01-31T21:37:59Z,No,,34.197138,-79.758224
 ,,Lugoff Fire Department,892 Highway 1 S,Lugoff,SC,29078,,,803-438-2553,No,2023-01-30T18:59:17Z,No,,34.227287,-80.678451
-,,Jones Insurance Agency,728 Dewitt Drive,Lugoff,SC,29078,,,803-669-3082,No,2024-04-22T14:29:39Z,No,,34.233624,-80.670779
-,,Camden Fire Department,1000 Lyttleton St,Camden,SC,29020,,,803-425-6042,No,2023-01-30T18:51:18Z,No,,34.244254,-80.601616
-,,2nd Chance Fellowship,1824 Jefferson Davis Highway,Camden,SC,29020,,,803-669-3082,No,2024-04-22T14:28:54Z,No,,34.26585,-80.568512
 April,Flemming,Family Resource Network,Pugsley Center 201,Brookings,SD,57007,,,1-800-354-8238,No,2017-08-07T20:49:38Z,No,,,
 Kristy,Breske,Sanford Clinic Webster,101 Peabody Drive,Webster,SD,57274,,,605-345-4141,No,2017-08-07T20:53:28Z,No,,42.546619,-83.212217
 Amy,Heisinger,Sanford Children's CHILD Services,1115 W 41st Street,Sioux Falls,SD,57105,,,605-312-8370,No,2017-08-07T20:50:17Z,No,,43.514825,-96.73904
@@ -2798,8 +2896,8 @@ CPS Coordinator,,Friendship Fire Company,627 South Pleasant Valley Rd,Winchester
 CPS Coordinator,,Rouss Fire Company,3 South Braddock St,Winchester,VA,22601,winfrd@winchesterva.gov,,540-662-2298,No,2021-03-25T12:07:58Z,No,,,
 CPS Coordinator,,Shawnee Fire Company,2210 Valor Drive,Winchester,VA,22601,winfrd@winchesterva.gov,,540-662-2298,No,2021-03-25T12:07:13Z,No,,,
 CPS Coordinator,,South End Fire Company,17 West Monmouth St,Winchester,VA,22601,winfrd@winchesterva.gov,,540-662-2298,No,2021-03-25T12:10:15Z,No,,,
-Keith,Boyd,Fort Eustis Fire and EMS,648 Washington Blvd,Fort Eustis,VA,23604,,,757-878-4281,No,2021-03-25T11:40:56Z,No,,,
 McRae,Brittingham,Aunt McRae's LLC,1909 Huguenot Rd,Chesterfield,VA,23235,support@auntmcrae.com,,805-691-2778,No,2021-03-25T12:12:19Z,No,,,
+Keith,Boyd,Fort Eustis Fire and EMS,648 Washington Blvd,Fort Eustis,VA,23604,,,757-878-4281,No,2021-03-25T11:40:56Z,No,,,
 Harold,Shreves,Prince George PD,6600 Courthouse Rd.,Prince George,VA,23875,,,804-733-2773,No,2020-05-20T13:41:04Z,No,Prince George,,
 Officer on Duty,,Richmond Fire Station #14,2934 Hawthorne Rd.,Richmond,VA,23222,,,804-646-0745,No,2021-08-20T15:24:36Z,No,"Henrico, Chesterfield",,
 Officer on Duty,,Richmond Fire Station #19,311 Maple Ave.,Richmond,VA,23226,,,804-646-1701,No,2021-08-20T15:25:37Z,No,"Henrico, Chesterfield",,
@@ -2877,12 +2975,12 @@ Bob,Wall,Skyline Criminal Justice,5291 Main St,Stephens City,VA,22655,ubucklup@e
 Neal,White,Berryville Police Department,101 Chalmers Ct,Berryville,VA,22611,,,540-955-3863,No,2020-05-20T14:40:46Z,No,,39.148395,-77.9811
 Berti,Connor,Arlington fire,12131 28th Pl NE,Lake Stevens,WA,98258,,,360-435-3311,No,2022-01-04T19:43:23Z,No,,,
 Jenny,McCandless,Buckled Up Babies,1111 Child Passenger Safety,Snoqualmie,WA,98065,,,317-431-6133,No,2022-09-26T13:16:04Z,No,,,
-Sue,Emery,The Car Seat Lady,1111 Child Passenger Safety,Seattle,WA,98124,,,206-619-2871,No,2022-09-26T13:20:28Z,No,"King, Pierce, Snohomish",,
 Matt,Treadway,Car Seat Technician,12835 Newcastle Way #200,Newcastle,WA,98056,matthew.treadway@kingcounty.gov,,206-552-5545,No,2022-02-22T21:03:48Z,No,,,
-,,Seattle Childrens Hospital,1111 Child Passenger Safety,Seattle,WA,98115,,,xxx-xxx-xxxx,No,2022-09-26T13:19:22Z,No,King,,
-Kay,Brick,Car Seat Technician,XXXXXXXXXXXXXXX,Redmond,WA,98053,kay.brick@hotmail.com,,425-444-4436,No,2023-01-04T15:23:38Z,No,,,
 Jessica,McGregor,Child Passenger Safety Technician,XXXXXXXXXXXXXXX,Hooper,WA,99333,,,509-595-8070,No,2023-01-04T15:27:08Z,No,,,
+Kay,Brick,Car Seat Technician,XXXXXXXXXXXXXXX,Redmond,WA,98053,kay.brick@hotmail.com,,425-444-4436,No,2023-01-04T15:23:38Z,No,,,
+Sue,Emery,The Car Seat Lady,1111 Child Passenger Safety,Seattle,WA,98124,,,206-619-2871,No,2022-09-26T13:20:28Z,No,"King, Pierce, Snohomish",,
 Fleur,Coe,Car Seat Technician,XXXXXXXXXXXXXXX,n/a,WA,98122,fleur.cpst@gmail.com,,n/a,No,2023-01-04T15:22:54Z,No,,,
+,,Seattle Childrens Hospital,1111 Child Passenger Safety,Seattle,WA,98115,,,xxx-xxx-xxxx,No,2022-09-26T13:19:22Z,No,King,,
 Dara,Higham,Child Passenger Safety Technician,XXXXXXXXXXXXXXX,Dayton,WA,99328,dara.higham@gmail.com,,509-460-3017,No,2023-01-04T15:25:07Z,No,,,
 Jamie,Willaims,Child Passenger Safety Technician,123 Car Seat Lane,Walla Walla,WA,99362,jamiesporleder@yahoo.com,,n/a,No,2022-12-30T21:48:53Z,No,,,
 Julie,Wilcox,Simply Safe LLC,1111 Child Passenger Safety,Peshastin,WA,98847,,,509-262-2630,No,2022-09-26T13:16:50Z,No,,,
@@ -2979,8 +3077,8 @@ Logan,McIntyre,WVU Medicine Jefferson Medical Center,300 S. Preston St,Ranson,WV
 Laurea,Ellis,Wood County DHHR,400 5th St,Parkersburg,WV,26102,,,304-420-2560,No,2021-10-26T18:40:37Z,No,,,
 Sheila,Perry,MountainHeart Community Services,33 Mountain Heart Ln,Matheny,WV,24860,,,304-682-8271,No,2023-02-28T20:50:25Z,No,,,
 Amy,Dowdy,Monroe County Early Headstart,Route 1 Box 97 B,Lindside,WV,24951,,,304-753-6000,No,2020-04-10T12:06:49Z,No,,,
-Dora,McDuffie,Preston County Family Resource Network,105 W High Street,Kingwood,WV,26537,,,304-329-1965,No,2021-10-06T18:44:38Z,No,,,
 Connie,Kincaid,St Josephs Hospital Center for Women's Health,100 W. Main St,Buckannon,WV,26201,connie.kincaid@wvumedicine.org,,304-460-7943,No,2023-09-26T15:53:49Z,No,,,
+Dora,McDuffie,Preston County Family Resource Network,105 W High Street,Kingwood,WV,26537,,,304-329-1965,No,2021-10-06T18:44:38Z,No,,,
 Amy,Haskins,Jackson Co Health Dept.,504 S. Church St,Ripley,WV,25271,amy.r.haskins@wv.gov,,304-372-2634,No,2022-11-23T12:10:16Z,No,,,
 Dora,McDuffie,Preston County Family Support Center,105 W. High St,Preston,WV,26537,dkzuchowski1@gmail.com,,304-329-1968,No,2022-12-08T18:34:13Z,No,,,
 Kalie,Perdue,WVU Medical Center,1 Medical Center Dr,Morgantown,WV,26506,wvumchildrensinjuryprevention@wvumedicine.org,,304-554-8519,No,2022-12-07T13:26:45Z,No,,,
