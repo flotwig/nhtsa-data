@@ -193,8 +193,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8304,2014,CHEVROLET,SUBURBAN 1500,2014 Chevrolet Suburban 1500 SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,59,3,1,2014/CHEVROLET/SUBURBAN 1500/2014 Chevrolet Suburban 1500 SUV RWD.png
 8301,2014,CHEVROLET,TAHOE,2014 Chevrolet Tahoe SUV 4WD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,91,4,1,2014/CHEVROLET/TAHOE/2014 Chevrolet Tahoe SUV 4WD.png
 8302,2014,CHEVROLET,TAHOE,2014 Chevrolet Tahoe SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,91,4,1,2014/CHEVROLET/TAHOE/2014 Chevrolet Tahoe SUV RWD.png
-8024,2014,CHEVROLET,TRAVERSE,2014 Chevrolet Traverse SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,543,7,2,2014/CHEVROLET/TRAVERSE/2014 Chevrolet Traverse SUV AWD.png
-8025,2014,CHEVROLET,TRAVERSE,2014 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,543,7,2,2014/CHEVROLET/TRAVERSE/2014 Chevrolet Traverse SUV FWD.png
+8024,2014,CHEVROLET,TRAVERSE,2014 Chevrolet Traverse SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,544,7,2,2014/CHEVROLET/TRAVERSE/2014 Chevrolet Traverse SUV AWD.png
+8025,2014,CHEVROLET,TRAVERSE,2014 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,544,7,2,2014/CHEVROLET/TRAVERSE/2014 Chevrolet Traverse SUV FWD.png
 8294,2014,CHEVROLET,VOLT,2014 Chevrolet Volt 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,Optional,Optional,92,0,1,2014/CHEVROLET/VOLT/2014 Chevrolet Volt 4 DR FWD.png
 8177,2014,CHRYSLER,200,2014 Chrysler 200 4 DR FWD,,4,4,4,3,3,5,4,2,4,5,4,Not Rated,0.111,0,No Tip,1,Standard,No,No,191,1,0,2014/CHRYSLER/200/2014 Chrysler 200 4 DR FWD.png
 8373,2014,CHRYSLER,200,2014 Chrysler 200 C FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,191,1,0,2014/CHRYSLER/200/2014 Chrysler 200 C FWD.png
@@ -226,14 +226,14 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8252,2014,FORD,E-350 P15,2014 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,21,13,0,2014/FORD/E-350 P15/2014 Ford E-350 P15 VAN RWD.png
 8244,2014,FORD,EDGE,2014 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,366,3,1,2014/FORD/EDGE/2014 Ford Edge SUV AWD.png
 8245,2014,FORD,EDGE,2014 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,366,3,1,2014/FORD/EDGE/2014 Ford Edge SUV FWD.png
-8246,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,1999,15,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x4.png
-8247,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,1999,15,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x2.png
+8246,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2000,15,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x4.png
+8247,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2000,15,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x2.png
 8253,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,68,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x4.png
 8254,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,68,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x2.png
 8255,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,68,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x2.png
 8256,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,68,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x4.png
-8248,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1621,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV FWD.png
-8249,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1621,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV AWD.png
+8248,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1622,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV FWD.png
+8249,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1622,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV AWD.png
 8257,2014,FORD,F-150 REGULAR CAB,2014 Ford F-150 Regular Cab PU/RC 4x2,,4,4,4,3,5,5,Not Rated,5,0,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1363,7,2,2014/FORD/F-150 REGULAR CAB/2014 Ford F-150 Regular Cab PU_RC 4x2.png
 8258,2014,FORD,F-150 REGULAR CAB,2014 Ford F-150 Regular Cab PU/RC 4x4,,4,4,4,3,5,5,Not Rated,5,0,5,3,Not Rated,0.228,0,No Tip,4,Standard,No,No,1363,7,2,2014/FORD/F-150 REGULAR CAB/2014 Ford F-150 Regular Cab PU_RC 4x4.png
 8259,2014,FORD,F-150 SUPER CREW,2014 Ford F-150 Super Crew PU/CC 4x4,,4,3,4,3,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,1363,7,2,2014/FORD/F-150 SUPER CREW/2014 Ford F-150 Super Crew PU_CC 4x4.png
@@ -252,8 +252,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8415,2014,FORD,F-350 SUPER CREW,2014 Ford F-350 Super Crew PC/CC 4x4,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,98,6,1,2014/FORD/F-350 SUPER CREW/2014 Ford F-350 Super Crew PC_CC 4x4.png
 8412,2014,FORD,F-350 SUPERCAB,2014 Ford F-350 Supercab PU/EC 4x2,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,98,6,1,2014/FORD/F-350 SUPERCAB/2014 Ford F-350 Supercab PU_EC 4x2.png
 8413,2014,FORD,F-350 SUPERCAB,2014 Ford F-350 Supercab PU/EC 4x4,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,98,6,1,2014/FORD/F-350 SUPERCAB/2014 Ford F-350 Supercab PU_EC 4x4.png
-8015,2014,FORD,FIESTA,2014 Ford Fiesta 4 DR FWD,,4,4,5,4,2,4,2,5,2,2,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,498,7,1,2014/FORD/FIESTA/2014 Ford Fiesta 4 DR FWD.png
-8016,2014,FORD,FIESTA,2014 Ford Fiesta 5 HB FWD,,4,4,5,4,2,4,2,5,2,2,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,498,7,1,2014/FORD/FIESTA/2014 Ford Fiesta 5 HB FWD.png
+8015,2014,FORD,FIESTA,2014 Ford Fiesta 4 DR FWD,,4,4,5,4,2,4,2,5,2,2,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,498,7,2,2014/FORD/FIESTA/2014 Ford Fiesta 4 DR FWD.png
+8016,2014,FORD,FIESTA,2014 Ford Fiesta 5 HB FWD,,4,4,5,4,2,4,2,5,2,2,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,498,7,2,2014/FORD/FIESTA/2014 Ford Fiesta 5 HB FWD.png
 8242,2014,FORD,FLEX,2014 Ford Flex SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,No,242,4,0,2014/FORD/FLEX/2014 Ford Flex SUV AWD.png
 8243,2014,FORD,FLEX,2014 Ford Flex SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,No,242,4,0,2014/FORD/FLEX/2014 Ford Flex SUV FWD.png
 8232,2014,FORD,FOCUS,2014 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2609,12,5,2014/FORD/FOCUS/2014 Ford Focus 5 HB FWD.png
@@ -307,12 +307,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8318,2014,GMC,YUKON DENALI XL 1500,2014 GMC Yukon Denali XL 1500 SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,77,3,1,2014/GMC/YUKON DENALI XL 1500/2014 GMC Yukon Denali XL 1500 SUV RWD.png
 8315,2014,GMC,YUKON XL 1500,2014 GMC Yukon XL 1500 SUV 4WD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,77,3,1,2014/GMC/YUKON XL 1500/2014 GMC Yukon XL 1500 SUV 4WD.png
 8316,2014,GMC,YUKON XL 1500,2014 GMC Yukon XL 1500 SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,77,3,1,2014/GMC/YUKON XL 1500/2014 GMC Yukon XL 1500 SUV RWD.png
-8210,2014,HONDA,ACCORD,2014 Honda Accord 2 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,953,4,3,2014/HONDA/ACCORD/2014 Honda Accord 2 DR FWD.png
-8211,2014,HONDA,ACCORD,2014 Honda Accord 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,953,4,3,2014/HONDA/ACCORD/2014 Honda Accord 4 DR FWD.png
+8210,2014,HONDA,ACCORD,2014 Honda Accord 2 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,954,4,3,2014/HONDA/ACCORD/2014 Honda Accord 2 DR FWD.png
+8211,2014,HONDA,ACCORD,2014 Honda Accord 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,954,4,3,2014/HONDA/ACCORD/2014 Honda Accord 4 DR FWD.png
 8212,2014,HONDA,ACCORD HYBRID,2014 Honda Accord Hybrid 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,955,5,4,2014/HONDA/ACCORD HYBRID/2014 Honda Accord Hybrid 4 DR FWD.png
 8464,2014,HONDA,ACCORD PLUG IN HYBRID,2014 Honda Accord Plug In Hybrid 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Optional,959,5,5,2014/HONDA/ACCORD PLUG IN HYBRID/2014 Honda Accord Plug In Hybrid 4 DR FWD.png
-8221,2014,HONDA,CIVIC,2014 Honda Civic 2 DR FWD,,4,4,4,4,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,280,2,2,2014/HONDA/CIVIC/2014 Honda Civic 2 DR FWD.png
-8222,2014,HONDA,CIVIC,2014 Honda Civic 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,280,2,2,2014/HONDA/CIVIC/2014 Honda Civic 4 DR FWD.png
+8221,2014,HONDA,CIVIC,2014 Honda Civic 2 DR FWD,,4,4,4,4,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,281,2,2,2014/HONDA/CIVIC/2014 Honda Civic 2 DR FWD.png
+8222,2014,HONDA,CIVIC,2014 Honda Civic 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,281,2,2,2014/HONDA/CIVIC/2014 Honda Civic 4 DR FWD.png
 8470,2014,HONDA,CIVIC CNG,2014 Honda Civic Cng 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,277,2,2,2014/HONDA/CIVIC CNG/2014 Honda Civic Cng 4 DR FWD.png
 8223,2014,HONDA,CIVIC HYBRID,2014 Honda Civic Hybrid 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,Optional,Optional,282,2,3,2014/HONDA/CIVIC HYBRID/2014 Honda Civic Hybrid 4 DR FWD.png
 8215,2014,HONDA,CR-V,2014 Honda CR-V SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,578,1,2,2014/HONDA/CR-V/2014 Honda CR-V SUV FWD.png
