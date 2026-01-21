@@ -235,10 +235,10 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7484,2013,FORD,E-350,2013 Ford E-350 WAGON RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350/2013 Ford E-350 WAGON RWD.png
 7325,2013,FORD,E-350 P12,2013 Ford E-350 P12 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350 P12/2013 Ford E-350 P12 VAN RWD.png
 7326,2013,FORD,E-350 P15,2013 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350 P15/2013 Ford E-350 P15 VAN RWD.png
-7014,2013,FORD,EDGE,2013 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,2404,2,1,2013/FORD/EDGE/2013 Ford Edge SUV AWD.png
-7015,2013,FORD,EDGE,2013 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,2404,2,1,2013/FORD/EDGE/2013 Ford Edge SUV FWD.png
-7378,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2714,17,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x2.png
-7379,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2714,17,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x4.png
+7014,2013,FORD,EDGE,2013 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,2405,2,1,2013/FORD/EDGE/2013 Ford Edge SUV AWD.png
+7015,2013,FORD,EDGE,2013 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,2405,2,1,2013/FORD/EDGE/2013 Ford Edge SUV FWD.png
+7378,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2714,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x2.png
+7379,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2714,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x4.png
 7335,2013,FORD,EXPEDITION,2013 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,89,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition SUV 4x4.png
 7336,2013,FORD,EXPEDITION,2013 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,89,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition SUV 4x2.png
 7337,2013,FORD,EXPEDITION,2013 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,89,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition EXTENDED SUV 4x2.png
@@ -267,11 +267,11 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7346,2013,FORD,FIESTA,2013 Ford Fiesta 5 HB FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,663,3,3,2013/FORD/FIESTA/2013 Ford Fiesta 5 HB FWD.png
 7018,2013,FORD,FLEX,2013 Ford Flex SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,No,572,6,0,2013/FORD/FLEX/2013 Ford Flex SUV FWD.png
 7019,2013,FORD,FLEX,2013 Ford Flex SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,No,572,6,0,2013/FORD/FLEX/2013 Ford Flex SUV AWD.png
-7333,2013,FORD,FOCUS,2013 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2095,10,4,2013/FORD/FOCUS/2013 Ford Focus 5 HB FWD.png
-7334,2013,FORD,FOCUS,2013 Ford Focus 4 DR FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2095,10,4,2013/FORD/FOCUS/2013 Ford Focus 4 DR FWD.png
+7333,2013,FORD,FOCUS,2013 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2095,11,4,2013/FORD/FOCUS/2013 Ford Focus 5 HB FWD.png
+7334,2013,FORD,FOCUS,2013 Ford Focus 4 DR FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2095,11,4,2013/FORD/FOCUS/2013 Ford Focus 4 DR FWD.png
 7475,2013,FORD,FOCUS BEV,2013 Ford Focus BEV 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,No,No,2157,13,5,2013/FORD/FOCUS BEV/2013 Ford Focus BEV 5 HB FWD.png
-7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1919,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
-7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1919,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
+7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1921,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
+7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1921,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
 7477,2013,FORD,FUSION ENERGI,2013 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1775,18,6,2013/FORD/FUSION ENERGI/2013 Ford Fusion Energi 4 DR FWD.png
 7478,2013,FORD,FUSION HYBRID,2013 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1860,19,6,2013/FORD/FUSION HYBRID/2013 Ford Fusion Hybrid 4 DR FWD.png
 7020,2013,FORD,MUSTANG,2013 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,269,6,0,2013/FORD/MUSTANG/2013 Ford Mustang C RWD.png
@@ -365,7 +365,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7692,2013,HYUNDAI,SANTA FE,2013 Hyundai Santa Fe SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,604,3,8,2013/HYUNDAI/SANTA FE/2013 Hyundai Santa Fe SUV AWD.png
 7531,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,174,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV FWD.png
 7693,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,174,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV AWD.png
-7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1856,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
+7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1858,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
 7140,2013,HYUNDAI,SONATA HYBRID,2013 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,104,4,7,2013/HYUNDAI/SONATA HYBRID/2013 Hyundai Sonata Hybrid 4 DR FWD.png
 7142,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,260,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV FWD.png
 7143,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.176,0,No Tip,5,Standard,No,No,260,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV AWD.png
@@ -413,8 +413,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7122,2013,KIA,OPTIMA HYBRID,2013 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,50,2,7,2013/KIA/OPTIMA HYBRID/2013 Kia Optima Hybrid 4 DR FWD.png
 7040,2013,KIA,RIO,2013 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,150,1,2,2013/KIA/RIO/2013 Kia Rio 5 HB FWD.png
 7543,2013,KIA,RIO,2013 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,150,1,2,2013/KIA/RIO/2013 Kia Rio 4 DR FWD.png
-7034,2013,KIA,SORENTO,2013 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,967,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV FWD.png
-7035,2013,KIA,SORENTO,2013 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,967,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV AWD.png
+7034,2013,KIA,SORENTO,2013 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,968,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV FWD.png
+7035,2013,KIA,SORENTO,2013 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,968,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV AWD.png
 7125,2013,KIA,SOUL,2013 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,645,3,4,2013/KIA/SOUL/2013 Kia Soul SUV FWD.png
 7123,2013,KIA,SPORTAGE,2013 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,378,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV AWD.png
 7124,2013,KIA,SPORTAGE,2013 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,378,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV FWD.png
@@ -540,8 +540,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7202,2013,MITSUBISHI,OUTLANDER SPORT,2013 Mitsubishi Outlander Sport SUV AWD,,4,4,4,4,4,5,4,5,4,4,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,67,14,1,2013/MITSUBISHI/OUTLANDER SPORT/2013 Mitsubishi Outlander Sport SUV AWD.png
 7558,2013,NISSAN,370Z,2013 Nissan 370Z 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,17,0,1,2013/NISSAN/370Z/2013 Nissan 370Z 2 DR RWD.png
 7559,2013,NISSAN,370Z ROADSTER,2013 Nissan 370Z Roadster C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,17,0,1,2013/NISSAN/370Z ROADSTER/2013 Nissan 370Z Roadster C RWD.png
-7266,2013,NISSAN,ALTIMA,2013 Nissan Altima 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.093,0,No Tip,Not Rated,Standard,No,No,2295,12,5,2013/NISSAN/ALTIMA/2013 Nissan Altima 2 DR FWD.png
-7745,2013,NISSAN,ALTIMA,2013 Nissan Altima 4 DR FWD,,5,5,5,4,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,2295,12,5,2013/NISSAN/ALTIMA/2013 Nissan Altima 4 DR FWD.png
+7266,2013,NISSAN,ALTIMA,2013 Nissan Altima 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.093,0,No Tip,Not Rated,Standard,No,No,2296,12,5,2013/NISSAN/ALTIMA/2013 Nissan Altima 2 DR FWD.png
+7745,2013,NISSAN,ALTIMA,2013 Nissan Altima 4 DR FWD,,5,5,5,4,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,2296,12,5,2013/NISSAN/ALTIMA/2013 Nissan Altima 4 DR FWD.png
 7277,2013,NISSAN,ARMADA,2013 Nissan Armada SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.219,0,No Tip,Not Rated,Standard,No,No,17,2,0,2013/NISSAN/ARMADA/2013 Nissan Armada SUV 4WD.png
 7278,2013,NISSAN,ARMADA,2013 Nissan Armada SUV RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.212,0,No Tip,Not Rated,Standard,No,No,17,2,0,2013/NISSAN/ARMADA/2013 Nissan Armada SUV RWD.png
 7279,2013,NISSAN,CUBE,2013 Nissan Cube VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.174,0,No Tip,Not Rated,Standard,No,No,3,1,1,2013/NISSAN/CUBE/2013 Nissan Cube VAN FWD.png
@@ -563,8 +563,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7565,2013,NISSAN,NV3500,2013 Nissan NV3500 Passenger Van RWD,https://static.nhtsa.gov/images/vehicles/8697_st0640_046.png,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,7,3,0,2013/NISSAN/NV3500/2013 Nissan NV3500 Passenger Van RWD.png
 7667,2013,NISSAN,NV3500,2013 Nissan NV3500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,7,3,0,2013/NISSAN/NV3500/2013 Nissan NV3500 VAN RWD.png
 7565,2013,NISSAN,NV3500 Passenger Van,2013 Nissan NV3500 Passenger Van RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,7,3,0,2013/NISSAN/NV3500 Passenger Van/2013 Nissan NV3500 Passenger Van RWD.png
-7566,2013,NISSAN,PATHFINDER,2013 Nissan Pathfinder SUV FWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,883,11,4,2013/NISSAN/PATHFINDER/2013 Nissan Pathfinder SUV FWD.png
-7698,2013,NISSAN,PATHFINDER,2013 Nissan Pathfinder SUV AWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,883,11,4,2013/NISSAN/PATHFINDER/2013 Nissan Pathfinder SUV AWD.png
+7566,2013,NISSAN,PATHFINDER,2013 Nissan Pathfinder SUV FWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,884,11,4,2013/NISSAN/PATHFINDER/2013 Nissan Pathfinder SUV FWD.png
+7698,2013,NISSAN,PATHFINDER,2013 Nissan Pathfinder SUV AWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,884,11,4,2013/NISSAN/PATHFINDER/2013 Nissan Pathfinder SUV AWD.png
 7567,2013,NISSAN,QUEST,2013 Nissan Quest VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,18,0,0,2013/NISSAN/QUEST/2013 Nissan Quest VAN FWD.png
 7289,2013,NISSAN,ROGUE,2013 Nissan Rogue SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,598,1,1,2013/NISSAN/ROGUE/2013 Nissan Rogue SUV FWD.png
 7290,2013,NISSAN,ROGUE,2013 Nissan Rogue SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,No,598,1,1,2013/NISSAN/ROGUE/2013 Nissan Rogue SUV AWD.png
@@ -604,12 +604,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7580,2013,PORSCHE,PANAMERA S HYBRID,2013 Porsche Panamera S Hybrid 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,2,1,2013/PORSCHE/PANAMERA S HYBRID/2013 Porsche Panamera S Hybrid 5 HB AWD.png
 7586,2013,PORSCHE,PANAMERA TURBO,2013 Porsche Panamera Turbo 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,3,0,2013/PORSCHE/PANAMERA TURBO/2013 Porsche Panamera Turbo 5 HB AWD.png
 7582,2013,PORSCHE,PANAMERA TURBO S,2013 Porsche Panamera Turbo S 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,3,0,2013/PORSCHE/PANAMERA TURBO S/2013 Porsche Panamera Turbo S 5 HB AWD.png
-7235,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1189,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 2WD.png
-7236,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1189,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 4WD.png
-7237,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1189,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 2WD.png
-7238,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,1189,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 4WD.png
-7239,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1189,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 2WD.png
-7240,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1189,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 4WD.png
+7235,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1190,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 2WD.png
+7236,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1190,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 4WD.png
+7237,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1190,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 2WD.png
+7238,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,1190,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 4WD.png
+7239,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1190,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 2WD.png
+7240,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1190,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 4WD.png
 7772,2013,RAM,2500,2013 Ram 2500 Regular PU/RC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,176,16,3,2013/RAM/2500/2013 Ram 2500 Regular PU_RC 2WD.png
 7773,2013,RAM,2500,2013 Ram 2500 Regular PU/RC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.237,0,No Tip,Not Rated,Standard,No,No,176,16,3,2013/RAM/2500/2013 Ram 2500 Regular PU_RC 4WD.png
 7774,2013,RAM,2500,2013 Ram 2500 Mega PU/EC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,176,16,3,2013/RAM/2500/2013 Ram 2500 Mega PU_EC 2WD.png
@@ -683,12 +683,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7161,2013,TOYOTA,SEQUOIA,2013 Toyota Sequoia SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,11,3,1,2013/TOYOTA/SEQUOIA/2013 Toyota Sequoia SUV 4WD.png
 7158,2013,TOYOTA,SIENNA,2013 Toyota Sienna VAN AWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,4,Standard,No,No,179,6,1,2013/TOYOTA/SIENNA/2013 Toyota Sienna VAN AWD.png
 7159,2013,TOYOTA,SIENNA,2013 Toyota Sienna VAN FWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,4,Standard,No,No,179,6,1,2013/TOYOTA/SIENNA/2013 Toyota Sienna VAN FWD.png
-7175,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/CC 4WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,119,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_CC 4WD.png
-7176,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/CC 2WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,119,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_CC 2WD.png
-7177,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/EC 2WD,,4,4,4,4,5,5,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,119,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_EC 2WD.png
-7178,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/EC 4WD,,4,4,4,4,5,5,5,4,5,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,119,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_EC 4WD.png
-7179,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/RC 2WD,,4,4,4,4,4,5,Not Rated,4,Not Rated,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,119,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_RC 2WD.png
-7180,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/RC 4WD,,4,4,4,4,4,5,Not Rated,4,Not Rated,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,119,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_RC 4WD.png
+7175,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/CC 4WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,120,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_CC 4WD.png
+7176,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/CC 2WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,120,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_CC 2WD.png
+7177,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/EC 2WD,,4,4,4,4,5,5,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,120,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_EC 2WD.png
+7178,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/EC 4WD,,4,4,4,4,5,5,5,4,5,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,120,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_EC 4WD.png
+7179,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/RC 2WD,,4,4,4,4,4,5,Not Rated,4,Not Rated,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,120,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_RC 2WD.png
+7180,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/RC 4WD,,4,4,4,4,4,5,Not Rated,4,Not Rated,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,120,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_RC 4WD.png
 7169,2013,TOYOTA,TUNDRA,2013 Toyota Tundra PU/EC 2WD,,4,4,4,3,5,5,5,5,5,5,3,Not Rated,0.204,0,No Tip,5,Standard,No,No,84,6,1,2013/TOYOTA/TUNDRA/2013 Toyota Tundra PU_EC 2WD.png
 7170,2013,TOYOTA,TUNDRA,2013 Toyota Tundra PU/EC 4WD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,84,6,1,2013/TOYOTA/TUNDRA/2013 Toyota Tundra PU_EC 4WD.png
 7171,2013,TOYOTA,TUNDRA,2013 Toyota Tundra PU/RC 2WD,,4,4,4,3,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.204,0,No Tip,5,Standard,No,No,84,6,1,2013/TOYOTA/TUNDRA/2013 Toyota Tundra PU_RC 2WD.png
