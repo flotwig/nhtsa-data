@@ -369,7 +369,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7140,2013,HYUNDAI,SONATA HYBRID,2013 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,104,4,7,2013/HYUNDAI/SONATA HYBRID/2013 Hyundai Sonata Hybrid 4 DR FWD.png
 7142,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,260,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV FWD.png
 7143,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.176,0,No Tip,5,Standard,No,No,260,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV AWD.png
-7535,2013,HYUNDAI,VELOSTER,2013 Hyundai Veloster 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,412,3,1,2013/HYUNDAI/VELOSTER/2013 Hyundai Veloster 2 DR FWD.png
+7535,2013,HYUNDAI,VELOSTER,2013 Hyundai Veloster 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,413,3,1,2013/HYUNDAI/VELOSTER/2013 Hyundai Veloster 2 DR FWD.png
 7282,2013,INFINITI,EX37,2013 Infiniti EX37 SW AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.13,0,No Tip,Not Rated,Standard,Optional,Optional,2,0,0,2013/INFINITI/EX37/2013 Infiniti EX37 SW AWD.png
 7283,2013,INFINITI,EX37,2013 Infiniti EX37 SW RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.13,0,No Tip,Not Rated,Standard,Optional,Optional,2,0,0,2013/INFINITI/EX37/2013 Infiniti EX37 SW RWD.png
 7570,2013,INFINITI,FX37,2013 Infiniti FX37 SUV RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,5,0,0,2013/INFINITI/FX37/2013 Infiniti FX37 SUV RWD.png
@@ -409,13 +409,13 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7119,2013,KIA,FORTE,2013 Kia Forte 4 DR FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,192,5,5,2013/KIA/FORTE/2013 Kia Forte 4 DR FWD.png
 7541,2013,KIA,FORTE 5,2013 Kia Forte 5 5 HB FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,192,5,5,2013/KIA/FORTE 5/2013 Kia Forte 5 5 HB FWD.png
 7542,2013,KIA,FORTE KOUP,2013 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,208,5,5,2013/KIA/FORTE KOUP/2013 Kia Forte Koup 2 DR FWD.png
-7121,2013,KIA,OPTIMA,2013 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,1335,9,8,2013/KIA/OPTIMA/2013 Kia Optima 4 DR FWD.png
+7121,2013,KIA,OPTIMA,2013 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,1336,9,8,2013/KIA/OPTIMA/2013 Kia Optima 4 DR FWD.png
 7122,2013,KIA,OPTIMA HYBRID,2013 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,50,2,7,2013/KIA/OPTIMA HYBRID/2013 Kia Optima Hybrid 4 DR FWD.png
 7040,2013,KIA,RIO,2013 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,150,1,2,2013/KIA/RIO/2013 Kia Rio 5 HB FWD.png
 7543,2013,KIA,RIO,2013 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,150,1,2,2013/KIA/RIO/2013 Kia Rio 4 DR FWD.png
 7034,2013,KIA,SORENTO,2013 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,968,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV FWD.png
 7035,2013,KIA,SORENTO,2013 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,968,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV AWD.png
-7125,2013,KIA,SOUL,2013 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,645,3,4,2013/KIA/SOUL/2013 Kia Soul SUV FWD.png
+7125,2013,KIA,SOUL,2013 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,646,3,4,2013/KIA/SOUL/2013 Kia Soul SUV FWD.png
 7123,2013,KIA,SPORTAGE,2013 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,378,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV AWD.png
 7124,2013,KIA,SPORTAGE,2013 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,378,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV FWD.png
 7550,2013,LAND ROVER,LR2,2013 Land Rover LR2 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,12,1,0,2013/LAND ROVER/LR2/2013 Land Rover LR2 SUV 4WD.png
