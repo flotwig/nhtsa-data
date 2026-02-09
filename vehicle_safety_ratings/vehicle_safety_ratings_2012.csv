@@ -322,8 +322,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6672,2012,GMC,YUKON XL 1500,2012 GMC Yukon Xl 1500 SUV 4WD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,84,4,1,2012/GMC/YUKON XL 1500/2012 GMC Yukon Xl 1500 SUV 4WD.png
 6450,2012,GMC,YUKON XL 2500,2012 GMC Yukon Xl 2500 SUV RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,73,4,1,2012/GMC/YUKON XL 2500/2012 GMC Yukon Xl 2500 SUV RWD.png
 6673,2012,GMC,YUKON XL 2500,2012 GMC Yukon Xl 2500 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,73,4,1,2012/GMC/YUKON XL 2500/2012 GMC Yukon Xl 2500 SUV 4WD.png
-6080,2012,HONDA,ACCORD,2012 Honda Accord 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.097,0,No Tip,Not Rated,Standard,No,No,373,8,1,2012/HONDA/ACCORD/2012 Honda Accord 2 DR FWD.png
-6082,2012,HONDA,ACCORD,2012 Honda Accord 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,No,No,373,8,1,2012/HONDA/ACCORD/2012 Honda Accord 4 DR FWD.png
+6080,2012,HONDA,ACCORD,2012 Honda Accord 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.097,0,No Tip,Not Rated,Standard,No,No,374,8,1,2012/HONDA/ACCORD/2012 Honda Accord 2 DR FWD.png
+6082,2012,HONDA,ACCORD,2012 Honda Accord 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,No,No,374,8,1,2012/HONDA/ACCORD/2012 Honda Accord 4 DR FWD.png
 6081,2012,HONDA,ACCORD V6,2012 Honda Accord V6 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.097,0,No Tip,Not Rated,Standard,No,No,367,8,1,2012/HONDA/ACCORD V6/2012 Honda Accord V6 2 DR FWD.png
 6083,2012,HONDA,ACCORD V6,2012 Honda Accord V6 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,No,No,367,8,1,2012/HONDA/ACCORD V6/2012 Honda Accord V6 4 DR FWD.png
 6089,2012,HONDA,CIVIC,2012 Honda Civic 4 DR FWD,,5,5,5,4,5,4,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,449,3,2,2012/HONDA/CIVIC/2012 Honda Civic 4 DR FWD.png
@@ -401,8 +401,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6131,2012,KIA,FORTE KOUP,2012 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,298,4,4,2012/KIA/FORTE KOUP/2012 Kia Forte Koup 2 DR FWD.png
 6132,2012,KIA,OPTIMA,2012 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,902,5,7,2012/KIA/OPTIMA/2012 Kia Optima 4 DR FWD.png
 6133,2012,KIA,OPTIMA HYBRID,2012 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,107,3,7,2012/KIA/OPTIMA HYBRID/2012 Kia Optima Hybrid 4 DR FWD.png
-6127,2012,KIA,RIO,2012 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,49,1,2,2012/KIA/RIO/2012 Kia Rio 4 DR FWD.png
-6128,2012,KIA,RIO,2012 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,49,1,2,2012/KIA/RIO/2012 Kia Rio 5 HB FWD.png
+6127,2012,KIA,RIO,2012 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,50,1,2,2012/KIA/RIO/2012 Kia Rio 4 DR FWD.png
+6128,2012,KIA,RIO,2012 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,50,1,2,2012/KIA/RIO/2012 Kia Rio 5 HB FWD.png
 6135,2012,KIA,SEDONA,2012 Kia Sedona VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.136,0,No Tip,Not Rated,Standard,No,No,105,5,1,2012/KIA/SEDONA/2012 Kia Sedona VAN FWD.png
 6137,2012,KIA,SORENTO,2012 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,864,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV FWD.png
 6733,2012,KIA,SORENTO,2012 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,864,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV AWD.png
