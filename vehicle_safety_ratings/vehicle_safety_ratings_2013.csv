@@ -213,7 +213,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7217,2013,CHRYSLER,300,2013 Chrysler 300 4 DR RWD,,5,5,5,4,5,3,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,305,6,2,2013/CHRYSLER/300/2013 Chrysler 300 4 DR RWD.png
 7218,2013,CHRYSLER,TOWN AND COUNTRY,2013 Chrysler Town And Country VAN FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,677,4,2,2013/CHRYSLER/TOWN AND COUNTRY/2013 Chrysler Town And Country VAN FWD.png
 7446,2013,CODA,CODA,2013 Coda Coda 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2013/CODA/CODA/2013 Coda Coda 4 DR FWD.png
-7219,2013,DODGE,AVENGER,2013 Dodge Avenger 4 DR FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.118,0,No Tip,2,Standard,No,No,546,5,1,2013/DODGE/AVENGER/2013 Dodge Avenger 4 DR FWD.png
+7219,2013,DODGE,AVENGER,2013 Dodge Avenger 4 DR FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.118,0,No Tip,2,Standard,No,No,547,5,1,2013/DODGE/AVENGER/2013 Dodge Avenger 4 DR FWD.png
 7220,2013,DODGE,CHALLENGER,2013 Dodge Challenger 2 DR RWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.111,0,No Tip,2,Standard,No,No,177,5,1,2013/DODGE/CHALLENGER/2013 Dodge Challenger 2 DR RWD.png
 7224,2013,DODGE,CHARGER,2013 Dodge Charger 4 DR RWD,,5,4,5,4,5,4,5,4,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,No,357,8,2,2013/DODGE/CHARGER/2013 Dodge Charger 4 DR RWD.png
 7225,2013,DODGE,CHARGER,2013 Dodge Charger 4 DR AWD,,5,4,5,4,5,4,5,4,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,No,357,8,2,2013/DODGE/CHARGER/2013 Dodge Charger 4 DR AWD.png
@@ -235,8 +235,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7484,2013,FORD,E-350,2013 Ford E-350 WAGON RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350/2013 Ford E-350 WAGON RWD.png
 7325,2013,FORD,E-350 P12,2013 Ford E-350 P12 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350 P12/2013 Ford E-350 P12 VAN RWD.png
 7326,2013,FORD,E-350 P15,2013 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350 P15/2013 Ford E-350 P15 VAN RWD.png
-7014,2013,FORD,EDGE,2013 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,2412,2,1,2013/FORD/EDGE/2013 Ford Edge SUV AWD.png
-7015,2013,FORD,EDGE,2013 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,2412,2,1,2013/FORD/EDGE/2013 Ford Edge SUV FWD.png
+7014,2013,FORD,EDGE,2013 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,2413,2,1,2013/FORD/EDGE/2013 Ford Edge SUV AWD.png
+7015,2013,FORD,EDGE,2013 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,2413,2,1,2013/FORD/EDGE/2013 Ford Edge SUV FWD.png
 7378,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2732,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x2.png
 7379,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2732,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x4.png
 7335,2013,FORD,EXPEDITION,2013 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,89,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition SUV 4x4.png
@@ -335,8 +335,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7728,2013,GMC,YUKON XL 2500,2013 GMC Yukon XL 2500 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,133,4,1,2013/GMC/YUKON XL 2500/2013 GMC Yukon XL 2500 SUV 4WD.png
 7522,2013,HONDA,ACCORD,2013 Honda Accord 2 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,1404,5,5,2013/HONDA/ACCORD/2013 Honda Accord 2 DR FWD.png
 7523,2013,HONDA,ACCORD,2013 Honda Accord 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,1404,5,5,2013/HONDA/ACCORD/2013 Honda Accord 4 DR FWD.png
-7524,2013,HONDA,CIVIC,2013 Honda Civic 2 DR FWD,,4,4,4,4,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,310,0,2,2013/HONDA/CIVIC/2013 Honda Civic 2 DR FWD.png
-7525,2013,HONDA,CIVIC,2013 Honda Civic 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,310,0,2,2013/HONDA/CIVIC/2013 Honda Civic 4 DR FWD.png
+7524,2013,HONDA,CIVIC,2013 Honda Civic 2 DR FWD,,4,4,4,4,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,311,0,2,2013/HONDA/CIVIC/2013 Honda Civic 2 DR FWD.png
+7525,2013,HONDA,CIVIC,2013 Honda Civic 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,311,0,2,2013/HONDA/CIVIC/2013 Honda Civic 4 DR FWD.png
 7526,2013,HONDA,CIVIC CNG,2013 Honda Civic Cng 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,301,0,2,2013/HONDA/CIVIC CNG/2013 Honda Civic Cng 4 DR FWD.png
 7527,2013,HONDA,CIVIC HYBRID,2013 Honda Civic Hybrid 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,Optional,Optional,309,0,3,2013/HONDA/CIVIC HYBRID/2013 Honda Civic Hybrid 4 DR FWD.png
 7253,2013,HONDA,CR-V,2013 Honda CR-V SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,376,2,2,2013/HONDA/CR-V/2013 Honda CR-V SUV FWD.png
@@ -604,12 +604,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7580,2013,PORSCHE,PANAMERA S HYBRID,2013 Porsche Panamera S Hybrid 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,2,1,2013/PORSCHE/PANAMERA S HYBRID/2013 Porsche Panamera S Hybrid 5 HB AWD.png
 7586,2013,PORSCHE,PANAMERA TURBO,2013 Porsche Panamera Turbo 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,3,0,2013/PORSCHE/PANAMERA TURBO/2013 Porsche Panamera Turbo 5 HB AWD.png
 7582,2013,PORSCHE,PANAMERA TURBO S,2013 Porsche Panamera Turbo S 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,3,0,2013/PORSCHE/PANAMERA TURBO S/2013 Porsche Panamera Turbo S 5 HB AWD.png
-7235,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1209,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 2WD.png
-7236,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1209,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 4WD.png
-7237,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1209,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 2WD.png
-7238,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,1209,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 4WD.png
-7239,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1209,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 2WD.png
-7240,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1209,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 4WD.png
+7235,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1210,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 2WD.png
+7236,2013,RAM,1500,2013 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1210,12,4,2013/RAM/1500/2013 Ram 1500 Regular PU_RC 4WD.png
+7237,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1210,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 2WD.png
+7238,2013,RAM,1500 CREW,2013 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,1210,12,4,2013/RAM/1500 CREW/2013 Ram 1500 Crew PU_CC 4WD.png
+7239,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1210,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 2WD.png
+7240,2013,RAM,1500 QUAD,2013 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1210,12,4,2013/RAM/1500 QUAD/2013 Ram 1500 Quad PU_EC 4WD.png
 7772,2013,RAM,2500,2013 Ram 2500 Regular PU/RC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,177,16,3,2013/RAM/2500/2013 Ram 2500 Regular PU_RC 2WD.png
 7773,2013,RAM,2500,2013 Ram 2500 Regular PU/RC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.237,0,No Tip,Not Rated,Standard,No,No,177,16,3,2013/RAM/2500/2013 Ram 2500 Regular PU_RC 4WD.png
 7774,2013,RAM,2500,2013 Ram 2500 Mega PU/EC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,177,16,3,2013/RAM/2500/2013 Ram 2500 Mega PU_EC 2WD.png
