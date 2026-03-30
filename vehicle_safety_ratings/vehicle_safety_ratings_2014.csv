@@ -22,7 +22,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8358,2014,AUDI,A8,2014 Audi A8 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,No,18,5,2,2014/AUDI/A8/2014 Audi A8 4 DR AWD.png
 8774,2014,AUDI,A8L,2014 Audi A8L 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,No,18,5,1,2014/AUDI/A8L/2014 Audi A8L 4 DR AWD.png
 8351,2014,AUDI,ALLROAD,2014 Audi Allroad SW AWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,No,6,1,0,2014/AUDI/ALLROAD/2014 Audi Allroad SW AWD.png
-8079,2014,AUDI,Q5,2014 Audi Q5 SUV AWD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,100,5,1,2014/AUDI/Q5/2014 Audi Q5 SUV AWD.png
+8079,2014,AUDI,Q5,2014 Audi Q5 SUV AWD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,101,5,1,2014/AUDI/Q5/2014 Audi Q5 SUV AWD.png
 8080,2014,AUDI,Q5 HEV,2014 Audi Q5 HEV SUV AWD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,95,5,1,2014/AUDI/Q5 HEV/2014 Audi Q5 HEV SUV AWD.png
 8081,2014,AUDI,Q7,2014 Audi Q7 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,44,2,0,2014/AUDI/Q7/2014 Audi Q7 SUV AWD.png
 8360,2014,AUDI,R8,2014 Audi R8 2 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2014/AUDI/R8/2014 Audi R8 2 DR AWD.png
@@ -232,8 +232,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8254,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,69,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x2.png
 8255,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,69,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x2.png
 8256,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,69,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x4.png
-8248,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1648,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV FWD.png
-8249,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1648,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV AWD.png
+8248,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1649,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV FWD.png
+8249,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1649,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV AWD.png
 8257,2014,FORD,F-150 REGULAR CAB,2014 Ford F-150 Regular Cab PU/RC 4x2,,4,4,4,3,5,5,Not Rated,5,0,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1362,7,2,2014/FORD/F-150 REGULAR CAB/2014 Ford F-150 Regular Cab PU_RC 4x2.png
 8258,2014,FORD,F-150 REGULAR CAB,2014 Ford F-150 Regular Cab PU/RC 4x4,,4,4,4,3,5,5,Not Rated,5,0,5,3,Not Rated,0.228,0,No Tip,4,Standard,No,No,1362,7,2,2014/FORD/F-150 REGULAR CAB/2014 Ford F-150 Regular Cab PU_RC 4x4.png
 8259,2014,FORD,F-150 SUPER CREW,2014 Ford F-150 Super Crew PU/CC 4x4,,4,3,4,3,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,1362,7,2,2014/FORD/F-150 SUPER CREW/2014 Ford F-150 Super Crew PU_CC 4x4.png
@@ -259,14 +259,14 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8232,2014,FORD,FOCUS,2014 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2624,13,5,2014/FORD/FOCUS/2014 Ford Focus 5 HB FWD.png
 8233,2014,FORD,FOCUS,2014 Ford Focus 4 DR FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2624,13,5,2014/FORD/FOCUS/2014 Ford Focus 4 DR FWD.png
 8234,2014,FORD,FOCUS BEV,2014 Ford Focus BEV 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,No,Optional,2584,12,5,2014/FORD/FOCUS BEV/2014 Ford Focus BEV 5 HB FWD.png
-8237,2014,FORD,FUSION,2014 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1404,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR AWD.png
-8283,2014,FORD,FUSION,2014 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1404,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR FWD.png
+8237,2014,FORD,FUSION,2014 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1405,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR AWD.png
+8283,2014,FORD,FUSION,2014 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1405,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR FWD.png
 8239,2014,FORD,FUSION ENERGI,2014 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1346,19,5,2014/FORD/FUSION ENERGI/2014 Ford Fusion Energi 4 DR FWD.png
 8238,2014,FORD,FUSION HEV,2014 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1346,19,5,2014/FORD/FUSION HEV/2014 Ford Fusion Hybrid 4 DR FWD.png
 8013,2014,FORD,MUSTANG,2014 Ford Mustang 2 DR RWD,,4,4,4,5,4,5,3,5,3,4,5,Not Rated,0.087,0,No Tip,4,Standard,No,No,355,4,0,2014/FORD/MUSTANG/2014 Ford Mustang 2 DR RWD.png
 8014,2014,FORD,MUSTANG,2014 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,355,4,0,2014/FORD/MUSTANG/2014 Ford Mustang C RWD.png
-8240,2014,FORD,TAURUS,2014 Ford Taurus 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,230,5,0,2014/FORD/TAURUS/2014 Ford Taurus 4 DR FWD.png
-8241,2014,FORD,TAURUS,2014 Ford Taurus 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,230,5,0,2014/FORD/TAURUS/2014 Ford Taurus 4 DR AWD.png
+8240,2014,FORD,TAURUS,2014 Ford Taurus 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,231,5,0,2014/FORD/TAURUS/2014 Ford Taurus 4 DR FWD.png
+8241,2014,FORD,TAURUS,2014 Ford Taurus 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,231,5,0,2014/FORD/TAURUS/2014 Ford Taurus 4 DR AWD.png
 8269,2014,FORD,TRANSIT CONNECT,2014 Ford Transit Connect VAN FWD,,Not Rated,4,4,4,5,5,Not Rated,5,Not Rated,5,Not Rated,Not Rated,0,0, ,5,Standard,No,No,121,15,2,2014/FORD/TRANSIT CONNECT/2014 Ford Transit Connect VAN FWD.png
 8795,2014,FORD,TRANSIT CONNECT,2014 Ford Transit Connect Wagon FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,No,121,15,2,2014/FORD/TRANSIT CONNECT/2014 Ford Transit Connect Wagon FWD.png
 8345,2014,FREIGHTLINER,SPRINTER 2500,2014 Freightliner Sprinter 2500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,1,Not Rated,0.843,0,No Tip,Not Rated,Standard,No,No,3,4,0,2014/FREIGHTLINER/SPRINTER 2500/2014 Freightliner Sprinter 2500 VAN RWD.png
@@ -281,12 +281,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8037,2014,GMC,SAVANA PASSENGER 2500,2014 GMC Savana Passenger 2500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.292,0,No Tip,Not Rated,Standard,No,No,1,7,0,2014/GMC/SAVANA PASSENGER 2500/2014 GMC Savana Passenger 2500 VAN RWD.png
 8038,2014,GMC,SAVANA PASSENGER 3500 12 PASS,2014 GMC Savana Passenger 3500 12 PASS VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.292,0,No Tip,Not Rated,Standard,No,No,2,7,0,2014/GMC/SAVANA PASSENGER 3500 12 PASS/2014 GMC Savana Passenger 3500 12 PASS VAN RWD.png
 8039,2014,GMC,SAVANA PASSENGER 3500 15 PASS,2014 GMC Savana Passenger 3500 15 PASS VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,2,7,0,2014/GMC/SAVANA PASSENGER 3500 15 PASS/2014 GMC Savana Passenger 3500 15 PASS VAN RWD.png
-8450,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/RC RWD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,850,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_RC RWD.png
-8451,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/RC 4WD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,850,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_RC 4WD.png
-8452,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/EC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,850,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_EC RWD.png
-8453,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/EC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,850,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_EC 4WD.png
-8454,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/CC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,850,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_CC RWD.png
-8455,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/CC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,850,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_CC 4WD.png
+8450,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/RC RWD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,851,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_RC RWD.png
+8451,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/RC 4WD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,851,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_RC 4WD.png
+8452,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/EC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,851,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_EC RWD.png
+8453,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/EC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,851,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_EC 4WD.png
+8454,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/CC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,851,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_CC RWD.png
+8455,2014,GMC,SIERRA 1500,2014 GMC Sierra 1500 PU/CC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,851,21,2,2014/GMC/SIERRA 1500/2014 GMC Sierra 1500 PU_CC 4WD.png
 8118,2014,GMC,SIERRA 2500,2014 GMC Sierra 2500 PU/CC W/O SAB 4WD,,3,3,3,3,4,5,5,2,5,5,4,Not Rated,0.191,0,No Tip,1,Standard,No,No,131,14,1,2014/GMC/SIERRA 2500/2014 GMC Sierra 2500 PU_CC W_O SAB 4WD.png
 8319,2014,GMC,SIERRA 2500,2014 GMC Sierra 2500 PU/CC W/SAB 4WD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,131,14,1,2014/GMC/SIERRA 2500/2014 GMC Sierra 2500 PU_CC W_SAB 4WD.png
 8320,2014,GMC,SIERRA 2500,2014 GMC Sierra 2500 PU/CC W/SAB RWD,,4,3,3,3,5,5,5,5,5,5,3,Not Rated,0.204,0,No Tip,5,Standard,No,No,131,14,1,2014/GMC/SIERRA 2500/2014 GMC Sierra 2500 PU_CC W_SAB RWD.png
@@ -397,7 +397,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8010,2014,KIA,SEDONA,2014 Kia Sedona VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.136,0,No Tip,5,Standard,No,No,38,1,1,2014/KIA/SEDONA/2014 Kia Sedona VAN FWD.png
 8662,2014,KIA,SORENTO,2014 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,963,6,8,2014/KIA/SORENTO/2014 Kia Sorento SUV FWD.png
 8663,2014,KIA,SORENTO,2014 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,963,6,8,2014/KIA/SORENTO/2014 Kia Sorento SUV AWD.png
-8661,2014,KIA,SOUL,2014 Kia Soul SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,880,5,3,2014/KIA/SOUL/2014 Kia Soul SUV FWD.png
+8661,2014,KIA,SOUL,2014 Kia Soul SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,881,5,3,2014/KIA/SOUL/2014 Kia Soul SUV FWD.png
 8072,2014,KIA,SPORTAGE,2014 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,120,3,2,2014/KIA/SPORTAGE/2014 Kia Sportage SUV AWD.png
 8073,2014,KIA,SPORTAGE,2014 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,120,3,2,2014/KIA/SPORTAGE/2014 Kia Sportage SUV FWD.png
 8494,2014,LAND ROVER,LR2,2014 Land Rover LR2 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,8,1,0,2014/LAND ROVER/LR2/2014 Land Rover LR2 SUV 4WD.png
