@@ -270,8 +270,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7333,2013,FORD,FOCUS,2013 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2098,11,4,2013/FORD/FOCUS/2013 Ford Focus 5 HB FWD.png
 7334,2013,FORD,FOCUS,2013 Ford Focus 4 DR FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2098,11,4,2013/FORD/FOCUS/2013 Ford Focus 4 DR FWD.png
 7475,2013,FORD,FOCUS BEV,2013 Ford Focus BEV 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,No,No,2157,13,5,2013/FORD/FOCUS BEV/2013 Ford Focus BEV 5 HB FWD.png
-7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1932,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
-7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1932,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
+7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1933,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
+7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1933,19,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
 7477,2013,FORD,FUSION ENERGI,2013 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1774,18,6,2013/FORD/FUSION ENERGI/2013 Ford Fusion Energi 4 DR FWD.png
 7478,2013,FORD,FUSION HYBRID,2013 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1859,19,6,2013/FORD/FUSION HYBRID/2013 Ford Fusion Hybrid 4 DR FWD.png
 7020,2013,FORD,MUSTANG,2013 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,269,6,0,2013/FORD/MUSTANG/2013 Ford Mustang C RWD.png
@@ -363,8 +363,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7141,2013,HYUNDAI,GENESIS,2013 Hyundai Genesis 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.095,0,No Tip,Not Rated,Standard,No,Optional,195,4,0,2013/HYUNDAI/GENESIS/2013 Hyundai Genesis 4 DR RWD.png
 7530,2013,HYUNDAI,SANTA FE,2013 Hyundai Santa Fe SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,604,3,8,2013/HYUNDAI/SANTA FE/2013 Hyundai Santa Fe SUV FWD.png
 7692,2013,HYUNDAI,SANTA FE,2013 Hyundai Santa Fe SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,604,3,8,2013/HYUNDAI/SANTA FE/2013 Hyundai Santa Fe SUV AWD.png
-7531,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,181,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV FWD.png
-7693,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,181,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV AWD.png
+7531,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,182,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV FWD.png
+7693,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,182,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV AWD.png
 7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1872,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
 7140,2013,HYUNDAI,SONATA HYBRID,2013 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,104,4,7,2013/HYUNDAI/SONATA HYBRID/2013 Hyundai Sonata Hybrid 4 DR FWD.png
 7142,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,261,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV FWD.png
@@ -416,8 +416,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7034,2013,KIA,SORENTO,2013 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,971,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV FWD.png
 7035,2013,KIA,SORENTO,2013 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,971,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV AWD.png
 7125,2013,KIA,SOUL,2013 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,648,3,4,2013/KIA/SOUL/2013 Kia Soul SUV FWD.png
-7123,2013,KIA,SPORTAGE,2013 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,378,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV AWD.png
-7124,2013,KIA,SPORTAGE,2013 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,378,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV FWD.png
+7123,2013,KIA,SPORTAGE,2013 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,379,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV AWD.png
+7124,2013,KIA,SPORTAGE,2013 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,379,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV FWD.png
 7550,2013,LAND ROVER,LR2,2013 Land Rover LR2 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,12,1,0,2013/LAND ROVER/LR2/2013 Land Rover LR2 SUV 4WD.png
 7548,2013,LAND ROVER,LR4 (5 SEAT),2013 Land Rover LR4 (5 Seat) SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,17,3,0,2013/LAND ROVER/LR4 (5 SEAT)/2013 Land Rover LR4 (5 Seat) SUV 4WD.png
 7549,2013,LAND ROVER,LR4 (7 SEAT),2013 Land Rover LR4 (7 Seat) SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,17,3,0,2013/LAND ROVER/LR4 (7 SEAT)/2013 Land Rover LR4 (7 Seat) SUV 4WD.png
@@ -664,7 +664,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7613,2013,TOYOTA,LANDCRUISER,2013 Toyota Landcruiser SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,6,2,0,2013/TOYOTA/LANDCRUISER/2013 Toyota Landcruiser SUV AWD.png
 7154,2013,TOYOTA,MATRIX,2013 Toyota Matrix SW FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.136,0,No Tip,Not Rated,Standard,No,No,0,1,0,2013/TOYOTA/MATRIX/2013 Toyota Matrix SW FWD.png
 7155,2013,TOYOTA,MATRIX,2013 Toyota Matrix SW AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.136,0,No Tip,Not Rated,Standard,No,No,0,1,0,2013/TOYOTA/MATRIX/2013 Toyota Matrix SW AWD.png
-7153,2013,TOYOTA,PRIUS,2013 Toyota Prius 5 HB FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.121,0,No Tip,5,Standard,No,No,385,3,3,2013/TOYOTA/PRIUS/2013 Toyota Prius 5 HB FWD.png
+7153,2013,TOYOTA,PRIUS,2013 Toyota Prius 5 HB FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.121,0,No Tip,5,Standard,No,No,386,3,3,2013/TOYOTA/PRIUS/2013 Toyota Prius 5 HB FWD.png
 7614,2013,TOYOTA,PRIUS C,2013 Toyota Prius C 5 HB FWD,,4,4,4,4,4,4,4,4,4,4,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,403,3,2,2013/TOYOTA/PRIUS C/2013 Toyota Prius C 5 HB FWD.png
 7615,2013,TOYOTA,PRIUS PLUG-IN HYBRID,2013 Toyota Prius Plug-In Hybrid 5 HB FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,359,4,2,2013/TOYOTA/PRIUS PLUG-IN HYBRID/2013 Toyota Prius Plug-In Hybrid 5 HB FWD.png
 7616,2013,TOYOTA,PRIUS V,2013 Toyota Prius V SW FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.136,0,No Tip,4,Standard,No,No,465,5,1,2013/TOYOTA/PRIUS V/2013 Toyota Prius V SW FWD.png
