@@ -118,8 +118,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6453,2012,CADILLAC,ESCALADE EXT,2012 Cadillac Escalade EXT SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.212,0,No Tip,Not Rated,Standard,No,No,21,3,1,2012/CADILLAC/ESCALADE EXT/2012 Cadillac Escalade EXT SUV AWD.png
 6446,2012,CADILLAC,ESCALADE HYBRID,2012 Cadillac Escalade Hybrid SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,22,3,2,2012/CADILLAC/ESCALADE HYBRID/2012 Cadillac Escalade Hybrid SUV RWD.png
 6669,2012,CADILLAC,ESCALADE HYBRID,2012 Cadillac Escalade Hybrid SUV AWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,22,3,2,2012/CADILLAC/ESCALADE HYBRID/2012 Cadillac Escalade Hybrid SUV AWD.png
-6439,2012,CADILLAC,SRX,2012 Cadillac SRX SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,No,No,413,3,1,2012/CADILLAC/SRX/2012 Cadillac SRX SUV FWD.png
-6662,2012,CADILLAC,SRX,2012 Cadillac SRX SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,No,No,413,3,1,2012/CADILLAC/SRX/2012 Cadillac SRX SUV AWD.png
+6439,2012,CADILLAC,SRX,2012 Cadillac SRX SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,No,No,414,3,1,2012/CADILLAC/SRX/2012 Cadillac SRX SUV FWD.png
+6662,2012,CADILLAC,SRX,2012 Cadillac SRX SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,No,No,414,3,1,2012/CADILLAC/SRX/2012 Cadillac SRX SUV AWD.png
 6452,2012,CHEVROLET,AVALANCHE,2012 Chevrolet Avalanche SUV RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.228,0,No Tip,Not Rated,Standard,No,No,52,3,1,2012/CHEVROLET/AVALANCHE/2012 Chevrolet Avalanche SUV RWD.png
 6674,2012,CHEVROLET,AVALANCHE,2012 Chevrolet Avalanche SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.212,0,No Tip,Not Rated,Standard,No,No,52,3,1,2012/CHEVROLET/AVALANCHE/2012 Chevrolet Avalanche SUV 4WD.png
 6512,2012,CHEVROLET,CAMARO,2012 Chevrolet Camaro 2 DR RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.087,0,No Tip,5,Standard,No,No,109,5,1,2012/CHEVROLET/CAMARO/2012 Chevrolet Camaro 2 DR RWD.png
@@ -222,12 +222,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6704,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,596,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x4.png
 6401,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x2.png
 6705,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x4.png
-6402,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,115,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x2.png
-6706,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,115,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x4.png
-6724,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,115,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x2.png
-6725,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,115,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x4.png
-6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,810,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
-6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,810,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
+6402,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x2.png
+6706,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x4.png
+6724,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x2.png
+6725,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x4.png
+6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,811,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
+6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,811,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
 6405,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x2,,4,4,4,3,5,5,Not Rated,5,0,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x2.png
 6709,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x4,,4,4,4,3,5,5,Not Rated,5,0,5,3,Not Rated,0.228,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x4.png
 6407,2012,FORD,F-150 SUPER CREW,2012 Ford F-150 Super Crew PU/CC 4x2,,4,3,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1717,4,4,2012/FORD/F-150 SUPER CREW/2012 Ford F-150 Super Crew PU_CC 4x2.png
