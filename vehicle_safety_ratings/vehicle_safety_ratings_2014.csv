@@ -22,7 +22,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8358,2014,AUDI,A8,2014 Audi A8 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,No,18,5,2,2014/AUDI/A8/2014 Audi A8 4 DR AWD.png
 8774,2014,AUDI,A8L,2014 Audi A8L 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,No,18,5,1,2014/AUDI/A8L/2014 Audi A8L 4 DR AWD.png
 8351,2014,AUDI,ALLROAD,2014 Audi Allroad SW AWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,No,6,1,0,2014/AUDI/ALLROAD/2014 Audi Allroad SW AWD.png
-8079,2014,AUDI,Q5,2014 Audi Q5 SUV AWD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,102,5,1,2014/AUDI/Q5/2014 Audi Q5 SUV AWD.png
+8079,2014,AUDI,Q5,2014 Audi Q5 SUV AWD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,103,5,1,2014/AUDI/Q5/2014 Audi Q5 SUV AWD.png
 8080,2014,AUDI,Q5 HEV,2014 Audi Q5 HEV SUV AWD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,95,5,1,2014/AUDI/Q5 HEV/2014 Audi Q5 HEV SUV AWD.png
 8081,2014,AUDI,Q7,2014 Audi Q7 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,44,2,0,2014/AUDI/Q7/2014 Audi Q7 SUV AWD.png
 8360,2014,AUDI,R8,2014 Audi R8 2 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2014/AUDI/R8/2014 Audi R8 2 DR AWD.png
@@ -390,7 +390,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8658,2014,KIA,FORTE,2014 Kia Forte 4 DR FWD,,4,3,5,2,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,431,3,1,2014/KIA/FORTE/2014 Kia Forte 4 DR FWD.png
 8659,2014,KIA,FORTE,2014 Kia Forte 5 HB FWD,,4,3,5,2,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,431,3,1,2014/KIA/FORTE/2014 Kia Forte 5 HB FWD.png
 8792,2014,KIA,FORTE KOUP,2014 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,432,3,1,2014/KIA/FORTE KOUP/2014 Kia Forte Koup 2 DR FWD.png
-8070,2014,KIA,OPTIMA,2014 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,566,7,8,2014/KIA/OPTIMA/2014 Kia Optima 4 DR FWD.png
+8070,2014,KIA,OPTIMA,2014 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,567,7,8,2014/KIA/OPTIMA/2014 Kia Optima 4 DR FWD.png
 8071,2014,KIA,OPTIMA HYBRID,2014 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,31,0,6,2014/KIA/OPTIMA HYBRID/2014 Kia Optima Hybrid 4 DR FWD.png
 8068,2014,KIA,RIO,2014 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,51,1,2,2014/KIA/RIO/2014 Kia Rio 4 DR FWD.png
 8069,2014,KIA,RIO,2014 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,51,1,2,2014/KIA/RIO/2014 Kia Rio 5 HB FWD.png
@@ -435,8 +435,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8138,2014,LEXUS,RX450H,2014 Lexus RX450h SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,12,0,1,2014/LEXUS/RX450H/2014 Lexus RX450h SUV AWD.png
 8270,2014,LINCOLN,MKS,2014 Lincoln MKS 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,42,2,0,2014/LINCOLN/MKS/2014 Lincoln MKS 4 DR FWD.png
 8271,2014,LINCOLN,MKS,2014 Lincoln MKS 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,42,2,0,2014/LINCOLN/MKS/2014 Lincoln MKS 4 DR AWD.png
-8272,2014,LINCOLN,MKT,2014 Lincoln MKT SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,Optional,53,4,0,2014/LINCOLN/MKT/2014 Lincoln MKT SUV AWD.png
-8273,2014,LINCOLN,MKT,2014 Lincoln MKT SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,Optional,53,4,0,2014/LINCOLN/MKT/2014 Lincoln MKT SUV FWD.png
+8272,2014,LINCOLN,MKT,2014 Lincoln MKT SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,Optional,54,4,0,2014/LINCOLN/MKT/2014 Lincoln MKT SUV AWD.png
+8273,2014,LINCOLN,MKT,2014 Lincoln MKT SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,Optional,54,4,0,2014/LINCOLN/MKT/2014 Lincoln MKT SUV FWD.png
 8274,2014,LINCOLN,MKX,2014 Lincoln MKX SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,Optional,34,1,0,2014/LINCOLN/MKX/2014 Lincoln MKX SUV FWD.png
 8275,2014,LINCOLN,MKX,2014 Lincoln MKX SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,Optional,34,1,0,2014/LINCOLN/MKX/2014 Lincoln MKX SUV AWD.png
 8277,2014,LINCOLN,MKZ,2014 Lincoln MKZ 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,95,14,3,2014/LINCOLN/MKZ/2014 Lincoln MKZ 4 DR FWD.png
@@ -534,8 +534,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8101,2014,NISSAN,FRONTIER,2014 Nissan Frontier Crew Cab PU/CC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.198,0,No Tip,Not Rated,Standard,No,No,41,2,0,2014/NISSAN/FRONTIER/2014 Nissan Frontier Crew Cab PU_CC 4WD.png
 8102,2014,NISSAN,FRONTIER,2014 Nissan Frontier Crew Cab PU/CC RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.212,0,No Tip,Not Rated,Standard,No,No,41,2,0,2014/NISSAN/FRONTIER/2014 Nissan Frontier Crew Cab PU_CC RWD.png
 8536,2014,NISSAN,GTR,2014 Nissan GTR 2 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2014/NISSAN/GTR/2014 Nissan GTR 2 DR AWD.png
-8113,2014,NISSAN,JUKE,2014 Nissan Juke SUV AWD,,4,3,4,3,5,4,5,4,5,4,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,55,2,0,2014/NISSAN/JUKE/2014 Nissan Juke SUV AWD.png
-8114,2014,NISSAN,JUKE,2014 Nissan Juke SUV FWD,,4,3,4,3,5,4,5,4,5,4,4,Not Rated,0.159,0,No Tip,5,Standard,No,No,55,2,0,2014/NISSAN/JUKE/2014 Nissan Juke SUV FWD.png
+8113,2014,NISSAN,JUKE,2014 Nissan Juke SUV AWD,,4,3,4,3,5,4,5,4,5,4,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,56,2,0,2014/NISSAN/JUKE/2014 Nissan Juke SUV AWD.png
+8114,2014,NISSAN,JUKE,2014 Nissan Juke SUV FWD,,4,3,4,3,5,4,5,4,5,4,4,Not Rated,0.159,0,No Tip,5,Standard,No,No,56,2,0,2014/NISSAN/JUKE/2014 Nissan Juke SUV FWD.png
 8111,2014,NISSAN,LEAF,2014 Nissan Leaf 5 HB FWD,,4,4,5,3,4,5,3,5,3,4,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,34,6,3,2014/NISSAN/LEAF/2014 Nissan Leaf 5 HB FWD.png
 8096,2014,NISSAN,MAXIMA,2014 Nissan Maxima 4 DR FWD,,4,3,4,2,5,3,5,4,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,No,No,95,0,0,2014/NISSAN/MAXIMA/2014 Nissan Maxima 4 DR FWD.png
 8115,2014,NISSAN,MURANO,2014 Nissan Murano SUV AWD,,4,4,4,3,5,5,4,5,4,5,4,Not Rated,0.185,0,No Tip,4,Standard,No,Optional,140,1,0,2014/NISSAN/MURANO/2014 Nissan Murano SUV AWD.png

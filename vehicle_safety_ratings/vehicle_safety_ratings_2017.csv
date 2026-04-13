@@ -232,16 +232,16 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11557,2017,FIAT,500e BEV,2017 Fiat 500e BEV 3 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,1,2017/FIAT/500e BEV/2017 Fiat 500e BEV 3 HB FWD.png
 11203,2017,FORD,CMAX ENERGI,2017 Ford CMAX Energi 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,23,1,1,2017/FORD/CMAX ENERGI/2017 Ford CMAX Energi 5 HB FWD.png
 11204,2017,FORD,CMAX HEV,2017 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,23,1,1,2017/FORD/CMAX HEV/2017 Ford CMAX Hybrid 5 HB FWD.png
-11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1241,8,2,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
-11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1241,8,2,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
+11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1242,8,2,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
+11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1242,8,2,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
 11077,2017,FORD,ESCAPE,2017 Ford Escape SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,Optional,Optional,2507,3,0,2017/FORD/ESCAPE/2017 Ford Escape SUV AWD.png
 11078,2017,FORD,ESCAPE,2017 Ford Escape SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,2507,3,0,2017/FORD/ESCAPE/2017 Ford Escape SUV FWD.png
 11215,2017,FORD,EXPEDITION,2017 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,339,4,0,2017/FORD/EXPEDITION/2017 Ford Expedition SUV 4x2.png
 11216,2017,FORD,EXPEDITION,2017 Ford Expedition SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,339,4,0,2017/FORD/EXPEDITION/2017 Ford Expedition SUV 4x4.png
 11217,2017,FORD,EXPEDITION EL,2017 Ford Expedition EL EXTENDED SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,272,2,0,2017/FORD/EXPEDITION EL/2017 Ford Expedition EL EXTENDED SUV 4x2.png
 11218,2017,FORD,EXPEDITION EL,2017 Ford Expedition EL EXTENDED SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,272,2,0,2017/FORD/EXPEDITION EL/2017 Ford Expedition EL EXTENDED SUV 4x4.png
-11213,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,1611,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV FWD.png
-11214,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1611,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV AWD.png
+11213,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,1613,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV FWD.png
+11214,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1613,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV AWD.png
 11231,2017,FORD,F-150 CREW CAB,2017 Ford F-150 Crew Cab PU/CC 4x2,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1066,15,3,2017/FORD/F-150 CREW CAB/2017 Ford F-150 Crew Cab PU_CC 4x2.png
 11232,2017,FORD,F-150 CREW CAB,2017 Ford F-150 Crew Cab PU/CC 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1066,15,3,2017/FORD/F-150 CREW CAB/2017 Ford F-150 Crew Cab PU_CC 4x4.png
 11227,2017,FORD,F-150 REGULAR CAB,2017 Ford F-150 Regular Cab PU/RC 4x4,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1066,15,3,2017/FORD/F-150 REGULAR CAB/2017 Ford F-150 Regular Cab PU_RC 4x4.png
@@ -352,8 +352,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11084,2017,HONDA,HR-V,2017 Honda HR-V SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.135,0,No Tip,5,Standard,No,No,112,0,0,2017/HONDA/HR-V/2017 Honda HR-V SUV AWD.png
 11085,2017,HONDA,HR-V,2017 Honda HR-V SUV FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.153,0,No Tip,5,Standard,No,No,112,0,0,2017/HONDA/HR-V/2017 Honda HR-V SUV FWD.png
 11803,2017,HONDA,ODYSSEY,2017 Honda Odyssey VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.127,0,No Tip,5,Standard,Optional,Optional,36,2,0,2017/HONDA/ODYSSEY/2017 Honda Odyssey VAN FWD.png
-11784,2017,HONDA,PILOT,2017 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,865,2,4,2017/HONDA/PILOT/2017 Honda Pilot SUV FWD.png
-11785,2017,HONDA,PILOT,2017 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,865,2,4,2017/HONDA/PILOT/2017 Honda Pilot SUV AWD.png
+11784,2017,HONDA,PILOT,2017 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,866,2,4,2017/HONDA/PILOT/2017 Honda Pilot SUV FWD.png
+11785,2017,HONDA,PILOT,2017 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,866,2,4,2017/HONDA/PILOT/2017 Honda Pilot SUV AWD.png
 11518,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,326,7,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC FWD.png
 11519,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,326,7,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC AWD.png
 11111,2017,HYUNDAI,ACCENT,2017 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,66,0,0,2017/HYUNDAI/ACCENT/2017 Hyundai Accent 4 DR FWD.png
@@ -423,8 +423,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11340,2017,JEEP,PATRIOT,2017 Jeep Patriot SUV 4WD,,4,3,3,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,59,0,2,2017/JEEP/PATRIOT/2017 Jeep Patriot SUV 4WD.png
 11343,2017,JEEP,RENEGADE,2017 Jeep Renegade SUV 4WD,,4,4,4,4,5,5,3,5,3,5,3,Not Rated,0.23,0,No Tip,5,Standard,No,No,558,3,0,2017/JEEP/RENEGADE/2017 Jeep Renegade SUV 4WD.png
 11344,2017,JEEP,RENEGADE,2017 Jeep Renegade SUV 2WD,,4,4,4,4,5,5,3,5,3,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,558,3,0,2017/JEEP/RENEGADE/2017 Jeep Renegade SUV 2WD.png
-11346,2017,JEEP,WRANGLER,2017 Jeep Wrangler 2 DR 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,296,5,3,2017/JEEP/WRANGLER/2017 Jeep Wrangler 2 DR 4WD.png
-11345,2017,JEEP,WRANGLER UNLIMITED,2017 Jeep Wrangler Unlimited 4 DR 4WD,,Not Rated,3,3,2,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,296,5,3,2017/JEEP/WRANGLER UNLIMITED/2017 Jeep Wrangler Unlimited 4 DR 4WD.png
+11346,2017,JEEP,WRANGLER,2017 Jeep Wrangler 2 DR 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,297,5,3,2017/JEEP/WRANGLER/2017 Jeep Wrangler 2 DR 4WD.png
+11345,2017,JEEP,WRANGLER UNLIMITED,2017 Jeep Wrangler Unlimited 4 DR 4WD,,Not Rated,3,3,2,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,297,5,3,2017/JEEP/WRANGLER UNLIMITED/2017 Jeep Wrangler Unlimited 4 DR 4WD.png
 11760,2017,KIA,CADENZA,2017 Kia Cadenza 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,30,2,1,2017/KIA/CADENZA/2017 Kia Cadenza 4 DR FWD.png
 11072,2017,KIA,FORTE,2017 Kia Forte 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,295,3,0,2017/KIA/FORTE/2017 Kia Forte 4 DR FWD.png
 11603,2017,KIA,FORTE KOUP,2017 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,1,0,2017/KIA/FORTE KOUP/2017 Kia Forte Koup 2 DR FWD.png
@@ -486,14 +486,14 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11130,2017,LEXUS,RX350,2017 Lexus RX350 SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,90,3,0,2017/LEXUS/RX350/2017 Lexus RX350 SUV FWD.png
 11131,2017,LEXUS,RX450H,2017 Lexus RX450h SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,54,0,1,2017/LEXUS/RX450H/2017 Lexus RX450h SUV FWD.png
 11132,2017,LEXUS,RX450H,2017 Lexus RX450h SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,54,0,1,2017/LEXUS/RX450H/2017 Lexus RX450h SUV AWD.png
-11648,2017,LINCOLN,CONTINENTAL,2017 Lincoln Continental 4 DR RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.106,0,No Tip,5,Standard,Optional,No,70,4,0,2017/LINCOLN/CONTINENTAL/2017 Lincoln Continental 4 DR RWD.png
-11649,2017,LINCOLN,CONTINENTAL,2017 Lincoln Continental 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.106,0,No Tip,5,Standard,Optional,No,70,4,0,2017/LINCOLN/CONTINENTAL/2017 Lincoln Continental 4 DR AWD.png
-11082,2017,LINCOLN,MKC,2017 Lincoln MKC SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,168,3,0,2017/LINCOLN/MKC/2017 Lincoln MKC SUV FWD.png
-11083,2017,LINCOLN,MKC,2017 Lincoln MKC SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,168,3,0,2017/LINCOLN/MKC/2017 Lincoln MKC SUV AWD.png
+11648,2017,LINCOLN,CONTINENTAL,2017 Lincoln Continental 4 DR RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.106,0,No Tip,5,Standard,Optional,No,71,4,0,2017/LINCOLN/CONTINENTAL/2017 Lincoln Continental 4 DR RWD.png
+11649,2017,LINCOLN,CONTINENTAL,2017 Lincoln Continental 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.106,0,No Tip,5,Standard,Optional,No,71,4,0,2017/LINCOLN/CONTINENTAL/2017 Lincoln Continental 4 DR AWD.png
+11082,2017,LINCOLN,MKC,2017 Lincoln MKC SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,169,3,0,2017/LINCOLN/MKC/2017 Lincoln MKC SUV FWD.png
+11083,2017,LINCOLN,MKC,2017 Lincoln MKC SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,169,3,0,2017/LINCOLN/MKC/2017 Lincoln MKC SUV AWD.png
 11233,2017,LINCOLN,MKT,2017 Lincoln MKT SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,Optional,2,3,0,2017/LINCOLN/MKT/2017 Lincoln MKT SUV FWD.png
 11234,2017,LINCOLN,MKT,2017 Lincoln MKT SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,Optional,2,3,0,2017/LINCOLN/MKT/2017 Lincoln MKT SUV AWD.png
-11235,2017,LINCOLN,MKX,2017 Lincoln MKX SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,46,5,1,2017/LINCOLN/MKX/2017 Lincoln MKX SUV AWD.png
-11236,2017,LINCOLN,MKX,2017 Lincoln MKX SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,46,5,1,2017/LINCOLN/MKX/2017 Lincoln MKX SUV FWD.png
+11235,2017,LINCOLN,MKX,2017 Lincoln MKX SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,47,5,1,2017/LINCOLN/MKX/2017 Lincoln MKX SUV AWD.png
+11236,2017,LINCOLN,MKX,2017 Lincoln MKX SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,47,5,1,2017/LINCOLN/MKX/2017 Lincoln MKX SUV FWD.png
 11079,2017,LINCOLN,MKZ,2017 Lincoln MKZ 4 DR FWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,122,4,1,2017/LINCOLN/MKZ/2017 Lincoln MKZ 4 DR FWD.png
 11080,2017,LINCOLN,MKZ,2017 Lincoln MKZ 4 DR AWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,122,4,1,2017/LINCOLN/MKZ/2017 Lincoln MKZ 4 DR AWD.png
 11081,2017,LINCOLN,MKZ HEV,2017 Lincoln MKZ HEV 4 DR FWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,115,4,2,2017/LINCOLN/MKZ HEV/2017 Lincoln MKZ HEV 4 DR FWD.png
@@ -697,8 +697,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11194,2017,SUBARU,IMPREZA,2017 Subaru Impreza 4 DR AWD,,5,5,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,124,7,0,2017/SUBARU/IMPREZA/2017 Subaru Impreza 4 DR AWD.png
 11195,2017,SUBARU,IMPREZA,2017 Subaru Impreza SW AWD,,5,5,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,124,7,0,2017/SUBARU/IMPREZA/2017 Subaru Impreza SW AWD.png
 11192,2017,SUBARU,LEGACY,2017 Subaru Legacy 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,118,2,1,2017/SUBARU/LEGACY/2017 Subaru Legacy 4 DR AWD.png
-11193,2017,SUBARU,OUTBACK,2017 Subaru Outback SW AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.175,0, ,5,Standard,Optional,Optional,911,4,1,2017/SUBARU/OUTBACK/2017 Subaru Outback SW AWD.png
-11197,2017,SUBARU,WRX,2017 Subaru WRX 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,51,1,0,2017/SUBARU/WRX/2017 Subaru WRX 4 DR AWD.png
+11193,2017,SUBARU,OUTBACK,2017 Subaru Outback SW AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.175,0, ,5,Standard,Optional,Optional,912,4,1,2017/SUBARU/OUTBACK/2017 Subaru Outback SW AWD.png
+11197,2017,SUBARU,WRX,2017 Subaru WRX 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,52,1,0,2017/SUBARU/WRX/2017 Subaru WRX 4 DR AWD.png
 11834,2017,TESLA,MODEL 3,2017 Tesla Model 3 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,24,14,13,2017/TESLA/MODEL 3/2017 Tesla Model 3 DR RWD.png
 11807,2017,TESLA,MODEL S 60,2017 Tesla Model S 60 5 HB RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.057,0,No Tip,Not Rated,Standard,Standard,Standard,395,7,4,2017/TESLA/MODEL S 60/2017 Tesla Model S 60 5 HB RWD.png
 11808,2017,TESLA,MODEL S 60D,2017 Tesla Model S 60D 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.057,0,No Tip,Not Rated,Standard,Standard,Standard,395,7,4,2017/TESLA/MODEL S 60D/2017 Tesla Model S 60D 5 HB AWD.png
