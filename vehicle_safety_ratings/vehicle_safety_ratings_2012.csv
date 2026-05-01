@@ -226,8 +226,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6706,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x4.png
 6724,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x2.png
 6725,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x4.png
-6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,814,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
-6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,814,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
+6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,815,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
+6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,815,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
 6405,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x2,,4,4,4,3,5,5,Not Rated,5,0,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x2.png
 6709,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x4,,4,4,4,3,5,5,Not Rated,5,0,5,3,Not Rated,0.228,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x4.png
 6407,2012,FORD,F-150 SUPER CREW,2012 Ford F-150 Super Crew PU/CC 4x2,,4,3,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1717,4,4,2012/FORD/F-150 SUPER CREW/2012 Ford F-150 Super Crew PU_CC 4x2.png
@@ -246,17 +246,17 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6717,2012,FORD,F-350 SUPER CREW,2012 Ford F-350 Super Crew PU/CC 4x4,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,183,16,1,2012/FORD/F-350 SUPER CREW/2012 Ford F-350 Super Crew PU_CC 4x4.png
 6412,2012,FORD,F-350 SUPERCAB,2012 Ford F-350 Supercab PU/EC 4x2,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,183,16,1,2012/FORD/F-350 SUPERCAB/2012 Ford F-350 Supercab PU_EC 4x2.png
 6716,2012,FORD,F-350 SUPERCAB,2012 Ford F-350 Supercab PU/EC 4x4,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,183,16,1,2012/FORD/F-350 SUPERCAB/2012 Ford F-350 Supercab PU_EC 4x4.png
-6414,2012,FORD,FIESTA,2012 Ford Fiesta 4 DR FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,615,3,3,2012/FORD/FIESTA/2012 Ford Fiesta 4 DR FWD.png
-6415,2012,FORD,FIESTA,2012 Ford Fiesta 5 HB FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,615,3,3,2012/FORD/FIESTA/2012 Ford Fiesta 5 HB FWD.png
+6414,2012,FORD,FIESTA,2012 Ford Fiesta 4 DR FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,616,3,3,2012/FORD/FIESTA/2012 Ford Fiesta 4 DR FWD.png
+6415,2012,FORD,FIESTA,2012 Ford Fiesta 5 HB FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,616,3,3,2012/FORD/FIESTA/2012 Ford Fiesta 5 HB FWD.png
 6430,2012,FORD,FLEX,2012 Ford Flex SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,No,No,64,2,0,2012/FORD/FLEX/2012 Ford Flex SUV FWD.png
 6650,2012,FORD,FLEX,2012 Ford Flex SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,No,No,64,2,0,2012/FORD/FLEX/2012 Ford Flex SUV AWD.png
-6416,2012,FORD,FOCUS,2012 Ford Focus 4 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3778,10,6,2012/FORD/FOCUS/2012 Ford Focus 4 DR FWD.png
-6417,2012,FORD,FOCUS,2012 Ford Focus 5 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3778,10,6,2012/FORD/FOCUS/2012 Ford Focus 5 DR FWD.png
+6416,2012,FORD,FOCUS,2012 Ford Focus 4 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3779,10,6,2012/FORD/FOCUS/2012 Ford Focus 4 DR FWD.png
+6417,2012,FORD,FOCUS,2012 Ford Focus 5 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3779,10,6,2012/FORD/FOCUS/2012 Ford Focus 5 DR FWD.png
 6418,2012,FORD,FUSION,2012 Ford Fusion 4 DR FWD,,4,3,4,3,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2595,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR FWD.png
 6718,2012,FORD,FUSION,2012 Ford Fusion 4 DR AWD,,4,3,4,3,4,5,3,5,3,4,5,Not Rated,0.092,0,No Tip,4,Standard,No,No,2595,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR AWD.png
 6419,2012,FORD,FUSION HYBRID,2012 Ford Fusion Hybrid 4 DR FWD,,4,3,3,4,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2556,6,5,2012/FORD/FUSION HYBRID/2012 Ford Fusion Hybrid 4 DR FWD.png
-6424,2012,FORD,MUSTANG,2012 Ford Mustang 2 DR RWD,,4,4,4,5,4,5,3,5,3,4,5,Not Rated,0.087,0,No Tip,4,Standard,No,No,468,7,1,2012/FORD/MUSTANG/2012 Ford Mustang 2 DR RWD.png
-6425,2012,FORD,MUSTANG,2012 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,468,7,1,2012/FORD/MUSTANG/2012 Ford Mustang C RWD.png
+6424,2012,FORD,MUSTANG,2012 Ford Mustang 2 DR RWD,,4,4,4,5,4,5,3,5,3,4,5,Not Rated,0.087,0,No Tip,4,Standard,No,No,469,7,1,2012/FORD/MUSTANG/2012 Ford Mustang 2 DR RWD.png
+6425,2012,FORD,MUSTANG,2012 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,469,7,1,2012/FORD/MUSTANG/2012 Ford Mustang C RWD.png
 6428,2012,FORD,TAURUS,2012 Ford Taurus 4 DR FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,78,5,0,2012/FORD/TAURUS/2012 Ford Taurus 4 DR FWD.png
 6648,2012,FORD,TAURUS,2012 Ford Taurus 4 DR AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,78,5,0,2012/FORD/TAURUS/2012 Ford Taurus 4 DR AWD.png
 6423,2012,FORD,TRANSIT CONNECT,2012 Ford Transit Connect VAN FWD,,2,3,3,3,2,2,5,1,5,3,3,Not Rated,0.256,0,No Tip,1,Standard,No,No,26,1,0,2012/FORD/TRANSIT CONNECT/2012 Ford Transit Connect VAN FWD.png
