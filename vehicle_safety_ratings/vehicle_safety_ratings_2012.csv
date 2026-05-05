@@ -218,8 +218,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6396,2012,FORD,E-350 P15,2012 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,16,12,0,2012/FORD/E-350 P15/2012 Ford E-350 P15 VAN RWD.png
 6398,2012,FORD,EDGE,2012 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,1126,3,1,2012/FORD/EDGE/2012 Ford Edge SUV FWD.png
 6703,2012,FORD,EDGE,2012 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,1126,3,1,2012/FORD/EDGE/2012 Ford Edge SUV AWD.png
-6400,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,596,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x2.png
-6704,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,596,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x4.png
+6400,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,597,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x2.png
+6704,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,597,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x4.png
 6401,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x2.png
 6705,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x4.png
 6402,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x2.png
@@ -399,7 +399,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6129,2012,KIA,FORTE,2012 Kia Forte 4 DR FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,286,4,4,2012/KIA/FORTE/2012 Kia Forte 4 DR FWD.png
 6130,2012,KIA,FORTE,2012 Kia Forte 5 HB FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,286,4,4,2012/KIA/FORTE/2012 Kia Forte 5 HB FWD.png
 6131,2012,KIA,FORTE KOUP,2012 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,300,4,4,2012/KIA/FORTE KOUP/2012 Kia Forte Koup 2 DR FWD.png
-6132,2012,KIA,OPTIMA,2012 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,908,5,7,2012/KIA/OPTIMA/2012 Kia Optima 4 DR FWD.png
+6132,2012,KIA,OPTIMA,2012 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,910,5,7,2012/KIA/OPTIMA/2012 Kia Optima 4 DR FWD.png
 6133,2012,KIA,OPTIMA HYBRID,2012 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,107,3,7,2012/KIA/OPTIMA HYBRID/2012 Kia Optima Hybrid 4 DR FWD.png
 6127,2012,KIA,RIO,2012 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,50,1,2,2012/KIA/RIO/2012 Kia Rio 4 DR FWD.png
 6128,2012,KIA,RIO,2012 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,50,1,2,2012/KIA/RIO/2012 Kia Rio 5 HB FWD.png
