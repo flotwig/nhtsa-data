@@ -23,7 +23,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6603,2012,AUDI,A6,2012 Audi A6 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,59,8,0,2012/AUDI/A6/2012 Audi A6 4 DR AWD.png
 6355,2012,AUDI,A7,2012 Audi A7 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,30,5,0,2012/AUDI/A7/2012 Audi A7 4 DR AWD.png
 6356,2012,AUDI,A8,2012 Audi A8 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,11,1,0,2012/AUDI/A8/2012 Audi A8 4 DR AWD.png
-6357,2012,AUDI,Q5,2012 Audi Q5 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,No,No,3,1,0,2012/AUDI/Q5/2012 Audi Q5 SUV AWD.png
+6357,2012,AUDI,Q5,2012 Audi Q5 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,No,No,4,1,0,2012/AUDI/Q5/2012 Audi Q5 SUV AWD.png
 6358,2012,AUDI,Q7,2012 Audi Q7 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,29,4,1,2012/AUDI/Q7/2012 Audi Q7 SUV AWD.png
 6359,2012,AUDI,R8,2012 Audi R8 2 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,1,0,2012/AUDI/R8/2012 Audi R8 2 DR AWD.png
 6360,2012,AUDI,R8 SPYDER,2012 Audi R8 Spyder C AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,1,0,2012/AUDI/R8 SPYDER/2012 Audi R8 Spyder C AWD.png
@@ -208,8 +208,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6316,2012,DODGE,GRAND CARAVAN,2012 Dodge Grand Caravan VAN FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,583,6,2,2012/DODGE/GRAND CARAVAN/2012 Dodge Grand Caravan VAN FWD.png
 6315,2012,DODGE,JOURNEY,2012 Dodge Journey SUV FWD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.185,0,No Tip,4,Standard,No,No,374,6,2,2012/DODGE/JOURNEY/2012 Dodge Journey SUV FWD.png
 6586,2012,DODGE,JOURNEY,2012 Dodge Journey SUV 4WD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.179,0,No Tip,4,Standard,No,No,374,6,2,2012/DODGE/JOURNEY/2012 Dodge Journey SUV 4WD.png
-6325,2012,FIAT,500,2012 Fiat 500 3 HB FWD Early Release,,3,4,4,3,2,5,2,5,2,3,4,Not Rated,0.145,0,No Tip,3,Standard,No,No,393,4,1,2012/FIAT/500/2012 Fiat 500 3 HB FWD Early Release.png
-6755,2012,FIAT,500,2012 Fiat 500 3 HB FWD Later Release,,3,4,4,3,3,5,2,5,2,3,4,Not Rated,0.147,0,No Tip,3,Standard,No,No,393,4,1,2012/FIAT/500/2012 Fiat 500 3 HB FWD Later Release.png
+6325,2012,FIAT,500,2012 Fiat 500 3 HB FWD Early Release,,3,4,4,3,2,5,2,5,2,3,4,Not Rated,0.145,0,No Tip,3,Standard,No,No,394,4,1,2012/FIAT/500/2012 Fiat 500 3 HB FWD Early Release.png
+6755,2012,FIAT,500,2012 Fiat 500 3 HB FWD Later Release,,3,4,4,3,3,5,2,5,2,3,4,Not Rated,0.147,0,No Tip,3,Standard,No,No,394,4,1,2012/FIAT/500/2012 Fiat 500 3 HB FWD Later Release.png
 6326,2012,FIAT,500 CABRIO,2012 Fiat 500 Cabrio C FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,392,4,1,2012/FIAT/500 CABRIO/2012 Fiat 500 Cabrio C FWD.png
 6394,2012,FORD,E-150,2012 Ford E-150 Passenger VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,12,8,0,2012/FORD/E-150/2012 Ford E-150 Passenger VAN RWD.png
 6395,2012,FORD,E-150,2012 Ford E-150 WAGON RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,12,8,0,2012/FORD/E-150/2012 Ford E-150 WAGON RWD.png
@@ -226,8 +226,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6706,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x4.png
 6724,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x2.png
 6725,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,116,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x4.png
-6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,815,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
-6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,815,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
+6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,816,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
+6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,816,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
 6405,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x2,,4,4,4,3,5,5,Not Rated,5,0,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x2.png
 6709,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x4,,4,4,4,3,5,5,Not Rated,5,0,5,3,Not Rated,0.228,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x4.png
 6407,2012,FORD,F-150 SUPER CREW,2012 Ford F-150 Super Crew PU/CC 4x2,,4,3,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1717,4,4,2012/FORD/F-150 SUPER CREW/2012 Ford F-150 Super Crew PU_CC 4x2.png
@@ -406,7 +406,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6135,2012,KIA,SEDONA,2012 Kia Sedona VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.136,0,No Tip,Not Rated,Standard,No,No,106,5,1,2012/KIA/SEDONA/2012 Kia Sedona VAN FWD.png
 6137,2012,KIA,SORENTO,2012 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,873,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV FWD.png
 6733,2012,KIA,SORENTO,2012 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,873,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV AWD.png
-6134,2012,KIA,SOUL,2012 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,509,3,5,2012/KIA/SOUL/2012 Kia Soul SUV FWD.png
+6134,2012,KIA,SOUL,2012 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,510,3,5,2012/KIA/SOUL/2012 Kia Soul SUV FWD.png
 6136,2012,KIA,SPORTAGE,2012 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,390,5,4,2012/KIA/SPORTAGE/2012 Kia Sportage SUV FWD.png
 6734,2012,KIA,SPORTAGE,2012 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,390,5,4,2012/KIA/SPORTAGE/2012 Kia Sportage SUV AWD.png
 6124,2012,LAND ROVER,LR2,2012 Land Rover LR2 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,6,2,0,2012/LAND ROVER/LR2/2012 Land Rover LR2 SUV 4WD.png
