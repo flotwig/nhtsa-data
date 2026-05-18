@@ -6,8 +6,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9010,2015,ACURA,RDX,2015 Acura RDX SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,403,3,1,2015/ACURA/RDX/2015 Acura RDX SUV FWD.png
 9011,2015,ACURA,RDX,2015 Acura RDX SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,403,3,1,2015/ACURA/RDX/2015 Acura RDX SUV AWD.png
 9401,2015,ACURA,RLX,2015 Acura RLX 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Standard,Standard,11,3,2,2015/ACURA/RLX/2015 Acura RLX 4 DR FWD.png
-9317,2015,ACURA,TLX,2015 Acura TLX 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.098,0,No Tip,5,Standard,Optional,Optional,337,6,2,2015/ACURA/TLX/2015 Acura TLX 4 DR FWD.png
-9318,2015,ACURA,TLX,2015 Acura TLX 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.098,0,No Tip,5,Standard,Optional,Optional,337,6,2,2015/ACURA/TLX/2015 Acura TLX 4 DR AWD.png
+9317,2015,ACURA,TLX,2015 Acura TLX 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.098,0,No Tip,5,Standard,Optional,Optional,338,6,2,2015/ACURA/TLX/2015 Acura TLX 4 DR FWD.png
+9318,2015,ACURA,TLX,2015 Acura TLX 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.098,0,No Tip,5,Standard,Optional,Optional,338,6,2,2015/ACURA/TLX/2015 Acura TLX 4 DR AWD.png
 9402,2015,ALFA ROMEO,4C,2015 Alfa Romeo 4C 2 DR 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2015/ALFA ROMEO/4C/2015 Alfa Romeo 4C 2 DR 2WD.png
 9403,2015,AUDI,A3,2015 Audi A3 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,174,7,1,2015/AUDI/A3/2015 Audi A3 4 DR AWD.png
 9405,2015,AUDI,A3,2015 Audi A3 C AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,174,7,1,2015/AUDI/A3/2015 Audi A3 C AWD.png
@@ -62,10 +62,10 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9170,2015,BMW,328D,2015 BMW 328D 4 DR RWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,27,6,2,2015/BMW/328D/2015 BMW 328D 4 DR RWD.png
 9171,2015,BMW,328D XDRIVE,2015 BMW 328D Xdrive 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,27,6,2,2015/BMW/328D XDRIVE/2015 BMW 328D Xdrive 4 DR AWD.png
 9431,2015,BMW,328D XDRIVE,2015 BMW 328D Xdrive SW AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,27,6,2,2015/BMW/328D XDRIVE/2015 BMW 328D Xdrive SW AWD.png
-9172,2015,BMW,328I,2015 BMW 328 I 4 DR RWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,118,4,1,2015/BMW/328I/2015 BMW 328 I 4 DR RWD.png
-9173,2015,BMW,328I XDRIVE,2015 BMW 328 I Xdrive 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,120,4,1,2015/BMW/328I XDRIVE/2015 BMW 328 I Xdrive 4 DR AWD.png
-9179,2015,BMW,328I XDRIVE,2015 BMW 328I Xdrive SW AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,120,4,1,2015/BMW/328I XDRIVE/2015 BMW 328I Xdrive SW AWD.png
-9177,2015,BMW,328I XDRIVE GT,2015 BMW 328I Xdrive GT 5 HB AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,120,4,1,2015/BMW/328I XDRIVE GT/2015 BMW 328I Xdrive GT 5 HB AWD.png
+9172,2015,BMW,328I,2015 BMW 328 I 4 DR RWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,119,4,1,2015/BMW/328I/2015 BMW 328 I 4 DR RWD.png
+9173,2015,BMW,328I XDRIVE,2015 BMW 328 I Xdrive 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,121,4,1,2015/BMW/328I XDRIVE/2015 BMW 328 I Xdrive 4 DR AWD.png
+9179,2015,BMW,328I XDRIVE,2015 BMW 328I Xdrive SW AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,121,4,1,2015/BMW/328I XDRIVE/2015 BMW 328I Xdrive SW AWD.png
+9177,2015,BMW,328I XDRIVE GT,2015 BMW 328I Xdrive GT 5 HB AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,121,4,1,2015/BMW/328I XDRIVE GT/2015 BMW 328I Xdrive GT 5 HB AWD.png
 9174,2015,BMW,335I,2015 BMW 335 I 4 DR RWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,10,3,2,2015/BMW/335I/2015 BMW 335 I 4 DR RWD.png
 9175,2015,BMW,335I XDRIVE,2015 BMW 335 I Xdrive 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,10,3,2,2015/BMW/335I XDRIVE/2015 BMW 335 I Xdrive 4 DR AWD.png
 9178,2015,BMW,335I XDRIVE GT,2015 BMW 335I Xdrive GT 5 HB AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,10,3,2,2015/BMW/335I XDRIVE GT/2015 BMW 335I Xdrive GT 5 HB AWD.png
@@ -176,10 +176,10 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9032,2015,CHEVROLET,CAPTIVA,2015 Chevrolet Captiva SUV AWD,,3,3,3,3,3,5,2,5,2,3,4,Not Rated,0.159,0,No Tip,5,Standard,No,No,14,0,0,2015/CHEVROLET/CAPTIVA/2015 Chevrolet Captiva SUV AWD.png
 9033,2015,CHEVROLET,CAPTIVA,2015 Chevrolet Captiva SUV FWD,,3,3,3,3,3,5,2,5,2,3,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,14,0,0,2015/CHEVROLET/CAPTIVA/2015 Chevrolet Captiva SUV FWD.png
 9496,2015,CHEVROLET,CITY EXPRESS,2015 Chevrolet City Express VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,10,2,0,2015/CHEVROLET/CITY EXPRESS/2015 Chevrolet City Express VAN FWD.png
-9497,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/CC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,476,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_CC 4WD.png
-9498,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/EC 4WD,,4,4,5,4,5,5,5,5,5,5,3,Not Rated,0.214,0,No Tip,5,Standard,Optional,Optional,476,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_EC 4WD.png
-9499,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/EC RWD,,4,4,5,4,5,5,5,5,5,5,3,Not Rated,0.22,0,No Tip,5,Standard,Optional,Optional,476,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_EC RWD.png
-9500,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/CC RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,476,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_CC RWD.png
+9497,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/CC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,477,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_CC 4WD.png
+9498,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/EC 4WD,,4,4,5,4,5,5,5,5,5,5,3,Not Rated,0.214,0,No Tip,5,Standard,Optional,Optional,477,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_EC 4WD.png
+9499,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/EC RWD,,4,4,5,4,5,5,5,5,5,5,3,Not Rated,0.22,0,No Tip,5,Standard,Optional,Optional,477,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_EC RWD.png
+9500,2015,CHEVROLET,COLORADO,2015 Chevrolet Colorado PU/CC RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,477,7,1,2015/CHEVROLET/COLORADO/2015 Chevrolet Colorado PU_CC RWD.png
 9524,2015,CHEVROLET,CORVETTE,2015 Chevrolet Corvette 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,64,5,0,2015/CHEVROLET/CORVETTE/2015 Chevrolet Corvette 2 DR RWD.png
 9525,2015,CHEVROLET,CORVETTE,2015 Chevrolet Corvette C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,64,5,0,2015/CHEVROLET/CORVETTE/2015 Chevrolet Corvette C RWD.png
 9526,2015,CHEVROLET,CRUZE,2015 Chevrolet Cruze 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,250,4,0,2015/CHEVROLET/CRUZE/2015 Chevrolet Cruze 4 DR FWD.png
@@ -252,8 +252,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9535,2015,FIAT,500L,2015 Fiat 500L 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,23,2,0,2015/FIAT/500L/2015 Fiat 500L 5 HB FWD.png
 9260,2015,FORD,CMAX ENERGI,2015 Ford CMAX Energi 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,59,5,3,2015/FORD/CMAX ENERGI/2015 Ford CMAX Energi 5 HB FWD.png
 9261,2015,FORD,CMAX HEV,2015 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,45,5,1,2015/FORD/CMAX HEV/2015 Ford CMAX Hybrid 5 HB FWD.png
-9536,2015,FORD,EDGE,2015 Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,705,7,2,2015/FORD/EDGE/2015 Ford Edge SUV AWD.png
-9537,2015,FORD,EDGE,2015 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,705,7,2,2015/FORD/EDGE/2015 Ford Edge SUV FWD.png
+9536,2015,FORD,EDGE,2015 Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,706,7,2,2015/FORD/EDGE/2015 Ford Edge SUV AWD.png
+9537,2015,FORD,EDGE,2015 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,706,7,2,2015/FORD/EDGE/2015 Ford Edge SUV FWD.png
 9270,2015,FORD,ESCAPE,2015 Ford Escape SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,988,9,2,2015/FORD/ESCAPE/2015 Ford Escape SUV AWD.png
 9271,2015,FORD,ESCAPE,2015 Ford Escape SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,988,9,2,2015/FORD/ESCAPE/2015 Ford Escape SUV FWD.png
 9272,2015,FORD,EXPEDITION,2015 Ford Expedition SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,163,3,0,2015/FORD/EXPEDITION/2015 Ford Expedition SUV 4x4.png
@@ -295,7 +295,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9556,2015,FORD,MUSTANG,2015 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.081,0,No Tip,Not Rated,Standard,Optional,No,432,11,3,2015/FORD/MUSTANG/2015 Ford Mustang C RWD.png
 9266,2015,FORD,TAURUS,2015 Ford Taurus 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,242,6,0,2015/FORD/TAURUS/2015 Ford Taurus 4 DR FWD.png
 9267,2015,FORD,TAURUS,2015 Ford Taurus 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,242,6,0,2015/FORD/TAURUS/2015 Ford Taurus 4 DR AWD.png
-9558,2015,FORD,TRANSIT,2015 Ford Transit VAN RWD,,Not Rated,4,4,3,5,5,Not Rated,5,Not Rated,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,184,26,1,2015/FORD/TRANSIT/2015 Ford Transit VAN RWD.png
+9558,2015,FORD,TRANSIT,2015 Ford Transit VAN RWD,,Not Rated,4,4,3,5,5,Not Rated,5,Not Rated,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,186,26,1,2015/FORD/TRANSIT/2015 Ford Transit VAN RWD.png
 9276,2015,FORD,TRANSIT CONNECT,2015 Ford Transit Connect Wagon FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,Optional,65,10,2,2015/FORD/TRANSIT CONNECT/2015 Ford Transit Connect Wagon FWD.png
 9277,2015,FORD,TRANSIT CONNECT,2015 Ford Transit Connect VAN FWD,,Not Rated,4,4,4,5,5,Not Rated,5,Not Rated,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,65,10,2,2015/FORD/TRANSIT CONNECT/2015 Ford Transit Connect VAN FWD.png
 9841,2015,FORD,TRANSIT HIGH ROOF,2015 Ford Transit High Roof WAGON RWD,,Not Rated,4,4,3,5,5,5,5,5,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,0,0,0,2015/FORD/TRANSIT HIGH ROOF/2015 Ford Transit High Roof WAGON RWD.png
@@ -393,8 +393,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9152,2015,HYUNDAI,VELOSTER,2015 Hyundai VELOSTER 3 C FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,133,2,2,2015/HYUNDAI/VELOSTER/2015 Hyundai VELOSTER 3 C FWD.png
 9336,2015,INFINITI,Q40,2015 Infiniti Q40 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.101,0,No Tip,Not Rated,Standard,No,No,8,0,0,2015/INFINITI/Q40/2015 Infiniti Q40 4 DR RWD.png
 9337,2015,INFINITI,Q40,2015 Infiniti Q40 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.101,0,No Tip,Not Rated,Standard,No,No,8,0,0,2015/INFINITI/Q40/2015 Infiniti Q40 4 DR AWD.png
-9341,2015,INFINITI,Q50,2015 Infiniti Q50 4 DR RWD,,5,4,4,3,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,119,3,0,2015/INFINITI/Q50/2015 Infiniti Q50 4 DR RWD.png
-9342,2015,INFINITI,Q50,2015 Infiniti Q50 4 DR AWD,,5,4,4,3,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,119,3,0,2015/INFINITI/Q50/2015 Infiniti Q50 4 DR AWD.png
+9341,2015,INFINITI,Q50,2015 Infiniti Q50 4 DR RWD,,5,4,4,3,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,120,3,0,2015/INFINITI/Q50/2015 Infiniti Q50 4 DR RWD.png
+9342,2015,INFINITI,Q50,2015 Infiniti Q50 4 DR AWD,,5,4,4,3,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,120,3,0,2015/INFINITI/Q50/2015 Infiniti Q50 4 DR AWD.png
 9343,2015,INFINITI,Q50 HYBRID,2015 Infiniti Q50 Hybrid 4 DR AWD,,5,4,4,3,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,112,3,1,2015/INFINITI/Q50 HYBRID/2015 Infiniti Q50 Hybrid 4 DR AWD.png
 9344,2015,INFINITI,Q50 HYBRID,2015 Infiniti Q50 Hybrid 4 DR RWD,,5,4,4,3,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,112,3,1,2015/INFINITI/Q50 HYBRID/2015 Infiniti Q50 Hybrid 4 DR RWD.png
 9338,2015,INFINITI,Q60,2015 Infiniti Q60 C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,2,0,0,2015/INFINITI/Q60/2015 Infiniti Q60 C RWD.png
@@ -433,8 +433,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9209,2015,JEEP,GRAND CHEROKEE,2015 Jeep Grand Cherokee SUV 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,1330,10,8,2015/JEEP/GRAND CHEROKEE/2015 Jeep Grand Cherokee SUV 4WD.png
 9202,2015,JEEP,PATRIOT,2015 Jeep Patriot SUV 4WD,,Not Rated,3,3,4,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.219,0,No Tip,Not Rated,Standard,No,No,312,1,4,2015/JEEP/PATRIOT/2015 Jeep Patriot SUV 4WD.png
 9203,2015,JEEP,PATRIOT,2015 Jeep Patriot SUV 2WD,,Not Rated,3,3,4,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.219,0,No Tip,Not Rated,Standard,No,No,312,1,4,2015/JEEP/PATRIOT/2015 Jeep Patriot SUV 2WD.png
-9204,2015,JEEP,WRANGLER,2015 Jeep Wrangler SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,439,3,3,2015/JEEP/WRANGLER/2015 Jeep Wrangler SUV 4WD.png
-9205,2015,JEEP,WRANGLER UNLIMITED,2015 Jeep Wrangler Unlimited SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,439,3,3,2015/JEEP/WRANGLER UNLIMITED/2015 Jeep Wrangler Unlimited SUV 4WD.png
+9204,2015,JEEP,WRANGLER,2015 Jeep Wrangler SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,440,3,3,2015/JEEP/WRANGLER/2015 Jeep Wrangler SUV 4WD.png
+9205,2015,JEEP,WRANGLER UNLIMITED,2015 Jeep Wrangler Unlimited SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,440,3,3,2015/JEEP/WRANGLER UNLIMITED/2015 Jeep Wrangler Unlimited SUV 4WD.png
 9619,2015,KIA,CADENZA,2015 Kia Cadenza 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,Optional,48,2,1,2015/KIA/CADENZA/2015 Kia Cadenza 4 DR FWD.png
 9018,2015,KIA,FORTE,2015 Kia Forte 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,254,1,2,2015/KIA/FORTE/2015 Kia Forte 5 HB FWD.png
 9019,2015,KIA,FORTE,2015 Kia Forte 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,254,1,2,2015/KIA/FORTE/2015 Kia Forte 4 DR FWD.png
@@ -445,8 +445,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9159,2015,KIA,RIO,2015 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,52,1,2,2015/KIA/RIO/2015 Kia Rio 5 HB FWD.png
 9160,2015,KIA,RIO,2015 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,52,1,2,2015/KIA/RIO/2015 Kia Rio 4 DR FWD.png
 9815,2015,KIA,SEDONA,2015 Kia Sedona VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.13,0,No Tip,5,Standard,Optional,No,133,3,0,2015/KIA/SEDONA/2015 Kia Sedona VAN FWD.png
-9005,2015,KIA,SORENTO,2015 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,738,3,4,2015/KIA/SORENTO/2015 Kia Sorento SUV FWD.png
-9006,2015,KIA,SORENTO,2015 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,738,3,4,2015/KIA/SORENTO/2015 Kia Sorento SUV AWD.png
+9005,2015,KIA,SORENTO,2015 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,739,3,4,2015/KIA/SORENTO/2015 Kia Sorento SUV FWD.png
+9006,2015,KIA,SORENTO,2015 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,739,3,4,2015/KIA/SORENTO/2015 Kia Sorento SUV AWD.png
 9622,2015,KIA,SOUL,2015 Kia Soul SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,888,7,5,2015/KIA/SOUL/2015 Kia Soul SUV FWD.png
 9623,2015,KIA,SOUL EV,2015 Kia Soul Ev SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,888,7,5,2015/KIA/SOUL EV/2015 Kia Soul Ev SUV FWD.png
 9162,2015,KIA,SPORTAGE,2015 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,144,2,2,2015/KIA/SPORTAGE/2015 Kia Sportage SUV AWD.png
@@ -708,7 +708,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9783,2015,SUBARU,LEGACY,2015 Subaru Legacy 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,159,3,1,2015/SUBARU/LEGACY/2015 Subaru Legacy 4 DR AWD.png
 9784,2015,SUBARU,OUTBACK,2015 Subaru Outback SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.175,0, ,5,Standard,Optional,Optional,499,5,1,2015/SUBARU/OUTBACK/2015 Subaru Outback SUV AWD.png
 9785,2015,SUBARU,WRX,2015 Subaru WRX 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,52,3,0,2015/SUBARU/WRX/2015 Subaru WRX 4 DR AWD.png
-9256,2015,SUBARU,XV CROSSTREK,2015 Subaru XV Crosstrek SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,Optional,Optional,97,2,0,2015/SUBARU/XV CROSSTREK/2015 Subaru XV Crosstrek SUV AWD.png
+9256,2015,SUBARU,XV CROSSTREK,2015 Subaru XV Crosstrek SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,Optional,Optional,98,2,0,2015/SUBARU/XV CROSSTREK/2015 Subaru XV Crosstrek SUV AWD.png
 9257,2015,SUBARU,XV CROSSTREK HYBRID,2015 Subaru XV Crosstrek Hybrid SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,No,No,94,2,0,2015/SUBARU/XV CROSSTREK HYBRID/2015 Subaru XV Crosstrek Hybrid SUV AWD.png
 9828,2015,TESLA,MODEL S 60KWH,2015 Tesla Model S 60KWH 5 HB RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.057,0,No Tip,5,Standard,Standard,Optional,649,8,5,2015/TESLA/MODEL S 60KWH/2015 Tesla Model S 60KWH 5 HB RWD.png
 9837,2015,TESLA,MODEL S 70D,2015 Tesla Model S 70D 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,5,5,5,5,5,5,5,Not Rated,0.057,0,No Tip,5,Standard,Standard,Optional,649,8,5,2015/TESLA/MODEL S 70D/2015 Tesla Model S 70D 5 HB AWD.png

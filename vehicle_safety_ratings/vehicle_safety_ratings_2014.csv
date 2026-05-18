@@ -226,8 +226,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8252,2014,FORD,E-350 P15,2014 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,21,13,0,2014/FORD/E-350 P15/2014 Ford E-350 P15 VAN RWD.png
 8244,2014,FORD,EDGE,2014 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,376,3,1,2014/FORD/EDGE/2014 Ford Edge SUV AWD.png
 8245,2014,FORD,EDGE,2014 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,376,3,1,2014/FORD/EDGE/2014 Ford Edge SUV FWD.png
-8246,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2051,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x4.png
-8247,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2051,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x2.png
+8246,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2052,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x4.png
+8247,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2052,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x2.png
 8253,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,70,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x4.png
 8254,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,70,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x2.png
 8255,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,70,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x2.png
@@ -259,8 +259,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8232,2014,FORD,FOCUS,2014 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2631,13,5,2014/FORD/FOCUS/2014 Ford Focus 5 HB FWD.png
 8233,2014,FORD,FOCUS,2014 Ford Focus 4 DR FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2631,13,5,2014/FORD/FOCUS/2014 Ford Focus 4 DR FWD.png
 8234,2014,FORD,FOCUS BEV,2014 Ford Focus BEV 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,No,Optional,2584,12,5,2014/FORD/FOCUS BEV/2014 Ford Focus BEV 5 HB FWD.png
-8237,2014,FORD,FUSION,2014 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1410,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR AWD.png
-8283,2014,FORD,FUSION,2014 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1410,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR FWD.png
+8237,2014,FORD,FUSION,2014 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1411,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR AWD.png
+8283,2014,FORD,FUSION,2014 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1411,19,5,2014/FORD/FUSION/2014 Ford Fusion 4 DR FWD.png
 8239,2014,FORD,FUSION ENERGI,2014 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1346,19,5,2014/FORD/FUSION ENERGI/2014 Ford Fusion Energi 4 DR FWD.png
 8238,2014,FORD,FUSION HEV,2014 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1346,19,5,2014/FORD/FUSION HEV/2014 Ford Fusion Hybrid 4 DR FWD.png
 8013,2014,FORD,MUSTANG,2014 Ford Mustang 2 DR RWD,,4,4,4,5,4,5,3,5,3,4,5,Not Rated,0.087,0,No Tip,4,Standard,No,No,356,4,0,2014/FORD/MUSTANG/2014 Ford Mustang 2 DR RWD.png
@@ -330,8 +330,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8123,2014,HYUNDAI,ACCENT,2014 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,79,1,1,2014/HYUNDAI/ACCENT/2014 Hyundai Accent 4 DR FWD.png
 8132,2014,HYUNDAI,ACCENT 5,2014 Hyundai Accent 5 5 HB FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,78,1,0,2014/HYUNDAI/ACCENT 5/2014 Hyundai Accent 5 5 HB FWD.png
 8654,2014,HYUNDAI,AZERA,2014 Hyundai Azera 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,48,1,1,2014/HYUNDAI/AZERA/2014 Hyundai Azera 4 DR FWD.png
-8124,2014,HYUNDAI,ELANTRA,2014 Hyundai Elantra 4 DR FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,378,2,2,2014/HYUNDAI/ELANTRA/2014 Hyundai Elantra 4 DR FWD.png
-8652,2014,HYUNDAI,ELANTRA,2014 Hyundai Elantra 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,380,2,2,2014/HYUNDAI/ELANTRA/2014 Hyundai Elantra 2 DR FWD.png
+8124,2014,HYUNDAI,ELANTRA,2014 Hyundai Elantra 4 DR FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,379,2,2,2014/HYUNDAI/ELANTRA/2014 Hyundai Elantra 4 DR FWD.png
+8652,2014,HYUNDAI,ELANTRA,2014 Hyundai Elantra 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,381,2,2,2014/HYUNDAI/ELANTRA/2014 Hyundai Elantra 2 DR FWD.png
 8125,2014,HYUNDAI,ELANTRA GT,2014 Hyundai Elantra GT 5 HB FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,378,2,0,2014/HYUNDAI/ELANTRA GT/2014 Hyundai Elantra GT 5 HB FWD.png
 8655,2014,HYUNDAI,EQUUS,2014 Hyundai Equus 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,Optional,36,1,1,2014/HYUNDAI/EQUUS/2014 Hyundai Equus 4 DR RWD.png
 8126,2014,HYUNDAI,GENESIS,2014 Hyundai Genesis 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.095,0,No Tip,Not Rated,Standard,No,Optional,23,0,0,2014/HYUNDAI/GENESIS/2014 Hyundai Genesis 4 DR RWD.png
@@ -374,8 +374,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8485,2014,JAGUAR,XJ (SWB),2014 Jaguar XJ (SWB) 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,11,2,0,2014/JAGUAR/XJ (SWB)/2014 Jaguar XJ (SWB) 4 DR AWD.png
 8480,2014,JAGUAR,XK,2014 Jaguar XK 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,3,4,0,2014/JAGUAR/XK/2014 Jaguar XK 2 DR RWD.png
 8481,2014,JAGUAR,XK,2014 Jaguar XK C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,3,4,0,2014/JAGUAR/XK/2014 Jaguar XK C RWD.png
-8502,2014,JEEP,CHEROKEE,2014 Jeep Cherokee SUV 4WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,2627,13,4,2014/JEEP/CHEROKEE/2014 Jeep Cherokee SUV 4WD.png
-8503,2014,JEEP,CHEROKEE,2014 Jeep Cherokee SUV 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,2627,13,4,2014/JEEP/CHEROKEE/2014 Jeep Cherokee SUV 2WD.png
+8502,2014,JEEP,CHEROKEE,2014 Jeep Cherokee SUV 4WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,2628,13,4,2014/JEEP/CHEROKEE/2014 Jeep Cherokee SUV 4WD.png
+8503,2014,JEEP,CHEROKEE,2014 Jeep Cherokee SUV 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,2628,13,4,2014/JEEP/CHEROKEE/2014 Jeep Cherokee SUV 2WD.png
 8178,2014,JEEP,COMPASS,2014 Jeep Compass SUV 2WD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,305,2,2,2014/JEEP/COMPASS/2014 Jeep Compass SUV 2WD.png
 8179,2014,JEEP,COMPASS,2014 Jeep Compass SUV 4WD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,305,2,2,2014/JEEP/COMPASS/2014 Jeep Compass SUV 4WD.png
 8000,2014,JEEP,GRAND CHEROKEE,2014 Jeep Grand Cherokee SUV 2WD Early Release,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.207,0,No Tip,5,Standard,Optional,No,2359,19,10,2014/JEEP/GRAND CHEROKEE/2014 Jeep Grand Cherokee SUV 2WD Early Release.png
@@ -638,8 +638,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8140,2014,TOYOTA,PRIUS C,2014 Toyota Prius C 5 HB FWD,,4,4,4,4,4,4,4,4,4,4,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,205,3,2,2014/TOYOTA/PRIUS C/2014 Toyota Prius C 5 HB FWD.png
 8141,2014,TOYOTA,PRIUS PLUG-IN HYBRID,2014 Toyota Prius Plug-In Hybrid 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.124,0,No Tip,Not Rated,Standard,Optional,No,186,4,2,2014/TOYOTA/PRIUS PLUG-IN HYBRID/2014 Toyota Prius Plug-In Hybrid 5 HB FWD.png
 8142,2014,TOYOTA,PRIUS V,2014 Toyota Prius V SW FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.136,0,No Tip,4,Standard,No,No,251,5,1,2014/TOYOTA/PRIUS V/2014 Toyota Prius V SW FWD.png
-8143,2014,TOYOTA,RAV4,2014 Toyota Rav4 SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,4,Standard,No,No,193,4,1,2014/TOYOTA/RAV4/2014 Toyota Rav4 SUV FWD.png
-8144,2014,TOYOTA,RAV4,2014 Toyota Rav4 SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,4,Standard,No,No,193,4,1,2014/TOYOTA/RAV4/2014 Toyota Rav4 SUV AWD.png
+8143,2014,TOYOTA,RAV4,2014 Toyota Rav4 SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,4,Standard,No,No,194,4,1,2014/TOYOTA/RAV4/2014 Toyota Rav4 SUV FWD.png
+8144,2014,TOYOTA,RAV4,2014 Toyota Rav4 SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,4,Standard,No,No,194,4,1,2014/TOYOTA/RAV4/2014 Toyota Rav4 SUV AWD.png
 8596,2014,TOYOTA,RAV4 EV,2014 Toyota Rav4 EV SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,188,7,2,2014/TOYOTA/RAV4 EV/2014 Toyota Rav4 EV SUV FWD.png
 8595,2014,TOYOTA,SCION FR-S,2014 Toyota Scion FR-S 2 DR RWD,,5,4,4,4,5,3,5,4,5,5,5,Not Rated,0.071,0,No Tip,5,Standard,No,No,6,0,0,2014/TOYOTA/SCION FR-S/2014 Toyota Scion FR-S 2 DR RWD.png
 8018,2014,TOYOTA,SCION IQ,2014 Toyota Scion IQ 3 HB FWD,,4,4,4,3,3,4,3,4,3,3,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,6,0,0,2014/TOYOTA/SCION IQ/2014 Toyota Scion IQ 3 HB FWD.png
