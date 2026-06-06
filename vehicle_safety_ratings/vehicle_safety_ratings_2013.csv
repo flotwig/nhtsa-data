@@ -263,8 +263,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7675,2013,FORD,F-350,2013 Ford F-350 PU/RC 4x4,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,85,10,1,2013/FORD/F-350/2013 Ford F-350 PU_RC 4x4.png
 7491,2013,FORD,F-350 SUPER CREW,2013 Ford F-350 Super Crew PU/CC 4x2,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,86,13,1,2013/FORD/F-350 SUPER CREW/2013 Ford F-350 Super Crew PU_CC 4x2.png
 7676,2013,FORD,F-350 SUPER CREW,2013 Ford F-350 Super Crew PU/CC 4x4,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,86,13,1,2013/FORD/F-350 SUPER CREW/2013 Ford F-350 Super Crew PU_CC 4x4.png
-7345,2013,FORD,FIESTA,2013 Ford Fiesta 4 DR FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,666,3,3,2013/FORD/FIESTA/2013 Ford Fiesta 4 DR FWD.png
-7346,2013,FORD,FIESTA,2013 Ford Fiesta 5 HB FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,666,3,3,2013/FORD/FIESTA/2013 Ford Fiesta 5 HB FWD.png
+7345,2013,FORD,FIESTA,2013 Ford Fiesta 4 DR FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,667,3,3,2013/FORD/FIESTA/2013 Ford Fiesta 4 DR FWD.png
+7346,2013,FORD,FIESTA,2013 Ford Fiesta 5 HB FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.143,0,No Tip,4,Standard,No,No,667,3,3,2013/FORD/FIESTA/2013 Ford Fiesta 5 HB FWD.png
 7018,2013,FORD,FLEX,2013 Ford Flex SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,No,578,6,0,2013/FORD/FLEX/2013 Ford Flex SUV FWD.png
 7019,2013,FORD,FLEX,2013 Ford Flex SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,No,578,6,0,2013/FORD/FLEX/2013 Ford Flex SUV AWD.png
 7333,2013,FORD,FOCUS,2013 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2102,11,4,2013/FORD/FOCUS/2013 Ford Focus 5 HB FWD.png
@@ -648,7 +648,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7206,2013,SUZUKI,SX4,2013 Suzuki Sx4 4 DR FWD,,4,4,4,3,3,5,2,4,2,3,4,Not Rated,0.133,0,No Tip,3,Standard,No,No,15,5,0,2013/SUZUKI/SX4/2013 Suzuki Sx4 4 DR FWD.png
 7207,2013,SUZUKI,SX4,2013 Suzuki Sx4 5 HB FWD,,4,4,4,3,3,5,2,4,2,3,4,Not Rated,0.133,0,No Tip,3,Standard,No,No,15,5,0,2013/SUZUKI/SX4/2013 Suzuki Sx4 5 HB FWD.png
 7208,2013,SUZUKI,SX4,2013 Suzuki Sx4 5 HB AWD,,4,4,4,3,3,5,2,4,2,3,4,Not Rated,0.133,0,No Tip,3,Standard,No,No,15,5,0,2013/SUZUKI/SX4/2013 Suzuki Sx4 5 HB AWD.png
-7769,2013,TESLA,MODEL S,2013 Tesla Model S 5 HB RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.057,0,No Tip,5,Standard,No,No,455,11,12,2013/TESLA/MODEL S/2013 Tesla Model S 5 HB RWD.png
+7769,2013,TESLA,MODEL S,2013 Tesla Model S 5 HB RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.057,0,No Tip,5,Standard,No,No,456,11,12,2013/TESLA/MODEL S/2013 Tesla Model S 5 HB RWD.png
 7156,2013,TOYOTA,4RUNNER,2013 Toyota 4Runner SUV 4WD,,4,4,4,3,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,35,6,1,2013/TOYOTA/4RUNNER/2013 Toyota 4Runner SUV 4WD.png
 7157,2013,TOYOTA,4RUNNER,2013 Toyota 4Runner SUV 2WD,,4,4,4,3,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,35,6,1,2013/TOYOTA/4RUNNER/2013 Toyota 4Runner SUV 2WD.png
 7609,2013,TOYOTA,AVALON,2013 Toyota Avalon 4 DR FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,4,Standard,No,No,159,4,4,2013/TOYOTA/AVALON/2013 Toyota Avalon 4 DR FWD.png
@@ -681,8 +681,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7621,2013,TOYOTA,SCION XD,2013 Toyota Scion XD 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,4,0,0,2013/TOYOTA/SCION XD/2013 Toyota Scion XD 5 HB FWD.png
 7160,2013,TOYOTA,SEQUOIA,2013 Toyota Sequoia SUV 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,12,3,1,2013/TOYOTA/SEQUOIA/2013 Toyota Sequoia SUV 2WD.png
 7161,2013,TOYOTA,SEQUOIA,2013 Toyota Sequoia SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,12,3,1,2013/TOYOTA/SEQUOIA/2013 Toyota Sequoia SUV 4WD.png
-7158,2013,TOYOTA,SIENNA,2013 Toyota Sienna VAN AWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,4,Standard,No,No,181,6,1,2013/TOYOTA/SIENNA/2013 Toyota Sienna VAN AWD.png
-7159,2013,TOYOTA,SIENNA,2013 Toyota Sienna VAN FWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,4,Standard,No,No,181,6,1,2013/TOYOTA/SIENNA/2013 Toyota Sienna VAN FWD.png
+7158,2013,TOYOTA,SIENNA,2013 Toyota Sienna VAN AWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,4,Standard,No,No,182,6,1,2013/TOYOTA/SIENNA/2013 Toyota Sienna VAN AWD.png
+7159,2013,TOYOTA,SIENNA,2013 Toyota Sienna VAN FWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,4,Standard,No,No,182,6,1,2013/TOYOTA/SIENNA/2013 Toyota Sienna VAN FWD.png
 7175,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/CC 4WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,124,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_CC 4WD.png
 7176,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/CC 2WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,124,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_CC 2WD.png
 7177,2013,TOYOTA,TACOMA,2013 Toyota Tacoma PU/EC 2WD,,4,4,4,4,5,5,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,124,6,1,2013/TOYOTA/TACOMA/2013 Toyota Tacoma PU_EC 2WD.png
