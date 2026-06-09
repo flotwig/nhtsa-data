@@ -187,9 +187,9 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6665,2012,CHEVROLET,TAHOE HYBRID,2012 Chevrolet Tahoe Hybrid SUV 4WD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,178,2,1,2012/CHEVROLET/TAHOE HYBRID/2012 Chevrolet Tahoe Hybrid SUV 4WD.png
 6436,2012,CHEVROLET,TRAVERSE,2012 Chevrolet Traverse SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,354,5,2,2012/CHEVROLET/TRAVERSE/2012 Chevrolet Traverse SUV FWD.png
 6656,2012,CHEVROLET,TRAVERSE,2012 Chevrolet Traverse SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,354,5,2,2012/CHEVROLET/TRAVERSE/2012 Chevrolet Traverse SUV AWD.png
-6508,2012,CHEVROLET,VOLT,2012 Chevrolet Volt 4 DR FWD(Early Release-no field upgrade),,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,No,No,243,2,3,2012/CHEVROLET/VOLT/2012 Chevrolet Volt 4 DR FWD(Early Release-no field upgrade).png
-6765,2012,CHEVROLET,VOLT,2012 Chevrolet Volt 4 DR FWD(Early Release- field upgrade),,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,No,No,3,0,1,2012/CHEVROLET/VOLT/2012 Chevrolet Volt 4 DR FWD(Early Release- field upgrade).png
-6766,2012,CHEVROLET,VOLT,2012 Chevrolet Volt 4 DR FWD(Later Release),,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,No,No,3,0,1,2012/CHEVROLET/VOLT/2012 Chevrolet Volt 4 DR FWD(Later Release).png
+6508,2012,CHEVROLET,VOLT,2012 Chevrolet Volt 4 DR FWD(Early Release-no field upgrade),,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,No,No,244,2,3,2012/CHEVROLET/VOLT/2012 Chevrolet Volt 4 DR FWD(Early Release-no field upgrade).png
+6765,2012,CHEVROLET,VOLT,2012 Chevrolet Volt 4 DR FWD(Early Release- field upgrade),,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,No,No,4,0,1,2012/CHEVROLET/VOLT/2012 Chevrolet Volt 4 DR FWD(Early Release- field upgrade).png
+6766,2012,CHEVROLET,VOLT,2012 Chevrolet Volt 4 DR FWD(Later Release),,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,No,No,4,0,1,2012/CHEVROLET/VOLT/2012 Chevrolet Volt 4 DR FWD(Later Release).png
 6307,2012,CHRYSLER,200,2012 Chrysler 200 4 DR FWD,,4,4,4,3,3,5,4,2,4,5,4,Not Rated,0.111,0,No Tip,1,Standard,No,No,638,4,2,2012/CHRYSLER/200/2012 Chrysler 200 4 DR FWD.png
 6308,2012,CHRYSLER,200,2012 Chrysler 200 C FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,638,4,2,2012/CHRYSLER/200/2012 Chrysler 200 C FWD.png
 6309,2012,CHRYSLER,300,2012 Chrysler 300 4 DR RWD,,5,5,5,4,5,3,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,424,9,2,2012/CHRYSLER/300/2012 Chrysler 300 4 DR RWD.png
@@ -396,9 +396,9 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6589,2012,JEEP,PATRIOT,2012 Jeep Patriot SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,352,4,3,2012/JEEP/PATRIOT/2012 Jeep Patriot SUV 4WD.png
 6320,2012,JEEP,WRANGLER,2012 Jeep Wrangler SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,827,10,6,2012/JEEP/WRANGLER/2012 Jeep Wrangler SUV 4WD.png
 6321,2012,JEEP,WRANGLER UNLIMITED,2012 Jeep Wrangler Unlimited SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,827,10,6,2012/JEEP/WRANGLER UNLIMITED/2012 Jeep Wrangler Unlimited SUV 4WD.png
-6129,2012,KIA,FORTE,2012 Kia Forte 4 DR FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,286,4,4,2012/KIA/FORTE/2012 Kia Forte 4 DR FWD.png
-6130,2012,KIA,FORTE,2012 Kia Forte 5 HB FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,286,4,4,2012/KIA/FORTE/2012 Kia Forte 5 HB FWD.png
-6131,2012,KIA,FORTE KOUP,2012 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,300,4,4,2012/KIA/FORTE KOUP/2012 Kia Forte Koup 2 DR FWD.png
+6129,2012,KIA,FORTE,2012 Kia Forte 4 DR FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,287,4,4,2012/KIA/FORTE/2012 Kia Forte 4 DR FWD.png
+6130,2012,KIA,FORTE,2012 Kia Forte 5 HB FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,287,4,4,2012/KIA/FORTE/2012 Kia Forte 5 HB FWD.png
+6131,2012,KIA,FORTE KOUP,2012 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,301,4,4,2012/KIA/FORTE KOUP/2012 Kia Forte Koup 2 DR FWD.png
 6132,2012,KIA,OPTIMA,2012 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,913,5,7,2012/KIA/OPTIMA/2012 Kia Optima 4 DR FWD.png
 6133,2012,KIA,OPTIMA HYBRID,2012 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,107,3,7,2012/KIA/OPTIMA HYBRID/2012 Kia Optima Hybrid 4 DR FWD.png
 6127,2012,KIA,RIO,2012 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,52,1,2,2012/KIA/RIO/2012 Kia Rio 4 DR FWD.png
@@ -449,7 +449,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6427,2012,LINCOLN,MKX,2012 Lincoln MKX SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,84,1,0,2012/LINCOLN/MKX/2012 Lincoln MKX SUV AWD.png
 6420,2012,LINCOLN,MKZ,2012 Lincoln MKZ 4 DR FWD,,4,3,4,3,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,146,6,2,2012/LINCOLN/MKZ/2012 Lincoln MKZ 4 DR FWD.png
 6719,2012,LINCOLN,MKZ,2012 Lincoln MKZ 4 DR AWD,,4,3,4,3,4,5,3,5,3,4,5,Not Rated,0.092,0,No Tip,4,Standard,No,No,146,6,2,2012/LINCOLN/MKZ/2012 Lincoln MKZ 4 DR AWD.png
-6421,2012,LINCOLN,MKZ HEV,2012 Lincoln MKZ Hev 4 DR FWD,,4,3,3,4,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,203,6,3,2012/LINCOLN/MKZ HEV/2012 Lincoln MKZ Hev 4 DR FWD.png
+6421,2012,LINCOLN,MKZ HEV,2012 Lincoln MKZ Hev 4 DR FWD,,4,3,3,4,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,204,6,3,2012/LINCOLN/MKZ HEV/2012 Lincoln MKZ Hev 4 DR FWD.png
 6403,2012,LINCOLN,NAVIGATOR,2012 Lincoln Navigator SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,12,3,1,2012/LINCOLN/NAVIGATOR/2012 Lincoln Navigator SUV 4x2.png
 6707,2012,LINCOLN,NAVIGATOR,2012 Lincoln Navigator SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,12,3,1,2012/LINCOLN/NAVIGATOR/2012 Lincoln Navigator SUV 4x4.png
 6722,2012,LINCOLN,NAVIGATOR,2012 Lincoln Navigator EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,12,3,1,2012/LINCOLN/NAVIGATOR/2012 Lincoln Navigator EXTENDED SUV 4x2.png
