@@ -132,30 +132,30 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 
 | Model Year | Complaints | Crashes | Fires | Injuries | Deaths | File |
 |------------|-----------:|--------:|------:|---------:|-------:|------|
-| 2027 | 7 | 0 | 0 | 1 | 0 | [complaints_2027.csv](./complaints/complaints_2027.csv) |
-| 2026 | 1,654 | 121 | 9 | 89 | 0 | [complaints_2026.csv](./complaints/complaints_2026.csv) |
-| 2025 | 8,188 | 517 | 73 | 388 | 9 | [complaints_2025.csv](./complaints/complaints_2025.csv) |
-| 2024 | 14,318 | 774 | 146 | 652 | 15 | [complaints_2024.csv](./complaints/complaints_2024.csv) |
-| 2023 | 19,845 | 1,118 | 158 | 805 | 15 | [complaints_2023.csv](./complaints/complaints_2023.csv) |
-| 2022 | 23,461 | 1,070 | 261 | 1,128 | 120 | [complaints_2022.csv](./complaints/complaints_2022.csv) |
-| 2021 | 25,140 | 1,122 | 325 | 851 | 23 | [complaints_2021.csv](./complaints/complaints_2021.csv) |
-| 2020 | 27,775 | 1,157 | 369 | 981 | 33 | [complaints_2020.csv](./complaints/complaints_2020.csv) |
-| 2019 | 38,289 | 1,487 | 421 | 1,236 | 19 | [complaints_2019.csv](./complaints/complaints_2019.csv) |
-| 2018 | 45,415 | 1,717 | 491 | 1,406 | 29 | [complaints_2018.csv](./complaints/complaints_2018.csv) |
-| 2017 | 49,104 | 2,038 | 686 | 1,810 | 90 | [complaints_2017.csv](./complaints/complaints_2017.csv) |
-| 2016 | 49,960 | 2,228 | 748 | 1,969 | 140 | [complaints_2016.csv](./complaints/complaints_2016.csv) |
-| 2015 | 51,702 | 2,532 | 1,027 | 2,258 | 65 | [complaints_2015.csv](./complaints/complaints_2015.csv) |
-| 2014 | 55,097 | 2,747 | 1,075 | 2,386 | 58 | [complaints_2014.csv](./complaints/complaints_2014.csv) |
-| 2013 | 62,215 | 2,552 | 1,375 | 2,357 | 65 | [complaints_2013.csv](./complaints/complaints_2013.csv) |
-| 2012 | 52,474 | 2,361 | 1,164 | 2,052 | 48 | [complaints_2012.csv](./complaints/complaints_2012.csv) |
-| 2011 | 53,397 | 2,244 | 1,072 | 2,020 | 78 | [complaints_2011.csv](./complaints/complaints_2011.csv) |
-| 2010 | 50,172 | 2,364 | 663 | 1,881 | 134 | [complaints_2010.csv](./complaints/complaints_2010.csv) |
-| 2009 | 44,161 | 2,268 | 714 | 1,757 | 64 | [complaints_2009.csv](./complaints/complaints_2009.csv) |
-| 2008 | 64,741 | 3,239 | 1,229 | 2,776 | 104 | [complaints_2008.csv](./complaints/complaints_2008.csv) |
-| 2007 | 71,458 | 3,713 | 1,542 | 3,508 | 123 | [complaints_2007.csv](./complaints/complaints_2007.csv) |
+| 2027 | 8 | 0 | 0 | 1 | 0 | [complaints_2027.csv](./complaints/complaints_2027.csv) |
+| 2026 | 1,663 | 121 | 10 | 90 | 0 | [complaints_2026.csv](./complaints/complaints_2026.csv) |
+| 2025 | 8,210 | 519 | 73 | 388 | 9 | [complaints_2025.csv](./complaints/complaints_2025.csv) |
+| 2024 | 14,333 | 775 | 146 | 652 | 15 | [complaints_2024.csv](./complaints/complaints_2024.csv) |
+| 2023 | 19,863 | 1,119 | 158 | 806 | 15 | [complaints_2023.csv](./complaints/complaints_2023.csv) |
+| 2022 | 23,483 | 1,071 | 261 | 1,129 | 120 | [complaints_2022.csv](./complaints/complaints_2022.csv) |
+| 2021 | 25,161 | 1,122 | 325 | 852 | 23 | [complaints_2021.csv](./complaints/complaints_2021.csv) |
+| 2020 | 27,788 | 1,157 | 370 | 981 | 33 | [complaints_2020.csv](./complaints/complaints_2020.csv) |
+| 2019 | 38,309 | 1,487 | 422 | 1,236 | 19 | [complaints_2019.csv](./complaints/complaints_2019.csv) |
+| 2018 | 45,450 | 1,719 | 491 | 1,408 | 30 | [complaints_2018.csv](./complaints/complaints_2018.csv) |
+| 2017 | 49,134 | 2,038 | 687 | 1,810 | 90 | [complaints_2017.csv](./complaints/complaints_2017.csv) |
+| 2016 | 49,978 | 2,229 | 748 | 1,970 | 140 | [complaints_2016.csv](./complaints/complaints_2016.csv) |
+| 2015 | 51,717 | 2,533 | 1,027 | 2,259 | 65 | [complaints_2015.csv](./complaints/complaints_2015.csv) |
+| 2014 | 55,109 | 2,747 | 1,075 | 2,386 | 58 | [complaints_2014.csv](./complaints/complaints_2014.csv) |
+| 2013 | 62,227 | 2,553 | 1,375 | 2,357 | 65 | [complaints_2013.csv](./complaints/complaints_2013.csv) |
+| 2012 | 52,477 | 2,362 | 1,164 | 2,057 | 48 | [complaints_2012.csv](./complaints/complaints_2012.csv) |
+| 2011 | 53,402 | 2,244 | 1,072 | 2,020 | 78 | [complaints_2011.csv](./complaints/complaints_2011.csv) |
+| 2010 | 50,174 | 2,364 | 663 | 1,881 | 134 | [complaints_2010.csv](./complaints/complaints_2010.csv) |
+| 2009 | 44,162 | 2,268 | 714 | 1,757 | 64 | [complaints_2009.csv](./complaints/complaints_2009.csv) |
+| 2008 | 64,742 | 3,239 | 1,229 | 2,776 | 104 | [complaints_2008.csv](./complaints/complaints_2008.csv) |
+| 2007 | 71,461 | 3,713 | 1,542 | 3,508 | 123 | [complaints_2007.csv](./complaints/complaints_2007.csv) |
 | 2006 | 72,749 | 3,771 | 1,193 | 3,461 | 336 | [complaints_2006.csv](./complaints/complaints_2006.csv) |
-| 2005 | 70,132 | 3,871 | 1,200 | 3,451 | 128 | [complaints_2005.csv](./complaints/complaints_2005.csv) |
-| 2004 | 61,928 | 3,811 | 1,421 | 3,736 | 380 | [complaints_2004.csv](./complaints/complaints_2004.csv) |
+| 2005 | 70,133 | 3,871 | 1,200 | 3,451 | 128 | [complaints_2005.csv](./complaints/complaints_2005.csv) |
+| 2004 | 61,930 | 3,811 | 1,421 | 3,736 | 380 | [complaints_2004.csv](./complaints/complaints_2004.csv) |
 | 2003 | 57,244 | 3,881 | 1,411 | 3,645 | 139 | [complaints_2003.csv](./complaints/complaints_2003.csv) |
 | 2002 | 57,381 | 4,279 | 1,755 | 3,982 | 196 | [complaints_2002.csv](./complaints/complaints_2002.csv) |
 | 2001 | 51,724 | 4,139 | 1,837 | 3,862 | 295 | [complaints_2001.csv](./complaints/complaints_2001.csv) |
@@ -205,7 +205,7 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 | 1957 | 1 | 0 | 0 | 0 | 0 | [complaints_1957.csv](./complaints/complaints_1957.csv) |
 | 1955 | 3 | 0 | 0 | 0 | 0 | [complaints_1955.csv](./complaints/complaints_1955.csv) |
 | 1949 | 3 | 1 | 1 | 5 | 0 | [complaints_1949.csv](./complaints/complaints_1949.csv) |
-| **Total** | **1,562,795** | **94,094** | **40,273** | **84,667** | **4,818** | |
+| **Total** | **1,563,076** | **94,105** | **40,277** | **84,680** | **4,819** | |
 
 ## NHTSA Car Seat Inspection Locations
 
