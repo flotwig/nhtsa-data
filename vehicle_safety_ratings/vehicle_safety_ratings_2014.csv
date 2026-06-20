@@ -207,8 +207,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8198,2014,DODGE,CHARGER,2014 Dodge Charger 4 DR AWD,,5,4,5,4,5,4,5,4,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,No,342,10,2,2014/DODGE/CHARGER/2014 Dodge Charger 4 DR AWD.png
 8394,2014,DODGE,CHARGER PURSUIT,2014 Dodge Charger Pursuit 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,342,10,2,2014/DODGE/CHARGER PURSUIT/2014 Dodge Charger Pursuit 4 DR RWD.png
 8193,2014,DODGE,DART,2014 Dodge Dart 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,5,Standard,No,No,358,4,2,2014/DODGE/DART/2014 Dodge Dart 4 DR FWD.png
-8199,2014,DODGE,DURANGO,2014 Dodge Durango SUV 4WD,,4,4,4,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,Optional,No,779,11,7,2014/DODGE/DURANGO/2014 Dodge Durango SUV 4WD.png
-8200,2014,DODGE,DURANGO,2014 Dodge Durango SUV 2WD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,Optional,No,779,11,7,2014/DODGE/DURANGO/2014 Dodge Durango SUV 2WD.png
+8199,2014,DODGE,DURANGO,2014 Dodge Durango SUV 4WD,,4,4,4,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,Optional,No,780,11,7,2014/DODGE/DURANGO/2014 Dodge Durango SUV 4WD.png
+8200,2014,DODGE,DURANGO,2014 Dodge Durango SUV 2WD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,Optional,No,780,11,7,2014/DODGE/DURANGO/2014 Dodge Durango SUV 2WD.png
 8196,2014,DODGE,GRAND CARAVAN,2014 Dodge Grand Caravan VAN FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,354,5,2,2014/DODGE/GRAND CARAVAN/2014 Dodge Grand Caravan VAN FWD.png
 8194,2014,DODGE,JOURNEY,2014 Dodge Journey SUV 4WD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.185,0,No Tip,4,Standard,No,No,408,7,2,2014/DODGE/JOURNEY/2014 Dodge Journey SUV 4WD.png
 8195,2014,DODGE,JOURNEY,2014 Dodge Journey SUV FWD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.179,0,No Tip,4,Standard,No,No,408,7,2,2014/DODGE/JOURNEY/2014 Dodge Journey SUV FWD.png
@@ -226,8 +226,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8252,2014,FORD,E-350 P15,2014 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,21,13,0,2014/FORD/E-350 P15/2014 Ford E-350 P15 VAN RWD.png
 8244,2014,FORD,EDGE,2014 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,376,3,1,2014/FORD/EDGE/2014 Ford Edge SUV AWD.png
 8245,2014,FORD,EDGE,2014 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,376,3,1,2014/FORD/EDGE/2014 Ford Edge SUV FWD.png
-8246,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2062,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x4.png
-8247,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2062,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x2.png
+8246,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2063,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x4.png
+8247,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2063,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x2.png
 8253,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,70,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x4.png
 8254,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,70,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x2.png
 8255,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,70,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x2.png
@@ -311,8 +311,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8211,2014,HONDA,ACCORD,2014 Honda Accord 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,968,4,3,2014/HONDA/ACCORD/2014 Honda Accord 4 DR FWD.png
 8212,2014,HONDA,ACCORD HYBRID,2014 Honda Accord Hybrid 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,954,4,4,2014/HONDA/ACCORD HYBRID/2014 Honda Accord Hybrid 4 DR FWD.png
 8464,2014,HONDA,ACCORD PLUG IN HYBRID,2014 Honda Accord Plug In Hybrid 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Optional,958,4,5,2014/HONDA/ACCORD PLUG IN HYBRID/2014 Honda Accord Plug In Hybrid 4 DR FWD.png
-8221,2014,HONDA,CIVIC,2014 Honda Civic 2 DR FWD,,4,4,4,4,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,288,2,2,2014/HONDA/CIVIC/2014 Honda Civic 2 DR FWD.png
-8222,2014,HONDA,CIVIC,2014 Honda Civic 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,288,2,2,2014/HONDA/CIVIC/2014 Honda Civic 4 DR FWD.png
+8221,2014,HONDA,CIVIC,2014 Honda Civic 2 DR FWD,,4,4,4,4,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,289,2,2,2014/HONDA/CIVIC/2014 Honda Civic 2 DR FWD.png
+8222,2014,HONDA,CIVIC,2014 Honda Civic 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,289,2,2,2014/HONDA/CIVIC/2014 Honda Civic 4 DR FWD.png
 8470,2014,HONDA,CIVIC CNG,2014 Honda Civic Cng 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,277,2,2,2014/HONDA/CIVIC CNG/2014 Honda Civic Cng 4 DR FWD.png
 8223,2014,HONDA,CIVIC HYBRID,2014 Honda Civic Hybrid 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,Optional,Optional,282,2,3,2014/HONDA/CIVIC HYBRID/2014 Honda Civic Hybrid 4 DR FWD.png
 8215,2014,HONDA,CR-V,2014 Honda CR-V SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,583,1,2,2014/HONDA/CR-V/2014 Honda CR-V SUV FWD.png
@@ -571,12 +571,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8556,2014,PORSCHE,MACAN TURBO,2014 Porsche Macan Turbo SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2014/PORSCHE/MACAN TURBO/2014 Porsche Macan Turbo SUV AWD.png
 8553,2014,PORSCHE,PANAMERA GTS,2014 Porsche Panamera GTS 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,3,0,2014/PORSCHE/PANAMERA GTS/2014 Porsche Panamera GTS 5 HB AWD.png
 8552,2014,PORSCHE,PANAMERA TURBO EXECUTIVE,2014 Porsche Panamera Turbo Executive 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,3,0,2014/PORSCHE/PANAMERA TURBO EXECUTIVE/2014 Porsche Panamera Turbo Executive 5 HB AWD.png
-8185,2014,RAM,1500,2014 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1727,17,5,2014/RAM/1500/2014 Ram 1500 Regular PU_RC 2WD.png
-8186,2014,RAM,1500,2014 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1727,17,5,2014/RAM/1500/2014 Ram 1500 Regular PU_RC 4WD.png
-8187,2014,RAM,1500,2014 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1727,17,5,2014/RAM/1500/2014 Ram 1500 Crew PU_CC 2WD.png
-8201,2014,RAM,1500,2014 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,1727,17,5,2014/RAM/1500/2014 Ram 1500 Crew PU_CC 4WD.png
-8202,2014,RAM,1500,2014 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1727,17,5,2014/RAM/1500/2014 Ram 1500 Quad PU_EC 2WD.png
-8203,2014,RAM,1500,2014 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1727,17,5,2014/RAM/1500/2014 Ram 1500 Quad PU_EC 4WD.png
+8185,2014,RAM,1500,2014 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1729,17,5,2014/RAM/1500/2014 Ram 1500 Regular PU_RC 2WD.png
+8186,2014,RAM,1500,2014 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1729,17,5,2014/RAM/1500/2014 Ram 1500 Regular PU_RC 4WD.png
+8187,2014,RAM,1500,2014 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1729,17,5,2014/RAM/1500/2014 Ram 1500 Crew PU_CC 2WD.png
+8201,2014,RAM,1500,2014 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,1729,17,5,2014/RAM/1500/2014 Ram 1500 Crew PU_CC 4WD.png
+8202,2014,RAM,1500,2014 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1729,17,5,2014/RAM/1500/2014 Ram 1500 Quad PU_EC 2WD.png
+8203,2014,RAM,1500,2014 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1729,17,5,2014/RAM/1500/2014 Ram 1500 Quad PU_EC 4WD.png
 8204,2014,RAM,2500,2014 Ram 2500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,340,16,4,2014/RAM/2500/2014 Ram 2500 Crew PU_CC 2WD.png
 8205,2014,RAM,2500,2014 Ram 2500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,340,16,4,2014/RAM/2500/2014 Ram 2500 Crew PU_CC 4WD.png
 8206,2014,RAM,2500,2014 Ram 2500 Mega PU/EC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,340,16,4,2014/RAM/2500/2014 Ram 2500 Mega PU_EC 2WD.png
@@ -624,8 +624,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8582,2014,TOYOTA,4RUNNER,2014 Toyota 4Runner SUV AWD,,4,4,4,3,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,4,Standard,No,No,76,7,1,2014/TOYOTA/4RUNNER/2014 Toyota 4Runner SUV AWD.png
 8575,2014,TOYOTA,AVALON,2014 Toyota Avalon 4 DR FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,4,Standard,Optional,No,96,4,1,2014/TOYOTA/AVALON/2014 Toyota Avalon 4 DR FWD.png
 8576,2014,TOYOTA,AVALON HYBRID,2014 Toyota Avalon HYBRID 4 DR FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,4,Standard,Optional,No,113,4,4,2014/TOYOTA/AVALON HYBRID/2014 Toyota Avalon HYBRID 4 DR FWD.png
-8577,2014,TOYOTA,CAMRY,2014 Toyota Camry 4 DR FWD Early Release,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,No,No,476,3,2,2014/TOYOTA/CAMRY/2014 Toyota Camry 4 DR FWD Early Release.png
-8794,2014,TOYOTA,CAMRY,2014 Toyota Camry 4 DR FWD Later Release,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0,0, ,5,Standard,No,No,10,0,0,2014/TOYOTA/CAMRY/2014 Toyota Camry 4 DR FWD Later Release.png
+8577,2014,TOYOTA,CAMRY,2014 Toyota Camry 4 DR FWD Early Release,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,No,No,477,3,2,2014/TOYOTA/CAMRY/2014 Toyota Camry 4 DR FWD Early Release.png
+8794,2014,TOYOTA,CAMRY,2014 Toyota Camry 4 DR FWD Later Release,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0,0, ,5,Standard,No,No,11,0,0,2014/TOYOTA/CAMRY/2014 Toyota Camry 4 DR FWD Later Release.png
 8578,2014,TOYOTA,CAMRY HV,2014 Toyota Camry HV 4 DR FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0,0, ,5,Standard,No,No,466,3,2,2014/TOYOTA/CAMRY HV/2014 Toyota Camry HV 4 DR FWD.png
 8579,2014,TOYOTA,COROLLA,2014 Toyota Corolla 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,267,2,2,2014/TOYOTA/COROLLA/2014 Toyota Corolla 4 DR FWD.png
 8149,2014,TOYOTA,FJ CRUISER,2014 Toyota FJ Cruiser SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.267,0,No Tip,Not Rated,Standard,No,No,30,5,0,2014/TOYOTA/FJ CRUISER/2014 Toyota FJ Cruiser SUV AWD.png
