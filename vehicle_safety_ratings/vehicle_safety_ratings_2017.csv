@@ -197,8 +197,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11255,2017,CHEVROLET,SUBURBAN 1500,2017 Chevrolet Suburban 1500 SUV RWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,4,Standard,Optional,Optional,137,5,0,2017/CHEVROLET/SUBURBAN 1500/2017 Chevrolet Suburban 1500 SUV RWD.png
 11252,2017,CHEVROLET,TAHOE,2017 Chevrolet Tahoe SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.229,0,No Tip,5,Standard,Optional,Optional,168,4,0,2017/CHEVROLET/TAHOE/2017 Chevrolet Tahoe SUV RWD.png
 11253,2017,CHEVROLET,TAHOE,2017 Chevrolet Tahoe SUV 4WD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.222,0,No Tip,5,Standard,Optional,Optional,168,4,0,2017/CHEVROLET/TAHOE/2017 Chevrolet Tahoe SUV 4WD.png
-11024,2017,CHEVROLET,TRAVERSE,2017 Chevrolet Traverse SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,356,3,0,2017/CHEVROLET/TRAVERSE/2017 Chevrolet Traverse SUV AWD.png
-11025,2017,CHEVROLET,TRAVERSE,2017 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,356,3,0,2017/CHEVROLET/TRAVERSE/2017 Chevrolet Traverse SUV FWD.png
+11024,2017,CHEVROLET,TRAVERSE,2017 Chevrolet Traverse SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,357,3,0,2017/CHEVROLET/TRAVERSE/2017 Chevrolet Traverse SUV AWD.png
+11025,2017,CHEVROLET,TRAVERSE,2017 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,357,3,0,2017/CHEVROLET/TRAVERSE/2017 Chevrolet Traverse SUV FWD.png
 11250,2017,CHEVROLET,TRAX,2017 Chevrolet Trax SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,109,3,0,2017/CHEVROLET/TRAX/2017 Chevrolet Trax SUV AWD.png
 11251,2017,CHEVROLET,TRAX,2017 Chevrolet Trax SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,Optional,Optional,109,3,0,2017/CHEVROLET/TRAX/2017 Chevrolet Trax SUV FWD.png
 11556,2017,CHEVROLET,VOLT,2017 Chevrolet Volt 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,Optional,Optional,688,0,2,2017/CHEVROLET/VOLT/2017 Chevrolet Volt 5 HB FWD.png
@@ -206,7 +206,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11316,2017,CHRYSLER,200,2017 Chrysler 200 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,5,Standard,Optional,Optional,43,1,0,2017/CHRYSLER/200/2017 Chrysler 200 4 DR FWD.png
 11317,2017,CHRYSLER,300,2017 Chrysler 300 4 DR RWD,,4,4,4,4,5,4,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,82,2,0,2017/CHRYSLER/300/2017 Chrysler 300 4 DR RWD.png
 11318,2017,CHRYSLER,300,2017 Chrysler 300 4 DR AWD,,4,4,4,4,5,4,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,82,2,0,2017/CHRYSLER/300/2017 Chrysler 300 4 DR AWD.png
-11422,2017,CHRYSLER,PACIFICA,2017 Chrysler Pacifica VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,Optional,1463,10,3,2017/CHRYSLER/PACIFICA/2017 Chrysler Pacifica VAN FWD.png
+11422,2017,CHRYSLER,PACIFICA,2017 Chrysler Pacifica VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,Optional,1464,10,3,2017/CHRYSLER/PACIFICA/2017 Chrysler Pacifica VAN FWD.png
 11821,2017,CHRYSLER,PACIFICA PHEV,2017 Chrysler Pacifica PHEV VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,79,6,4,2017/CHRYSLER/PACIFICA PHEV/2017 Chrysler Pacifica PHEV VAN FWD.png
 11323,2017,DODGE,CHALLENGER,2017 Dodge Challenger 2 DR RWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,Optional,No,49,3,1,2017/DODGE/CHALLENGER/2017 Dodge Challenger 2 DR RWD.png
 11822,2017,DODGE,CHALLENGER,2017 Dodge Challenger 2 DR AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,Optional,No,49,3,1,2017/DODGE/CHALLENGER/2017 Dodge Challenger 2 DR AWD.png
@@ -232,16 +232,16 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11557,2017,FIAT,500e BEV,2017 Fiat 500e BEV 3 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,1,2017/FIAT/500e BEV/2017 Fiat 500e BEV 3 HB FWD.png
 11203,2017,FORD,CMAX ENERGI,2017 Ford CMAX Energi 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,23,1,1,2017/FORD/CMAX ENERGI/2017 Ford CMAX Energi 5 HB FWD.png
 11204,2017,FORD,CMAX HEV,2017 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,23,1,1,2017/FORD/CMAX HEV/2017 Ford CMAX Hybrid 5 HB FWD.png
-11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1279,8,2,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
-11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1279,8,2,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
-11077,2017,FORD,ESCAPE,2017 Ford Escape SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,Optional,Optional,2592,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV AWD.png
-11078,2017,FORD,ESCAPE,2017 Ford Escape SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,2592,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV FWD.png
+11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1280,8,2,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
+11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1280,8,2,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
+11077,2017,FORD,ESCAPE,2017 Ford Escape SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,Optional,Optional,2595,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV AWD.png
+11078,2017,FORD,ESCAPE,2017 Ford Escape SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,2595,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV FWD.png
 11215,2017,FORD,EXPEDITION,2017 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,351,4,0,2017/FORD/EXPEDITION/2017 Ford Expedition SUV 4x2.png
 11216,2017,FORD,EXPEDITION,2017 Ford Expedition SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,351,4,0,2017/FORD/EXPEDITION/2017 Ford Expedition SUV 4x4.png
 11217,2017,FORD,EXPEDITION EL,2017 Ford Expedition EL EXTENDED SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,272,2,0,2017/FORD/EXPEDITION EL/2017 Ford Expedition EL EXTENDED SUV 4x2.png
 11218,2017,FORD,EXPEDITION EL,2017 Ford Expedition EL EXTENDED SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,272,2,0,2017/FORD/EXPEDITION EL/2017 Ford Expedition EL EXTENDED SUV 4x4.png
-11213,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,1654,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV FWD.png
-11214,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1654,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV AWD.png
+11213,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,1657,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV FWD.png
+11214,2017,FORD,EXPLORER,2017 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1657,14,2,2017/FORD/EXPLORER/2017 Ford Explorer 4 DR SUV AWD.png
 11231,2017,FORD,F-150 CREW CAB,2017 Ford F-150 Crew Cab PU/CC 4x2,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1066,15,3,2017/FORD/F-150 CREW CAB/2017 Ford F-150 Crew Cab PU_CC 4x2.png
 11232,2017,FORD,F-150 CREW CAB,2017 Ford F-150 Crew Cab PU/CC 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1066,15,3,2017/FORD/F-150 CREW CAB/2017 Ford F-150 Crew Cab PU_CC 4x4.png
 11227,2017,FORD,F-150 REGULAR CAB,2017 Ford F-150 Regular Cab PU/RC 4x4,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1066,15,3,2017/FORD/F-150 REGULAR CAB/2017 Ford F-150 Regular Cab PU_RC 4x4.png
@@ -285,8 +285,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11223,2017,FORD,"TRANSIT LOW ROOF(8,10,12) PASS","2017 Ford Transit Low Roof(8,10,12) Pass WAGON RWD",,4,4,4,3,5,5,5,5,5,5,3,Not Rated,0.267,0, ,5,Standard,No,Optional,0,0,0,"2017/FORD/TRANSIT LOW ROOF(8,10,12) PASS/2017 Ford Transit Low Roof(8,10,12) Pass WAGON RWD.png"
 11224,2017,FORD,TRANSIT MEDIUM ROOF 15 PASS,2017 Ford Transit Medium Roof 15 Pass WAGON RWD,,3,4,4,3,5,5,5,5,5,5,2,Not Rated,0.376,0,No Tip,5,Standard,No,Optional,0,0,0,2017/FORD/TRANSIT MEDIUM ROOF 15 PASS/2017 Ford Transit Medium Roof 15 Pass WAGON RWD.png
 11225,2017,FORD,"TRANSIT MEDIUM ROOF(8,10,12) PASS","2017 Ford Transit Medium Roof(8,10,12) Pass WAGON RWD",,Not Rated,4,4,3,5,5,5,5,5,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,0,0,0,"2017/FORD/TRANSIT MEDIUM ROOF(8,10,12) PASS/2017 Ford Transit Medium Roof(8,10,12) Pass WAGON RWD.png"
-11108,2017,GENESIS,G80,2017 Genesis G80 4 DR AWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,62,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR AWD.png
-11109,2017,GENESIS,G80,2017 Genesis G80 4 DR RWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,62,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR RWD.png
+11108,2017,GENESIS,G80,2017 Genesis G80 4 DR AWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,63,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR AWD.png
+11109,2017,GENESIS,G80,2017 Genesis G80 4 DR RWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,63,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR RWD.png
 11572,2017,GENESIS,G90,2017 Genesis G90 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,24,3,0,2017/GENESIS/G90/2017 Genesis G90 4 DR AWD.png
 11573,2017,GENESIS,G90,2017 Genesis G90 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,24,3,0,2017/GENESIS/G90/2017 Genesis G90 4 DR RWD.png
 11574,2017,GMC,ACADIA,2017 GMC Acadia SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,690,4,0,2017/GMC/ACADIA/2017 GMC Acadia SUV FWD.png
@@ -666,12 +666,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11772,2017,PORSCHE,PANAMERA 4S EXECUTIVE,2017 Porsche Panamera 4S Executive 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1,5,1,2017/PORSCHE/PANAMERA 4S EXECUTIVE/2017 Porsche Panamera 4S Executive 5 HB AWD.png
 11745,2017,PORSCHE,PANAMERA TURBO,2017 Porsche Panamera Turbo 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1,6,1,2017/PORSCHE/PANAMERA TURBO/2017 Porsche Panamera Turbo 5 HB AWD.png
 11773,2017,PORSCHE,PANAMERA TURBO EXECUTIVE,2017 Porsche Panamera Turbo Executive 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1,5,1,2017/PORSCHE/PANAMERA TURBO EXECUTIVE/2017 Porsche Panamera Turbo Executive 5 HB AWD.png
-11327,2017,RAM,1500,2017 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,847,13,3,2017/RAM/1500/2017 Ram 1500 Quad PU_EC 4WD.png
-11328,2017,RAM,1500,2017 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,847,13,3,2017/RAM/1500/2017 Ram 1500 Quad PU_EC 2WD.png
-11329,2017,RAM,1500,2017 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,847,13,3,2017/RAM/1500/2017 Ram 1500 Crew PU_CC 4WD.png
-11330,2017,RAM,1500,2017 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,847,13,3,2017/RAM/1500/2017 Ram 1500 Crew PU_CC 2WD.png
-11331,2017,RAM,1500,2017 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,847,13,3,2017/RAM/1500/2017 Ram 1500 Regular PU_RC 4WD.png
-11332,2017,RAM,1500,2017 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,847,13,3,2017/RAM/1500/2017 Ram 1500 Regular PU_RC 2WD.png
+11327,2017,RAM,1500,2017 Ram 1500 Quad PU/EC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,848,13,3,2017/RAM/1500/2017 Ram 1500 Quad PU_EC 4WD.png
+11328,2017,RAM,1500,2017 Ram 1500 Quad PU/EC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,848,13,3,2017/RAM/1500/2017 Ram 1500 Quad PU_EC 2WD.png
+11329,2017,RAM,1500,2017 Ram 1500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,4,Standard,No,No,848,13,3,2017/RAM/1500/2017 Ram 1500 Crew PU_CC 4WD.png
+11330,2017,RAM,1500,2017 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,848,13,3,2017/RAM/1500/2017 Ram 1500 Crew PU_CC 2WD.png
+11331,2017,RAM,1500,2017 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,848,13,3,2017/RAM/1500/2017 Ram 1500 Regular PU_RC 4WD.png
+11332,2017,RAM,1500,2017 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,848,13,3,2017/RAM/1500/2017 Ram 1500 Regular PU_RC 2WD.png
 11333,2017,RAM,2500,2017 Ram 2500 Regular PU/RC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.237,0,No Tip,Not Rated,Standard,No,No,663,12,4,2017/RAM/2500/2017 Ram 2500 Regular PU_RC 4WD.png
 11334,2017,RAM,2500,2017 Ram 2500 Mega PU/EC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,663,12,4,2017/RAM/2500/2017 Ram 2500 Mega PU_EC 2WD.png
 11335,2017,RAM,2500,2017 Ram 2500 Regular PU/RC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,663,12,4,2017/RAM/2500/2017 Ram 2500 Regular PU_RC 2WD.png
@@ -693,7 +693,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11747,2017,SMART,FORTWO,2017 Smart Fortwo 2 DR RWD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.147,0,No Tip,4,Standard,Optional,No,9,1,1,2017/SMART/FORTWO/2017 Smart Fortwo 2 DR RWD.png
 11198,2017,SUBARU,BRZ,2017 Subaru BRZ 2 DR RWD,,Not Rated,4,4,4,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.071,0,No Tip,Not Rated,Standard,No,No,7,0,0,2017/SUBARU/BRZ/2017 Subaru BRZ 2 DR RWD.png
 11196,2017,SUBARU,CROSSTREK,2017 Subaru Crosstrek SW AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,Optional,Optional,97,1,0,2017/SUBARU/CROSSTREK/2017 Subaru Crosstrek SW AWD.png
-11199,2017,SUBARU,FORESTER,2017 Subaru Forester SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,575,1,1,2017/SUBARU/FORESTER/2017 Subaru Forester SUV AWD.png
+11199,2017,SUBARU,FORESTER,2017 Subaru Forester SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,576,1,1,2017/SUBARU/FORESTER/2017 Subaru Forester SUV AWD.png
 11194,2017,SUBARU,IMPREZA,2017 Subaru Impreza 4 DR AWD,,5,5,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,125,7,0,2017/SUBARU/IMPREZA/2017 Subaru Impreza 4 DR AWD.png
 11195,2017,SUBARU,IMPREZA,2017 Subaru Impreza SW AWD,,5,5,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,125,7,0,2017/SUBARU/IMPREZA/2017 Subaru Impreza SW AWD.png
 11192,2017,SUBARU,LEGACY,2017 Subaru Legacy 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,118,2,1,2017/SUBARU/LEGACY/2017 Subaru Legacy 4 DR AWD.png

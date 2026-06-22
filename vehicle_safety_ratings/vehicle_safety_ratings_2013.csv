@@ -127,7 +127,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7355,2013,BUICK,LACROSSE EASSIST,2013 Buick Lacrosse eAssist 4 DR AWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,125,4,2,2013/BUICK/LACROSSE EASSIST/2013 Buick Lacrosse eAssist 4 DR AWD.png
 7352,2013,BUICK,REGAL,2013 Buick Regal 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,91,6,2,2013/BUICK/REGAL/2013 Buick Regal 4 DR FWD.png
 7353,2013,BUICK,REGAL EASSIST,2013 Buick Regal eAssist 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,88,4,2,2013/BUICK/REGAL EASSIST/2013 Buick Regal eAssist 4 DR FWD.png
-7498,2013,BUICK,VERANO,2013 Buick Verano 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,105,3,0,2013/BUICK/VERANO/2013 Buick Verano 4 DR FWD.png
+7498,2013,BUICK,VERANO,2013 Buick Verano 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,106,3,0,2013/BUICK/VERANO/2013 Buick Verano 4 DR FWD.png
 7499,2013,CADILLAC,ATS,2013 Cadillac ATS 4 DR RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,160,6,0,2013/CADILLAC/ATS/2013 Cadillac ATS 4 DR RWD.png
 7706,2013,CADILLAC,ATS,2013 Cadillac ATS 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,160,6,0,2013/CADILLAC/ATS/2013 Cadillac ATS 4 DR AWD.png
 7078,2013,CADILLAC,CTS,2013 Cadillac CTS 4 DR RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,72,2,0,2013/CADILLAC/CTS/2013 Cadillac CTS 4 DR RWD.png
@@ -235,8 +235,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7484,2013,FORD,E-350,2013 Ford E-350 WAGON RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350/2013 Ford E-350 WAGON RWD.png
 7325,2013,FORD,E-350 P12,2013 Ford E-350 P12 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350 P12/2013 Ford E-350 P12 VAN RWD.png
 7326,2013,FORD,E-350 P15,2013 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350 P15/2013 Ford E-350 P15 VAN RWD.png
-7014,2013,FORD,EDGE,2013 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,2427,2,1,2013/FORD/EDGE/2013 Ford Edge SUV AWD.png
-7015,2013,FORD,EDGE,2013 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,2427,2,1,2013/FORD/EDGE/2013 Ford Edge SUV FWD.png
+7014,2013,FORD,EDGE,2013 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,2428,2,1,2013/FORD/EDGE/2013 Ford Edge SUV AWD.png
+7015,2013,FORD,EDGE,2013 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,2428,2,1,2013/FORD/EDGE/2013 Ford Edge SUV FWD.png
 7378,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2740,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x2.png
 7379,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2740,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x4.png
 7335,2013,FORD,EXPEDITION,2013 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,90,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition SUV 4x4.png
@@ -366,7 +366,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7531,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,188,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV FWD.png
 7693,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,188,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV AWD.png
 7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1888,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
-7140,2013,HYUNDAI,SONATA HYBRID,2013 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,104,4,7,2013/HYUNDAI/SONATA HYBRID/2013 Hyundai Sonata Hybrid 4 DR FWD.png
+7140,2013,HYUNDAI,SONATA HYBRID,2013 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,105,4,7,2013/HYUNDAI/SONATA HYBRID/2013 Hyundai Sonata Hybrid 4 DR FWD.png
 7142,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,265,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV FWD.png
 7143,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.176,0,No Tip,5,Standard,No,No,265,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV AWD.png
 7535,2013,HYUNDAI,VELOSTER,2013 Hyundai Veloster 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,418,3,1,2013/HYUNDAI/VELOSTER/2013 Hyundai Veloster 2 DR FWD.png
