@@ -252,8 +252,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6650,2012,FORD,FLEX,2012 Ford Flex SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,No,No,64,2,0,2012/FORD/FLEX/2012 Ford Flex SUV AWD.png
 6416,2012,FORD,FOCUS,2012 Ford Focus 4 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3787,11,6,2012/FORD/FOCUS/2012 Ford Focus 4 DR FWD.png
 6417,2012,FORD,FOCUS,2012 Ford Focus 5 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3787,11,6,2012/FORD/FOCUS/2012 Ford Focus 5 DR FWD.png
-6418,2012,FORD,FUSION,2012 Ford Fusion 4 DR FWD,,4,3,4,3,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2602,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR FWD.png
-6718,2012,FORD,FUSION,2012 Ford Fusion 4 DR AWD,,4,3,4,3,4,5,3,5,3,4,5,Not Rated,0.092,0,No Tip,4,Standard,No,No,2602,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR AWD.png
+6418,2012,FORD,FUSION,2012 Ford Fusion 4 DR FWD,,4,3,4,3,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2604,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR FWD.png
+6718,2012,FORD,FUSION,2012 Ford Fusion 4 DR AWD,,4,3,4,3,4,5,3,5,3,4,5,Not Rated,0.092,0,No Tip,4,Standard,No,No,2604,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR AWD.png
 6419,2012,FORD,FUSION HYBRID,2012 Ford Fusion Hybrid 4 DR FWD,,4,3,3,4,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2557,6,5,2012/FORD/FUSION HYBRID/2012 Ford Fusion Hybrid 4 DR FWD.png
 6424,2012,FORD,MUSTANG,2012 Ford Mustang 2 DR RWD,,4,4,4,5,4,5,3,5,3,4,5,Not Rated,0.087,0,No Tip,4,Standard,No,No,469,7,1,2012/FORD/MUSTANG/2012 Ford Mustang 2 DR RWD.png
 6425,2012,FORD,MUSTANG,2012 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,469,7,1,2012/FORD/MUSTANG/2012 Ford Mustang C RWD.png
@@ -326,8 +326,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6082,2012,HONDA,ACCORD,2012 Honda Accord 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,No,No,378,8,1,2012/HONDA/ACCORD/2012 Honda Accord 4 DR FWD.png
 6081,2012,HONDA,ACCORD V6,2012 Honda Accord V6 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.097,0,No Tip,Not Rated,Standard,No,No,367,8,1,2012/HONDA/ACCORD V6/2012 Honda Accord V6 2 DR FWD.png
 6083,2012,HONDA,ACCORD V6,2012 Honda Accord V6 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,No,No,367,8,1,2012/HONDA/ACCORD V6/2012 Honda Accord V6 4 DR FWD.png
-6089,2012,HONDA,CIVIC,2012 Honda Civic 4 DR FWD,,5,5,5,4,5,4,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,453,3,2,2012/HONDA/CIVIC/2012 Honda Civic 4 DR FWD.png
-6090,2012,HONDA,CIVIC,2012 Honda Civic 2 DR FWD,,4,4,5,4,4,3,4,4,4,4,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,453,3,2,2012/HONDA/CIVIC/2012 Honda Civic 2 DR FWD.png
+6089,2012,HONDA,CIVIC,2012 Honda Civic 4 DR FWD,,5,5,5,4,5,4,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,454,3,2,2012/HONDA/CIVIC/2012 Honda Civic 4 DR FWD.png
+6090,2012,HONDA,CIVIC,2012 Honda Civic 2 DR FWD,,4,4,5,4,4,3,4,4,4,4,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,454,3,2,2012/HONDA/CIVIC/2012 Honda Civic 2 DR FWD.png
 6092,2012,HONDA,CIVIC CNG,2012 Honda Civic CNG 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,443,3,2,2012/HONDA/CIVIC CNG/2012 Honda Civic CNG 4 DR FWD.png
 6091,2012,HONDA,CIVIC HYBRID,2012 Honda Civic Hybrid (IMA) 4 DR FWD,,5,5,5,4,5,4,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,455,4,3,2012/HONDA/CIVIC HYBRID/2012 Honda Civic Hybrid (IMA) 4 DR FWD.png
 6085,2012,HONDA,CR-V,2012 Honda CR-V SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,397,3,3,2012/HONDA/CR-V/2012 Honda CR-V SUV FWD.png
@@ -354,7 +354,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6110,2012,HYUNDAI,GENESIS,2012 Hyundai Genesis 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.095,0,No Tip,Not Rated,Standard,No,No,268,5,1,2012/HYUNDAI/GENESIS/2012 Hyundai Genesis 4 DR RWD.png
 6113,2012,HYUNDAI,SANTA FE,2012 Hyundai Santa Fe SUV FWD,,3,4,4,4,2,5,1,5,1,2,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,352,1,6,2012/HYUNDAI/SANTA FE/2012 Hyundai Santa Fe SUV FWD.png
 6638,2012,HYUNDAI,SANTA FE,2012 Hyundai Santa Fe SUV AWD,,3,4,4,4,2,5,1,5,1,2,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,352,1,6,2012/HYUNDAI/SANTA FE/2012 Hyundai Santa Fe SUV AWD.png
-6107,2012,HYUNDAI,SONATA,2012 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1550,8,7,2012/HYUNDAI/SONATA/2012 Hyundai Sonata 4 DR FWD.png
+6107,2012,HYUNDAI,SONATA,2012 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1551,8,7,2012/HYUNDAI/SONATA/2012 Hyundai Sonata 4 DR FWD.png
 6108,2012,HYUNDAI,SONATA HYBRID,2012 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,153,6,7,2012/HYUNDAI/SONATA HYBRID/2012 Hyundai Sonata Hybrid 4 DR FWD.png
 6112,2012,HYUNDAI,TUCSON,2012 Hyundai Tucson SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,253,3,3,2012/HYUNDAI/TUCSON/2012 Hyundai Tucson SUV FWD.png
 6750,2012,HYUNDAI,TUCSON,2012 Hyundai Tucson SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.176,0,No Tip,5,Standard,No,No,253,3,3,2012/HYUNDAI/TUCSON/2012 Hyundai Tucson SUV AWD.png
@@ -399,14 +399,14 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6129,2012,KIA,FORTE,2012 Kia Forte 4 DR FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,288,4,4,2012/KIA/FORTE/2012 Kia Forte 4 DR FWD.png
 6130,2012,KIA,FORTE,2012 Kia Forte 5 HB FWD,,4,4,5,3,4,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,2,Standard,No,No,288,4,4,2012/KIA/FORTE/2012 Kia Forte 5 HB FWD.png
 6131,2012,KIA,FORTE KOUP,2012 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,302,4,4,2012/KIA/FORTE KOUP/2012 Kia Forte Koup 2 DR FWD.png
-6132,2012,KIA,OPTIMA,2012 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,915,5,7,2012/KIA/OPTIMA/2012 Kia Optima 4 DR FWD.png
+6132,2012,KIA,OPTIMA,2012 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,916,5,7,2012/KIA/OPTIMA/2012 Kia Optima 4 DR FWD.png
 6133,2012,KIA,OPTIMA HYBRID,2012 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,107,3,7,2012/KIA/OPTIMA HYBRID/2012 Kia Optima Hybrid 4 DR FWD.png
 6127,2012,KIA,RIO,2012 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,52,1,2,2012/KIA/RIO/2012 Kia Rio 4 DR FWD.png
 6128,2012,KIA,RIO,2012 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,52,1,2,2012/KIA/RIO/2012 Kia Rio 5 HB FWD.png
 6135,2012,KIA,SEDONA,2012 Kia Sedona VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.136,0,No Tip,Not Rated,Standard,No,No,106,5,1,2012/KIA/SEDONA/2012 Kia Sedona VAN FWD.png
 6137,2012,KIA,SORENTO,2012 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,875,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV FWD.png
 6733,2012,KIA,SORENTO,2012 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,875,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV AWD.png
-6134,2012,KIA,SOUL,2012 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,511,3,5,2012/KIA/SOUL/2012 Kia Soul SUV FWD.png
+6134,2012,KIA,SOUL,2012 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,512,3,5,2012/KIA/SOUL/2012 Kia Soul SUV FWD.png
 6136,2012,KIA,SPORTAGE,2012 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,392,5,4,2012/KIA/SPORTAGE/2012 Kia Sportage SUV FWD.png
 6734,2012,KIA,SPORTAGE,2012 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,392,5,4,2012/KIA/SPORTAGE/2012 Kia Sportage SUV AWD.png
 6124,2012,LAND ROVER,LR2,2012 Land Rover LR2 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,6,2,0,2012/LAND ROVER/LR2/2012 Land Rover LR2 SUV 4WD.png
@@ -462,7 +462,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6139,2012,MAZDA,MAZDA2,2012 Mazda Mazda2 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,9,0,1,2012/MAZDA/MAZDA2/2012 Mazda Mazda2 5 HB FWD.png
 6140,2012,MAZDA,MAZDA3,2012 Mazda Mazda3 4 DR FWD,,4,5,5,4,3,4,2,4,2,3,4,Not Rated,0.109,0,No Tip,3,Standard,No,No,226,1,1,2012/MAZDA/MAZDA3/2012 Mazda Mazda3 4 DR FWD.png
 6141,2012,MAZDA,MAZDA3,2012 Mazda Mazda3 5 HB FWD,,4,5,5,4,3,4,2,4,2,3,4,Not Rated,0.109,0,No Tip,3,Standard,No,No,226,1,1,2012/MAZDA/MAZDA3/2012 Mazda Mazda3 5 HB FWD.png
-6142,2012,MAZDA,MAZDA5,2012 Mazda Mazda5 SW FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,35,1,0,2012/MAZDA/MAZDA5/2012 Mazda Mazda5 SW FWD.png
+6142,2012,MAZDA,MAZDA5,2012 Mazda Mazda5 SW FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,36,1,0,2012/MAZDA/MAZDA5/2012 Mazda Mazda5 SW FWD.png
 6143,2012,MAZDA,MAZDA6,2012 Mazda Mazda6 4 DR FWD,,4,3,4,3,4,5,4,4,4,4,5,Not Rated,0.093,0,No Tip,3,Standard,No,No,99,6,0,2012/MAZDA/MAZDA6/2012 Mazda Mazda6 4 DR FWD.png
 6144,2012,MAZDA,MX-5,2012 Mazda MX-5 C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,5,0,0,2012/MAZDA/MX-5/2012 Mazda MX-5 C RWD.png
 6373,2012,MERCEDES-BENZ,B-CLASS,2012 Mercedes-Benz B-Class 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2012/MERCEDES-BENZ/B-CLASS/2012 Mercedes-Benz B-Class 4 DR RWD.png
