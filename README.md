@@ -153,10 +153,10 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 | 2009 | 44,176 | 2,269 | 716 | 1,758 | 64 | [complaints_2009.csv](./complaints/complaints_2009.csv) |
 | 2008 | 64,758 | 3,239 | 1,230 | 2,776 | 104 | [complaints_2008.csv](./complaints/complaints_2008.csv) |
 | 2007 | 71,473 | 3,713 | 1,542 | 3,508 | 123 | [complaints_2007.csv](./complaints/complaints_2007.csv) |
-| 2006 | 72,757 | 3,774 | 1,193 | 3,465 | 336 | [complaints_2006.csv](./complaints/complaints_2006.csv) |
+| 2006 | 72,758 | 3,775 | 1,193 | 3,465 | 336 | [complaints_2006.csv](./complaints/complaints_2006.csv) |
 | 2005 | 70,141 | 3,871 | 1,200 | 3,451 | 128 | [complaints_2005.csv](./complaints/complaints_2005.csv) |
-| 2004 | 61,933 | 3,812 | 1,421 | 3,739 | 380 | [complaints_2004.csv](./complaints/complaints_2004.csv) |
-| 2003 | 57,253 | 3,883 | 1,412 | 3,648 | 139 | [complaints_2003.csv](./complaints/complaints_2003.csv) |
+| 2004 | 61,935 | 3,812 | 1,421 | 3,739 | 380 | [complaints_2004.csv](./complaints/complaints_2004.csv) |
+| 2003 | 57,254 | 3,883 | 1,413 | 3,648 | 139 | [complaints_2003.csv](./complaints/complaints_2003.csv) |
 | 2002 | 57,383 | 4,279 | 1,755 | 3,982 | 196 | [complaints_2002.csv](./complaints/complaints_2002.csv) |
 | 2001 | 51,727 | 4,139 | 1,837 | 3,862 | 295 | [complaints_2001.csv](./complaints/complaints_2001.csv) |
 | 2000 | 57,327 | 4,460 | 2,352 | 3,831 | 189 | [complaints_2000.csv](./complaints/complaints_2000.csv) |
@@ -205,7 +205,7 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 | 1957 | 1 | 0 | 0 | 0 | 0 | [complaints_1957.csv](./complaints/complaints_1957.csv) |
 | 1955 | 3 | 0 | 0 | 0 | 0 | [complaints_1955.csv](./complaints/complaints_1955.csv) |
 | 1949 | 3 | 1 | 1 | 5 | 0 | [complaints_1949.csv](./complaints/complaints_1949.csv) |
-| **Total** | **1,567,157** | **94,294** | **40,339** | **84,884** | **4,826** | |
+| **Total** | **1,567,161** | **94,295** | **40,340** | **84,884** | **4,826** | |
 
 ## NHTSA Car Seat Inspection Locations
 
