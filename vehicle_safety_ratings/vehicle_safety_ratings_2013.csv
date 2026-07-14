@@ -200,8 +200,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7061,2013,CHEVROLET,SUBURBAN 1500,2013 Chevrolet Suburban 1500 SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,118,4,1,2013/CHEVROLET/SUBURBAN 1500/2013 Chevrolet Suburban 1500 SUV RWD.png
 7500,2013,CHEVROLET,SUBURBAN 2500,2013 Chevrolet Suburban 2500 SUV RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,118,4,1,2013/CHEVROLET/SUBURBAN 2500/2013 Chevrolet Suburban 2500 SUV RWD.png
 7715,2013,CHEVROLET,SUBURBAN 2500,2013 Chevrolet Suburban 2500 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,118,4,1,2013/CHEVROLET/SUBURBAN 2500/2013 Chevrolet Suburban 2500 SUV 4WD.png
-7056,2013,CHEVROLET,TAHOE,2013 Chevrolet Tahoe SUV 4WD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,231,4,1,2013/CHEVROLET/TAHOE/2013 Chevrolet Tahoe SUV 4WD.png
-7057,2013,CHEVROLET,TAHOE,2013 Chevrolet Tahoe SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,231,4,1,2013/CHEVROLET/TAHOE/2013 Chevrolet Tahoe SUV RWD.png
+7056,2013,CHEVROLET,TAHOE,2013 Chevrolet Tahoe SUV 4WD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,232,4,1,2013/CHEVROLET/TAHOE/2013 Chevrolet Tahoe SUV 4WD.png
+7057,2013,CHEVROLET,TAHOE,2013 Chevrolet Tahoe SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,232,4,1,2013/CHEVROLET/TAHOE/2013 Chevrolet Tahoe SUV RWD.png
 7058,2013,CHEVROLET,TAHOE HYBRID,2013 Chevrolet Tahoe Hybrid SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,0,0,1,2013/CHEVROLET/TAHOE HYBRID/2013 Chevrolet Tahoe Hybrid SUV RWD.png
 7059,2013,CHEVROLET,TAHOE HYBRID,2013 Chevrolet Tahoe Hybrid SUV 4WD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,0,0,1,2013/CHEVROLET/TAHOE HYBRID/2013 Chevrolet Tahoe Hybrid SUV 4WD.png
 7501,2013,CHEVROLET,TRAVERSE,2013 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,161,4,2,2013/CHEVROLET/TRAVERSE/2013 Chevrolet Traverse SUV FWD.png
@@ -270,8 +270,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7333,2013,FORD,FOCUS,2013 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2103,12,4,2013/FORD/FOCUS/2013 Ford Focus 5 HB FWD.png
 7334,2013,FORD,FOCUS,2013 Ford Focus 4 DR FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2103,12,4,2013/FORD/FOCUS/2013 Ford Focus 4 DR FWD.png
 7475,2013,FORD,FOCUS BEV,2013 Ford Focus BEV 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,No,No,2157,13,5,2013/FORD/FOCUS BEV/2013 Ford Focus BEV 5 HB FWD.png
-7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1944,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
-7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1944,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
+7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1947,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
+7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1947,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
 7477,2013,FORD,FUSION ENERGI,2013 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1774,18,6,2013/FORD/FUSION ENERGI/2013 Ford Fusion Energi 4 DR FWD.png
 7478,2013,FORD,FUSION HYBRID,2013 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1861,19,6,2013/FORD/FUSION HYBRID/2013 Ford Fusion Hybrid 4 DR FWD.png
 7020,2013,FORD,MUSTANG,2013 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,271,6,0,2013/FORD/MUSTANG/2013 Ford Mustang C RWD.png
@@ -355,8 +355,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7042,2013,HYUNDAI,ACCENT,2013 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,140,1,1,2013/HYUNDAI/ACCENT/2013 Hyundai Accent 4 DR FWD.png
 7532,2013,HYUNDAI,ACCENT 5,2013 Hyundai Accent 5 5 HB FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,135,1,0,2013/HYUNDAI/ACCENT 5/2013 Hyundai Accent 5 5 HB FWD.png
 7533,2013,HYUNDAI,AZERA,2013 Hyundai Azera 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,112,2,1,2013/HYUNDAI/AZERA/2013 Hyundai Azera 4 DR FWD.png
-7032,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 4 DR FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1323,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 4 DR FWD.png
-7742,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1333,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 2 DR FWD.png
+7032,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 4 DR FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1324,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 4 DR FWD.png
+7742,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1334,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 2 DR FWD.png
 7144,2013,HYUNDAI,ELANTRA GT,2013 Hyundai Elantra GT 5 HB FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1293,4,2,2013/HYUNDAI/ELANTRA GT/2013 Hyundai Elantra GT 5 HB FWD.png
 7534,2013,HYUNDAI,EQUUS,2013 Hyundai Equus 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,Optional,10,1,0,2013/HYUNDAI/EQUUS/2013 Hyundai Equus 4 DR RWD.png
 7030,2013,HYUNDAI,GENESIS,2013 Hyundai Genesis 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.082,0,No Tip,Not Rated,Standard,No,No,195,4,0,2013/HYUNDAI/GENESIS/2013 Hyundai Genesis 2 DR RWD.png
@@ -365,7 +365,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7692,2013,HYUNDAI,SANTA FE,2013 Hyundai Santa Fe SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,604,3,8,2013/HYUNDAI/SANTA FE/2013 Hyundai Santa Fe SUV AWD.png
 7531,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,189,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV FWD.png
 7693,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,189,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV AWD.png
-7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1894,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
+7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1895,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
 7140,2013,HYUNDAI,SONATA HYBRID,2013 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,105,4,7,2013/HYUNDAI/SONATA HYBRID/2013 Hyundai Sonata Hybrid 4 DR FWD.png
 7142,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,265,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV FWD.png
 7143,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.176,0,No Tip,5,Standard,No,No,265,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV AWD.png
