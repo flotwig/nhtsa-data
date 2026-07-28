@@ -145,8 +145,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8326,2014,CADILLAC,ESCALADE,2014 Cadillac Escalade SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,20,2,1,2014/CADILLAC/ESCALADE/2014 Cadillac Escalade SUV RWD.png
 8327,2014,CADILLAC,ESCALADE ESV,2014 Cadillac Escalade ESV SUV AWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,0,2,1,2014/CADILLAC/ESCALADE ESV/2014 Cadillac Escalade ESV SUV AWD.png
 8328,2014,CADILLAC,ESCALADE ESV,2014 Cadillac Escalade ESV SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,0,2,1,2014/CADILLAC/ESCALADE ESV/2014 Cadillac Escalade ESV SUV RWD.png
-8323,2014,CADILLAC,SRX,2014 Cadillac SRX SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,Optional,Optional,387,2,1,2014/CADILLAC/SRX/2014 Cadillac SRX SUV AWD.png
-8324,2014,CADILLAC,SRX,2014 Cadillac SRX SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,387,2,1,2014/CADILLAC/SRX/2014 Cadillac SRX SUV FWD.png
+8323,2014,CADILLAC,SRX,2014 Cadillac SRX SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,Optional,Optional,388,2,1,2014/CADILLAC/SRX/2014 Cadillac SRX SUV AWD.png
+8324,2014,CADILLAC,SRX,2014 Cadillac SRX SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,388,2,1,2014/CADILLAC/SRX/2014 Cadillac SRX SUV FWD.png
 8044,2014,CADILLAC,XTS,2014 Cadillac XTS 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Optional,Optional,49,4,0,2014/CADILLAC/XTS/2014 Cadillac XTS 4 DR AWD.png
 8045,2014,CADILLAC,XTS,2014 Cadillac XTS 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Optional,Optional,49,4,0,2014/CADILLAC/XTS/2014 Cadillac XTS 4 DR FWD.png
 8297,2014,CHEVROLET,CAMARO,2014 Chevrolet Camaro 2 DR RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.087,0,No Tip,5,Standard,No,No,187,4,0,2014/CHEVROLET/CAMARO/2014 Chevrolet Camaro 2 DR RWD.png
@@ -387,16 +387,16 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8182,2014,JEEP,WRANGLER,2014 Jeep Wrangler SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,648,4,4,2014/JEEP/WRANGLER/2014 Jeep Wrangler SUV 4WD.png
 8183,2014,JEEP,WRANGLER UNLIMITED,2014 Jeep Wrangler Unlimited SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,648,4,4,2014/JEEP/WRANGLER UNLIMITED/2014 Jeep Wrangler Unlimited SUV 4WD.png
 8660,2014,KIA,CADENZA,2014 Kia Cadenza 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,Optional,110,3,1,2014/KIA/CADENZA/2014 Kia Cadenza 4 DR FWD.png
-8658,2014,KIA,FORTE,2014 Kia Forte 4 DR FWD,,4,3,5,2,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,437,3,1,2014/KIA/FORTE/2014 Kia Forte 4 DR FWD.png
-8659,2014,KIA,FORTE,2014 Kia Forte 5 HB FWD,,4,3,5,2,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,437,3,1,2014/KIA/FORTE/2014 Kia Forte 5 HB FWD.png
-8792,2014,KIA,FORTE KOUP,2014 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,438,3,1,2014/KIA/FORTE KOUP/2014 Kia Forte Koup 2 DR FWD.png
+8658,2014,KIA,FORTE,2014 Kia Forte 4 DR FWD,,4,3,5,2,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,438,3,1,2014/KIA/FORTE/2014 Kia Forte 4 DR FWD.png
+8659,2014,KIA,FORTE,2014 Kia Forte 5 HB FWD,,4,3,5,2,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,438,3,1,2014/KIA/FORTE/2014 Kia Forte 5 HB FWD.png
+8792,2014,KIA,FORTE KOUP,2014 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,439,3,1,2014/KIA/FORTE KOUP/2014 Kia Forte Koup 2 DR FWD.png
 8070,2014,KIA,OPTIMA,2014 Kia Optima 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,580,7,8,2014/KIA/OPTIMA/2014 Kia Optima 4 DR FWD.png
 8071,2014,KIA,OPTIMA HYBRID,2014 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,31,0,6,2014/KIA/OPTIMA HYBRID/2014 Kia Optima Hybrid 4 DR FWD.png
 8068,2014,KIA,RIO,2014 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,51,1,2,2014/KIA/RIO/2014 Kia Rio 4 DR FWD.png
 8069,2014,KIA,RIO,2014 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,51,1,2,2014/KIA/RIO/2014 Kia Rio 5 HB FWD.png
 8010,2014,KIA,SEDONA,2014 Kia Sedona VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.136,0,No Tip,5,Standard,No,No,38,1,1,2014/KIA/SEDONA/2014 Kia Sedona VAN FWD.png
-8662,2014,KIA,SORENTO,2014 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,978,6,8,2014/KIA/SORENTO/2014 Kia Sorento SUV FWD.png
-8663,2014,KIA,SORENTO,2014 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,978,6,8,2014/KIA/SORENTO/2014 Kia Sorento SUV AWD.png
+8662,2014,KIA,SORENTO,2014 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,979,6,8,2014/KIA/SORENTO/2014 Kia Sorento SUV FWD.png
+8663,2014,KIA,SORENTO,2014 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,979,6,8,2014/KIA/SORENTO/2014 Kia Sorento SUV AWD.png
 8661,2014,KIA,SOUL,2014 Kia Soul SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,892,5,3,2014/KIA/SOUL/2014 Kia Soul SUV FWD.png
 8072,2014,KIA,SPORTAGE,2014 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,122,3,2,2014/KIA/SPORTAGE/2014 Kia Sportage SUV AWD.png
 8073,2014,KIA,SPORTAGE,2014 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,122,3,2,2014/KIA/SPORTAGE/2014 Kia Sportage SUV FWD.png
