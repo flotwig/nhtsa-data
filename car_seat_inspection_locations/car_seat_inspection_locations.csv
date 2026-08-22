@@ -23,10 +23,10 @@ Red,Asselin,Sprout Family Services,3691 Ben Walters Lane,Homer,AK,99603,,,907-xx
 Angela,Adams,Chena Goldstream Fire & Rescue,716 Chena Ridge,Fairbanks,AK,99709,,,907-479-65672,No,2023-11-29T00:00:00Z,No,,,
 Barbara,Michael,Fort Wainwright Fire Dept.,4390 Neeley Road,Ft Wainwright,AK,99703,,,907-361-7399,No,2023-11-30T00:00:00Z,No,,,
 Angela,Adams,Ester Volunteer Fire Department,3570 Old Nenana Hwy,Ester,AK,99507,,,907-479-6858,No,2023-11-30T00:00:00Z,No,,,
+Justin,Thran,"Kodiak Bayside Fire Station, Safe Kids Alaska CPS Program",4606 E Rezanof Drive,Kodiak,AK,99615,,,907-486-4536,No,2023-11-29T00:00:00Z,No,,,
 Samantha,Ponce,Craig Tribal Association,515 Front Street,Craig,AK,99921,,,907-826-3998,No,2023-11-30T00:00:00Z,No,,,
 Daron,Solestee,Bethel Fire Dept.,320 Chief Eddie Hoffman Hwy,Bethel,AK,99559,,,907-543-2047,No,2023-11-30T00:00:00Z,No,,,
 Brian,Palmer,Anchorage Fire Dept,122 E 4th Ave,Anchorage,AK,99501,,,907-267-5045,No,2023-11-30T00:00:00Z,No,,,
-Justin,Thran,"Kodiak Bayside Fire Station, Safe Kids Alaska CPS Program",4606 E Rezanof Drive,Kodiak,AK,99615,,,907-486-4536,No,2023-11-29T00:00:00Z,No,,,
 Sara,Penisten Turcic,"Safe Kids Alaska, Providence Alaska Medical Center",3200 Providence Drive,Anchorage,AK,99508,,,907-212-3194,No,2023-11-30T00:00:00Z,No,,,
 Jeff,Jones,"Ketchikan Fire Department, Safe Kids Alaska CPS Program",319 Main Street,Ketchikan,AK,99901,jeffj@city.ketchikan.ak.us,,907-225-9616,No,2017-06-20T00:00:00Z,No,,55.34233,-131.64708
 June,May,SEARHC Prince of Wales,7300 Klawock Hollis Hwy,Klawock,AK,99925,,,907-755-4959,No,2016-05-31T00:00:00Z,No,,55.55214,-133.08208
@@ -40,8 +40,8 @@ Mandi,Seethaler,Center for Safe Alaskan,4241 B St,Anchorage,AK,99503,,,907-929-3
 Angela,Adams,The Fairbanks Safe Rider Program Fairbanks Memorial Hospital,1650 E Cowles St,Fairbanks,AK,99701,,,907-458-7233,No,2023-11-29T00:00:00Z,No,,64.831476,-147.740363
 JoAnn,Draper,Indian Health Services - Tsaile Health Center,Navajo Route 12 &64,Tsaile,AZ,86556,,,928-724-3726,No,2017-06-29T00:00:00Z,No,Apache,,
 Leslie,Yazzi,Chinle Comprehensive Health Care Facility,Highway 191,Chinle,AZ,86503,Geraldine.smith@ihs.gov,,928-674-7485,No,2017-06-29T00:00:00Z,No,Apache and Some parts of Navajo County,,
-Tina,Yazzie,Pinon Health Center - Health Promotion,Route 4,Pinon,AZ,86510,tina.long@ihs.gov,,928-725-9704,No,2017-06-29T00:00:00Z,No,"Apache, and Navajo",,
 Darlene,Yellowhair,"Tuba City Regional Health Care Corp, - DEHS/OEH- General Services Building",E Birch Ave,Tuba City,AZ,86045,,,928-283-2844,No,2015-09-04T00:00:00Z,No,,,
+Tina,Yazzie,Pinon Health Center - Health Promotion,Route 4,Pinon,AZ,86510,tina.long@ihs.gov,,928-725-9704,No,2017-06-29T00:00:00Z,No,"Apache, and Navajo",,
 Diane,Mitchell,Sierra Vista Fire Department,4127 Avenida Cochise,Sierra Vista,AZ,85635,,,520-458-3319,No,2017-06-27T00:00:00Z,No,,31.533156,-110.255457
 Zack,Ruiz,Green Valley Fire District,1285 W Camino Encanto,Green Valley,AZ,85622,,,520-625-9400,No,2013-08-06T00:00:00Z,No,"Pima, Santa Cruz",31.826559,-111.010483
 Scott,Haller,Rincon Valley Fire District - Station 2,14550 E Sands Ranch Road,Vail,AZ,85641,ecornejo@rinconvalley.fd.org,,520-647-3760,No,2017-06-27T00:00:00Z,No,Pima,32.0045,-110.68431
@@ -142,9 +142,9 @@ Mike,Riach,SBCO No. 17 - Fire Station,#574 UCSB Campus Bldg.,Goleta,CA,93117,car
 Marc,Cohen,CarSeat911,1317 N San Fernando Blvd. 532,Burbank,CA,91504,cps@marccohen.net,,818-469-1654,No,2023-10-24T00:00:00Z,Yes,,,
 Noemi,Duenas,Pacific Safety Center,"22 W 35th, Suite 205",San Diego,CA,91950,,,858-621-2313,Yes,2019-09-23T00:00:00Z,No,,,
 Judy,Slattery,"Car Seat Safety People, LLC",P.O. Box 1737,Simi Valley,CA,93062,judy@carseatsafetypeople.com,,805-320-9800,No,2017-07-06T00:00:00Z,No,Ventura and Los Angeles,,
+Adam,Lari,Infant Toddler Youth Safety,Palms Blvd,Los Angeles,CA,90034,LariAdam@hotmail.com,,818-770-2547,No,2017-07-03T00:00:00Z,No,,,
 Jim,DeCarli,Pro Car Seat Safety Serving Buttercup at El Paseo,300 E Colorado Blvd,Pasadena,CA,91101,jim@procarseatsafety.com,,3234916197,No,2020-10-14T00:00:00Z,No,,,
 Jim,DeCarli,Pro Car Seat Safety Serving Buttercup at El Paso,300 Colorado Blvd #157,Pasadena,CA,91101,jim@procarseatsafety.com,,3234916197,No,2020-10-14T00:00:00Z,No,,,
-Adam,Lari,Infant Toddler Youth Safety,Palms Blvd,Los Angeles,CA,90034,LariAdam@hotmail.com,,818-770-2547,No,2017-07-03T00:00:00Z,No,,,
 Jim,DeCarli,Pro Car Seat Safety @ Buy Buy Baby,149 Serramonte Center,Daly City,CA,94015,jim@procarseatsafety.com,,(323) 491-6197,No,2023-08-15T00:00:00Z,Yes,,,
 ,,California Highway Patrol-Winterhaven (620),1 Killingsworth Drive,Felicity,CA,92283,,,760-572-0294,No,2017-07-06T00:00:00Z,No,,32.747951,-114.758218
 ,,California Highway Patrol-San Diego (645),4902 Pacific Highway,San Diego,CA,92110,,,619-220-5492,No,2017-07-06T00:00:00Z,No,,32.76441,-117.20458
@@ -272,11 +272,12 @@ Sarah,Pickard,Roaring Fork Fire Rescue Station 42,1089 J W Dr,Carbondale,CO,8162
 Jamie,Duncan,Castle Rock Fire and Rescue Department,3801 Prairie Hawk Dr,Castle Rock,CO,80109,fireeducator@crgov.com,,303-660-1066,No,2021-07-21T00:00:00Z,No,,39.400536,-104.883038
 Jamie,Duncan,Caste Rock Fire and Rescue Department,3833 N Crowfoot Valley Rd,Castle Rock,CO,80108,fireeducator@crgov.com,,303-660-1066,No,2021-07-21T00:00:00Z,No,,39.417766,-104.838319
 Jackie,Pike,"Red, White and Blue Fire Department",316 N Main St,Breckenridge,CO,80424,,,970-453-2474,No,2021-08-20T00:00:00Z,No,Summit and surrounding,39.485795,-106.045852
-Kelley,Wood,Inter Canyon Fire Station 4,13877 Grizzly Dr,Littleton,CO,80127,Kwood@icfpd.net,,(303) 697-4413,No,2021-08-27T00:00:00Z,No,,39.54585,-105.152539
+Rebecca,Fuller,Conifer East Fire Station 2,10591 Deer Creek Rd,Littleton,CO,80127,carseattech@confirefire.org,,(303) 697-4413,No,2026-07-28T00:00:00Z,No,,39.523349,-105.1853095
+Rebecca,Fuller,Conifer East Fire Station 2,10591 Deer Creek Rd,Littleton,CO,80127,carseattech@coniferfire.org,,303-697-4413,No,2026-08-04T00:00:00Z,No,,39.523349,-105.1853095
 Erin,Day,Parker Adventist Hospital,9395 Crown Crest Blvd,Parker,CO,80138,Erinday@centura.org,,(303) 9187407,No,2020-09-11T00:00:00Z,No,,39.548539,-104.771125
 Kirsten,Harbeck,"Safe Kids Denver Metro, South Metro Safety Foundation",8871 Maximus Dr,Lone Tree,CO,80124,,,303-805-0228,No,2021-01-26T00:00:00Z,No,,39.55525,-104.885153
-Kelley,Wood,Inter Canyon Fire Station 3,8445 US-285 S,Morrison,CO,80465,Kwood@icfpd.net,,(303) 697-4413,No,2021-08-27T00:00:00Z,No,,39.563945,-105.240384
-Kelley,Wood,Inter Canyon Fire Station 1,7939 S Turkey Creek Rd,Morrison,CO,80465,kwood@icfpd.net,,(303) 697-4413,No,2021-08-27T00:00:00Z,No,,39.572552,-105.217696
+Rebecca,Fuller,Conifer East Fire Station 3,8445 US-285 S,Morrison,CO,80465,carseattech@confirefire.org,,(303) 697-4413,No,2026-07-28T00:00:00Z,No,,39.563806,-105.2404092
+Rebecca,Fuller,Conifer East Fire Station 1,7939 S Turkey Creek Rd,Morrison,CO,80465,carseattech@coniferfire.org,,(303) 697-4413,No,2026-08-04T00:00:00Z,No,,39.5725521,-105.2176956
 Sarah,Jacquin,Littleton Adventist Hospital,7700 S Broadway,Littleton,CO,80122,sarahjacquin@centura.org,,(303) 738-2757,No,2022-03-30T00:00:00Z,No,,39.576158,-104.985995
 Vera,Fullaway,Columbine Ambulance Service,5893 S Prince Street,Littleton,CO,80120,vfullaway@comcast.net,,303-378-2932,No,2017-07-19T00:00:00Z,No,Arapahoe and surrounding,39.61052,-105.01652
 Rebecca,Kanaly,United Way of Eagle River Valley Youth Closet & Toy Chest,40800 Highway 6,Avon,CO,81620,executivedirector@unitedwayeagle.org,,(303) 994-2622,No,2022-12-14T00:00:00Z,No,,39.621799,-106.479112
@@ -693,8 +694,8 @@ Jennifer,Abrao,Kuna City Police,1450 W Boise St,Kuna,ID,83634,,,208 577 3860,No,
 Ruby,Garcia,Kiddos Childrens Boitique,418 N River St Suite 21,Hailey,ID,83333,,,208-481-1100,No,2025-07-15T00:00:00Z,No,,43.522907,-114.318968
 Colleen,Studor,"Owhyee County Sheriff, Marsing Station",15 Reich St,Marsing,ID,83639,,,208 495 1154,No,2020-02-03T00:00:00Z,No,,43.545945,-116.80918
 Katharine,Nichols,Thrive Pediatrics,1435 E PhenomenaSt,Meridian,ID,83642,,,541-808-1817,No,2025-07-15T00:00:00Z,No,,43.55499,-116.391945
-Mikky,Crego,Barnyard Day Care,3650 S Millbrook Way,Boise,ID,83716,,,208-901-8191,No,2022-08-23T00:00:00Z,No,,43.56875,-116.1297
 Mikky,Crego,The Barnyard Day Care & Learning Center,3650 S Millbrook Way,Boise,ID,83716,,,208-407-1785,No,2020-09-09T00:00:00Z,No,,43.56875,-116.1297
+Mikky,Crego,Barnyard Day Care,3650 S Millbrook Way,Boise,ID,83716,,,208-901-8191,No,2022-08-23T00:00:00Z,No,,43.56875,-116.1297
 ,,Nampa Police Department,820 2nd St S,Nampa,ID,83651,,,208 465 2298,No,2018-11-06T00:00:00Z,No,,43.58091,-116.56395
 Fire,Administrator,Meridian Fire Station #4,2515 S Eagle Rd,Meridian,ID,83642,,,208-888-1234,No,2019-10-22T00:00:00Z,No,,43.58223,-116.35497
 Fire Admin,,Meridian Fire Station #6,1435 W Overland Rd,Meridian,ID,83642,,,208-888-1234,No,2022-08-23T00:00:00Z,No,,43.589491,-116.41202
@@ -712,7 +713,6 @@ Sgt.,Brannan,Garden City Police Department,301 E 50th St,Garden City,ID,83714,,,
 Sydnee,Gladach,Upper Valley Child Advocacy Center,162 N Yellowstone Hwy,Rigby,ID,83442,,,208-970-0147,No,2022-08-23T00:00:00Z,No,,43.649571,-111.925295
 ,,Meridian Fire Station #5,6001 N Linder Rd,Meridian,ID,83646,,,208-888-1234,No,2019-10-22T00:00:00Z,No,,43.65934,-116.414387
 Thomas,DeFur,Caldwell Police,110 S 5th Ave,Caldwell,ID,83605,,,208-455-3115,No,2023-06-22T00:00:00Z,No,,43.668332,-116.691137
-Jeff,Glenn,Rigby Police Department,173 E Main St,Rigby,ID,83442,,,208-745-1951,No,2019-10-22T00:00:00Z,No,,43.672545,-111.912518
 Lorraine,Hiser,Wilder Fire Department,601 Patriot Way,Wilder,ID,83676,,,208 608 2682,No,2019-10-22T00:00:00Z,No,,43.68032,-116.91378
 Julie Haderlie,,Rexburg Police Department,25 E Main St,Rexburg,ID,83440,,,208-359-3008,No,2023-06-22T00:00:00Z,No,,43.826448,-111.782869
 "Lynsie Vickery, Beau Patterson,",Matthew Henry,Emmett Fire Department,231 S Washington Ave,Emmett,ID,83617,,,208-398-8042,No,2019-10-22T00:00:00Z,No,,43.873849,-116.500266
@@ -722,7 +722,6 @@ Deborah,Story,Weiser Memorial Hospital,645 E 5th St,Weiser,ID,83672,,,208 549 44
 Garrett,de Jong,McCall Fire and EMS,201 Deinhard Ln,McCall,ID,83638,,,208-634-7070,No,2019-10-22T00:00:00Z,No,"Valley, Idaho, Adams",44.898275,-116.10016
 Carol Cunningham or,Beth Miller,Steele Memorial Clinic,203 S Daisy St,Salmon,ID,83467,,,208-756-6212,Yes,2022-09-20T00:00:00Z,No,,45.17322,-113.891733
 Chelsea,Stephanishen,Steele Memorial Hospital,203 S Daisy St,Salmon,ID,83467,,,208 768-7080,Yes,2022-09-20T00:00:00Z,No,,45.17322,-113.891733
-Carma,McKinnon,Lemhi County Sheriff,205 Courthouse Dr,Salmon,ID,83467,,,208-742-1683,No,2019-10-22T00:00:00Z,No,,45.179882,-113.901887
 Elly,Elder,Greater Riggins Safe Seat Outreach (Riggins EMS Station),126 N Main St,Riggins,ID,83549,,,214 276 3812,No,2019-10-22T00:00:00Z,No,,45.42259,-116.31423
 Crissy,Garcia,Nimiipuu Health/Community Health Department,111 Bever Canyon,Lapwai,ID,83540,,,208 843 9375,Yes,2022-09-20T00:00:00Z,No,,46.400536,-116.805701
 Hannah Neiberts or,Darla Villopoto,Saint Joseph Regional Medical Ctr/Family Beginnings,415 6th St,Lewiston,ID,83501,,,208-799-5430,No,2019-10-22T00:00:00Z,No,Nez Perce,46.41641,-117.02444
@@ -981,8 +980,8 @@ Rick,LaGue,Osage Police Department,432 Main Street,Osage,IA,50461,rlague@osagepd
 Joan,Minear,"Winneshiek Medical Center, HAWC Partnerships, Culvers",901 Montgomery Street,Decorah,IA,52101,minearj@winmedical.org,,563-382-2911,Yes,2017-08-02T00:00:00Z,Yes,Winneshiek,43.294478,-91.771168
 Mary,Moorman,Emmet County Public Health,508 South 1st Street,Estherville,IA,51334,,,(712) 362-2490,No,2017-08-02T00:00:00Z,No,,43.39723,-94.83928
 Lisa,Hattok,Henry Leavenworth Elementary /USD453,1925 Vilas St,Leavenworth,KS,66048,lisa.hattok@lvpioneer.org,,913 684-1470,No,2021-09-16T00:00:00Z,No,,,
-Heather,Peterson,Reno County Health Department,209 W 2nd,Hutchinson,KS,67501,heather.peterson@renogov.org,,620-694-2900,No,2021-10-27T00:00:00Z,No,,,
 Kristy George,,sedgwick County Sheriffs Office,830 W Stillwell,Wichita,KS,67213,kristy.george@sedgwick.gov,,316- 660-3 790,No,2024-08-19T00:00:00Z,No,,,
+Heather,Peterson,Reno County Health Department,209 W 2nd,Hutchinson,KS,67501,heather.peterson@renogov.org,,620-694-2900,No,2021-10-27T00:00:00Z,No,,,
 Kristy George,,Sedgwick County Sheriffs Office,830 W Stillwell,Wichita,KS,67213,kristy.george@sedgwick.gov,,316-660-3790,No,2024-08-19T00:00:00Z,No,,,
 Mike Oconnor,,Coffeyville Fire Department,1206 W 11th Street,Coffeyville,KS,67337,,,620-252-6148,No,2013-10-30T00:00:00Z,No,,37.033691,-95.634827
 Adison Hayes,,Coffeyville Police Department,1206 W 11th St,Coffeyville,KS,67337,adison.hayes@coffeyvillepd.org,,620-252-6122,No,2024-07-08T00:00:00Z,No,,37.033691,-95.634827
@@ -1275,7 +1274,7 @@ Staff on Duty,,MD Kids in Safety Seats,201 W. Preston St.,Baltimore,MD,21201,,,8
 Inspector on Duty,,Fitzgerald Frederick Auto Mall,114 Baughmans Lane,Frederick,MD,21702,porterm@fitzmall.com,,301-548-4847,No,2021-03-25T00:00:00Z,No,Frederick,,
 Inspector on Duty,,Fitzgerald Lakeforest Auto Mall,905 N. Frederick Rd.,Gaithersburg,MD,20879,,,301-548-4847,No,2021-03-25T00:00:00Z,No,Montgomery,,
 Inspector on Duty,,Fitzgerald Rockville Auto Mall,5501 Nicholson La.,Rockville,MD,20852,,,301-548-4847,No,2021-03-25T00:00:00Z,No,Montgomery,,
-Timothy,Snyder,St Mary's Co Sheriff's Office,23150 Leonard Hall Dr,Leonardtown,MD,20650,safecarseats@stmarysmd.com,,301-475-4040,No,2023-08-31T00:00:00Z,No,,38.304646,-76.628883
+Timothy,Snyder,St Mary's Co Sheriff's Office,23150 Leonard Hall Dr,Leonardtown,MD,20650,safecarseats@stmarysmd.com,,301-475-4040,No,2026-07-20T00:00:00Z,No,,38.304623,-76.628867
 Inspector on Duty,,Fitzgerald White Flint,5501 Nicholson Ln,Rockville,MD,20852,,,301-548-4847,No,2021-03-25T00:00:00Z,No,Montgomery,39.045678,-77.105932
 ,,Safe Kids,14111 Georgia Ave,Silver Spring,MD,20906,,,240-777-2223,No,2020-07-10T00:00:00Z,No,,39.085343,-77.077528
 Staff on Duty,,Montgomery Co. CPS Program,100 Edison Park Dr,Gaithersburg,MD,20878,,,240-777-2223,No,2020-09-10T00:00:00Z,No,Montgomery,39.113046,-77.236387
@@ -1286,8 +1285,8 @@ Maggie,Rauser,Carroll County Health Dept,290 S Center St,Westminster,MD,21157,,,
 Tiffany,Carnegie,Human Services Programs--Family Center,10 Distillery Dr,Westminster,MD,21157,,,410-386-6675,No,2018-08-23T00:00:00Z,No,,39.57576,-76.99415
 Meritus Health,,Meritus Health,11116 Medical Campus Rd,Hagerstown,MD,21742,emsfeedback@meritushealth.com,,301-790-8366,No,2020-09-10T00:00:00Z,No,,39.622013,-77.683909
 ,,Millville Fire Rescue,196 Main St,Millville,MA,01529,,,508-883-4740,No,2023-08-24T00:00:00Z,No,,,
-,,Pepperell Fire Department,38 Park St,Pepperell,MA,01960,,,978-433-2113,No,2023-08-29T00:00:00Z,No,,,
 ,,Boston Police Department District C-11,40 Gibson St,Dorchester,MA,02122,,,617-343-4330,No,2023-08-23T00:00:00Z,No,,,
+,,Pepperell Fire Department,38 Park St,Pepperell,MA,01960,,,978-433-2113,No,2023-08-29T00:00:00Z,No,,,
 ,,Tisbury Police Department,32 Water St,Tisbury,MA,02568,,,508-696-4240,No,2023-08-29T00:00:00Z,No,,,
 ,,Nashoba Valley Regional Dispatch District,270 Barnum Rd,Devens,MA,01434,,,978-772-1900,No,2023-08-23T00:00:00Z,No,,,
 Mandi,Summers,Baystate Children's Hospital- MA CPS,759 Chestnut Street,Springfiled,MA,01199,Mandi.Summers@baystatehealth.org,,413-794-6510,No,2021-03-16T00:00:00Z,No,,,
@@ -1415,8 +1414,8 @@ Dino,Siakantaris,Grosse Ille Police Department,24525 Meridian Rd,Grosse Ille,MI,
 Andrew,Grignon,Trenton Police Department,2872 W Jefferson,Trenton,MI,48183,,,734-676-3737,No,2010-12-27T00:00:00Z,No,Wayne,42.139812,-83.178627
 Clay,Hollister,Portage Fire Department,7830 Shaver Rd,Portage,MI,49024,teffts@bronsonhg.org,,269-329-4487,No,2020-03-19T00:00:00Z,No,Kalamazoo,42.203147,-85.590842
 Jeffrey Moore and,Daniel Werling,Southgate Fire Department,14730 Reaume Parkway,Southgate,MI,49185,,,734-258-3080,No,2010-12-27T00:00:00Z,No,Wayne,42.203327,-83.207546
-MOlly,Hamre,Van Buren Cass health Department,57418 CR 681,Hartford,MI,49057,,,269-621-3143,No,2011-12-01T00:00:00Z,No,Van Buren,42.209074,-86.108534
 Julie,Bos,Van Buren/Cass Health Department,57418 CR-681,Hartford,MI,49057,,,269-621-3143,No,2016-07-11T00:00:00Z,No,,42.209074,-86.108534
+MOlly,Hamre,Van Buren Cass health Department,57418 CR 681,Hartford,MI,49057,,,269-621-3143,No,2011-12-01T00:00:00Z,No,Van Buren,42.209074,-86.108534
 Deborah,Boze,Van Buren County Sheriff Office,205 s Kalamazoo St,Paw Paw,MI,49079,,,269-657-2006,No,2010-01-19T00:00:00Z,No,Van Buren,42.216545,-85.891006
 James,Campbell,Michigan State Police,108 W. Michigan Avenue,Paw Paw,MI,49079,Campbellj18@michigan.gov,,269-657-6081,No,2012-01-13T00:00:00Z,No,All,42.217855,-85.893313
 Brandon,Davis,Michigan State Police- Paw Paw Post,43255 60th Ave,Paw Paw,MI,49079,DavisB11@Michigan.gov,,269-657-5551,No,2010-12-23T00:00:00Z,No,"Van Buren, Kalamazoo, all in State of Michigan",42.217855,-85.893313
@@ -1563,6 +1562,7 @@ Kenna Fricke,,Gasconade County Health Dept.,303 N. 1st Street,Owensville,MO,6506
 Justin,Wheatley,"Missouri State Highway Patrol, Troop C",Technology Dr,St Charles,MO,63304,al.nothum@mshp.dps.mo.gov,,636-300-2800,No,2018-11-23T00:00:00Z,No,"Franklin, St. Louis, St. Charles, Jefferson, Pike, Lincoln, St. Francois, Perry",,
 Elizabeth,Baker,South Central MO Community Action Agency,RR2 PO BOX 16,Doniphan,MO,65806,ebaker@smcmcaa.org,,573 996-5059,No,2019-08-08T00:00:00Z,No,,,
 Vicki,Pyette,Pemiscot County Initiative Network,711 W 3rd St,Caruthersville,MO,63830,bjames@cosmowireless.net,,573-333-5301,No,2013-10-31T00:00:00Z,No,"Pemiscot, Dunklin, New Madrid",36.196175,-89.660796
+,,Dunklin County Health Department,402 Recovery Road,Kennett,MO,63857,,,573-888-9008,Yes,2026-08-13T00:00:00Z,No,,36.233447,-90.040499
 Carol,Waggoner,Dunklin County Health Department,410 Teaco Rd,Kennett,MO,63857,,,573-888-9008,No,2013-10-30T00:00:00Z,No,Dunklin,36.233701,-90.042087
 Kristi,Smith,Dunkin Stoddard Caring Council,311 Kennett St,Kennett,MO,63857,ksmith@caringcouncil.org,,573 717-1158,No,2021-06-23T00:00:00Z,No,,36.234095,-90.05584
 Rebecca,Dowell,Monroe County Health Department,310 N. Market St,Paris,MO,65275,,,660-327-4259 x 119,No,2013-10-30T00:00:00Z,No,Monroe,36.304049,-88.326399
@@ -1591,6 +1591,8 @@ Dalene,Chilton,Butler County Community Resource Council,644 Charles St,Poplar Bl
 Elizabeth Garrett,,South Central MO Community Action Center,1150 Herschel Bess Blvd,Poplar Bluff,MO,63901,egarrett@scmcaa.org,,573-778-9411,Yes,2024-03-25T00:00:00Z,Yes,,36.77141,-90.429471
 ,,Butler County Health Department,1619 N Main St,Poplar Bluff,MO,63901,,,573 785-8478,No,2026-05-29T00:00:00Z,No,,36.773079,-90.403457
 Katrina,Atkins,Mississippi County Caring Communities,603 N Garfield St,East Prairie,MO,63845,mcccdir@sbcglobal.net,,573-683-7551,No,2013-10-31T00:00:00Z,No,"Mississippi, Scott",36.782231,-89.390768
+,,Caring Communities,603 North Garfield,|East Prairie,MO,63845,,,573-683-7551,No,2026-08-13T00:00:00Z,No,,36.7825013,-89.3907073
+,,Caring Communities,603 North Garfield,EastPrarie,MO,63845,,,573-683-7551,No,2026-08-13T00:00:00Z,No,,36.7825013,-89.3907073
 James,Martin,Stoddard County Ambulance District,501 W Business US Highway 60,Dexter,MO,63841,jmartin@stoddems.com,,(573) 624-8951,No,2019-04-03T00:00:00Z,No,,36.799707,-89.964835
 Kim,King,Stone County Health Department,109 E 4th St,Galena,MO,65656,,,417-357-6134,No,2013-10-30T00:00:00Z,No,Stone,36.805473,-93.466423
 Jami,Gunn,Stone County Health Department,109 E 4th St,Galena,MO,65656,jami.gunn@lpha.mo.gov,,(417) 357-6134,No,2018-06-06T00:00:00Z,No,,36.80564,-93.46611
@@ -1609,6 +1611,7 @@ Peg,Rodgers,Luv-N-Tots,401 E. Shawne,Bloomfield,MO,63825,luv-n-tots@hotmail.com,
 Shannon,Hobson,Cox Health Monett,801 S Lincoln Rd,Monett,MO,65708,,,417-354-1448,No,2016-11-22T00:00:00Z,No,,36.907918,-93.927089
 Shonna,Slaughter,Charleston R1 Parents as Teachers,606 S Thorn,Charleston,MO,63845,sslaughter@charleston.K12.mo.us,,573 427-9827,No,2017-12-20T00:00:00Z,No,,36.919752,-89.337529
 Andrea,Story,Charleston Parents as Teachers,604 S Thorn St,Charleston,MO,63834,aduenne@charleston.k12.mo.us,,573-233-6062,No,2013-10-31T00:00:00Z,No,Charleston,36.919772,-89.33753
+,,Mississippi County Health Department,1200 East Marshall,Charleston,MO,63834,,,573-683-2191,No,2026-08-13T00:00:00Z,Yes,,36.9215567,-89.3344051
 Sonya,Hodges,Douglas County Health Department,603 NW 12th Ave,Ava,MO,65608,,,417-683-4174,No,2015-09-14T00:00:00Z,No,,36.961055,-92.663717
 Amanda,Sexton,Stoddard County Public Health Center,MO-25,Bloomfield,MO,63825,sextoal@lpha.dhss.mo.gov,,573-568-4593,No,2013-10-30T00:00:00Z,No,Stoddard,36.989639,-89.905212
 Jeff,Kinder,Missouri State Highway Patrol,Business US 60-63,Willow Springs,MO,65775,,,417-469-3121,No,2016-12-09T00:00:00Z,No,"Carter, Douglas, Howell, Oregon, Ozark, Reynolds, Shauman,Texas, Wright",37.00026,-91.97525
@@ -1645,11 +1648,7 @@ Micheal,Mcclure,Missouri State Highway Patrol Troop D,3131 E Kearney St,Springfi
 Joe,Lato,SCMCAA,145 W Maple St,Ellington,MO,63638,jlato@scmcaa.org,,573 663-3199,No,2019-11-12T00:00:00Z,No,,37.242792,-90.970161
 Brooke,Kirby,SAFE KIDS Cape Girardeau Area,3049 MO-K,Cape Girardeau,MO,63703,bkirby@sehealth.org,,573-332-1587,No,2013-10-30T00:00:00Z,No,Cape and surrounding,37.300773,-89.570049
 Lynn,Ware,Cape Girardeau Safe Communities Program,40 S Sprigg St,Cape Girardeau,MO,63703,,,573-335-7908,No,2013-10-30T00:00:00Z,No,Cape and surrounding,37.303154,-89.526772
-Stephanie,Shell,willard Fire Protection District,240 State Highway Z,Willard,MO,65781,,,417 685-3114,No,2020-01-06T00:00:00Z,No,,37.316594,-93.429615
-Megan,Carver,Texas County Health Department,950 Highway 63,Houston,MO,65483,,,417-967-4269,No,2018-05-09T00:00:00Z,No,,37.333452,-91.944467
-Stephen,Baugh,Jackson Fire and Rescue,503 S Hope St,Jackson,MO,63755,sbaugh@jacksonfire.org,,573-243-1010,No,2015-09-08T00:00:00Z,No,Cape and surrounding,37.37881,-89.667156
-,,Fair Grove Fire Protection District,340 W Eagle Ridge St,Fair Grove,MO,65648,admin@fairgrovefire.org12,,417-759-7908,No,2023-12-20T00:00:00Z,No,,37.390153,-93.159183
-Jamie,Hillman,Barceda Families,413 W Water St,Greenfiled,MO,64759,,,417-637-2345,No,2016-03-22T00:00:00Z,No,"Barton, Cedar, Dade, and Vernon",37.41485,-93.84219
+,,Cape Girardeau Police Department-Safe Communities Program,2530 Maria Louise Ln,Cape Girardeau,MO,63701,,,573-339-6365,No,2026-08-13T00:00:00Z,No,,37.3163049,-89.5558542
 Tracie,Kiesel,Montana Highway Patrol,2550 US-12,Helena,MT,59601,,,406-324-1072,Yes,2022-09-20T00:00:00Z,No,"Lewis and Clark, Jefferson, Broadwater",,
 Ruth,Bilyeu,Red Lodge Fire Rescue,801 N Broadway Ave,Red Lodge,MT,59068,,,406-446-2320,No,2018-01-23T00:00:00Z,No,,45.195107,-109.24767
 Travis,Hansen,Columbus Fire Rescue,944 E Pike Ave,Columbus,MT,59019,thansen@columbusfirerescue.com,,406-780-0133,No,2021-03-17T00:00:00Z,No,,45.635996,-109.247047
@@ -2474,22 +2473,21 @@ Gregory,Chito,North Smithfield Police Department,575 Smithfield Rd,North Smithfi
 ,,City of Marion Fire Department,107 East Bond Street,Marion,SC,29571,,,843-423-8602,No,2025-06-24T00:00:00Z,No,,,
 ,,Epworth Children's Home,1154 Sunnyside Dr,1154 Sunnyside Dr,SC,29204,,,803-658-7587,No,2025-01-08T00:00:00Z,No,,,
 ,,Jasper County First Steps,1130 3rd Avenue,Ridgeland,SC,29936,,,843-726-5100,No,2024-04-22T00:00:00Z,No,,,
-,,Town of Hilton Head Fire and Rescue,40 Summit Dr,Hilton Head Island,SC,29926,,,843-682-5141,No,2023-02-01T00:00:00Z,No,Beaufort,32.224598,-80.693284
+,,Town of Hilton Head Fire and Rescue,10 Park Lane,Hilton Head Island,SC,29928,,,843-682-5141,No,2026-07-23T00:00:00Z,No,Beaufort,32.1634382,-80.7441981
 ,,Bluffton Township Fire District - Administrative Annex,178 May River Rd,Bluffton,SC,29910,,,(843) 757-2800,No,2026-06-18T00:00:00Z,No,,32.237945,-80.966905
 ,,Bluffton Township Fire District - Station 38,260 Raider Dr,Bluffton,SC,29910,,,843-757-2800,No,2023-09-20T00:00:00Z,No,,32.270557,-80.937319
 ,,Bluffton Township Fire District,357 Fording Island Rd,Bluffton,SC,29909,,,843-757-2800,No,2023-02-01T00:00:00Z,No,,32.291374,-80.900273
-,,Port Royal Fire Station,1750 Paris Ave,Port Royal,SC,29935,,,843-525-7055,No,2023-02-01T00:00:00Z,No,,32.383662,-80.691425
+,,Beaufort/Port Royal Fire Station 3,1750 Paris Ave,Beaufort,SC,29935,,,843-525-7055,No,2026-07-23T00:00:00Z,No,,32.3836334,-80.6915826
 ,,Beaufort Fire Department Station 2,1120 Ribaut Rd,Beaufort,SC,29902,,,843-525-7055,No,2023-02-01T00:00:00Z,No,,32.408233,-80.686656
-,,Beaufort/Port Royal Fire Station,571 Robert Smalls Pkwy,Beaufort,SC,29906,,,843-525-7055,No,2023-02-01T00:00:00Z,No,,32.413873,-80.749292
+,,Beaufort/Port Royal Fire Station 4,571 Robert Smalls Pkwy,Beaufort,SC,29906,,,843-525-7055,No,2026-07-23T00:00:00Z,No,,32.4139091,-80.7492586
 ,,Beaufort County First Steps,703 Bladen St,Beaufort,SC,29902,,,843-379-7837,No,2023-02-01T00:00:00Z,No,,32.435567,-80.679252
 ,,Beaufort Fire Department Station 1,135 Ribaut Rd,Beaufort,SC,29902,,,843-525-7055,No,2023-02-01T00:00:00Z,No,,32.437424,-80.685354
 ,,Jasper County First Steps,456 Grays Hwy,Ridgeland,SC,29936,,,843-726-5100,No,2023-02-01T00:00:00Z,No,,32.488492,-80.9841
-,,Jasper County Fire Rescue,1509 Grays Highway,Ridgeland,SC,29936,,,843-726-7607,No,2024-04-22T00:00:00Z,No,,32.495229,-80.988218
 ,,Jasper County Sheriffs Office,12008 N Jacob Smart Blvd,Ridgeland,SC,29936,,,843-726-7777,No,2024-04-22T00:00:00Z,No,,32.497645,-80.972694
 ,,St. John's Fire Department,1148 Main Rd,Johns Island,SC,29455,,,843-559-9194,No,2023-01-30T00:00:00Z,No,,32.743918,-80.106669
 ,,MUSC Shawn Jenkins Children's Hospital,10 McClennan Banks Ct,Charleston,SC,29401,,,843-985-2449,No,2023-01-30T00:00:00Z,No,,32.782829,-79.951232
 ,,St. Andrews Fire Department,1775 Ashley River Rd,Charleston,SC,29407,,,843-480-2738,No,2023-01-30T00:00:00Z,No,,32.800963,-80.016457
-,,Florence Crittenton Programs of South Carolina,19 Saint Margaret St,Charleston,SC,29403,,,846-459-2060,No,2023-10-20T00:00:00Z,No,,32.803531,-79.954972
+,,Young Moms Together,19 Saint Margaret St,North Charleston,SC,29419,,,846-459-2060,No,2026-07-23T00:00:00Z,No,,32.803531,-79.954972
 ,,Charleston Fire Department,1451 King Street Ext,Charleston,SC,29405,,,843.973.7238,No,2023-01-30T00:00:00Z,No,,32.816671,-79.951669
 ,,Charleston County EMS,4045 Bridge View Dr,North Charleston,SC,29405,,,843-202-6708,No,2023-01-30T00:00:00Z,No,,32.840649,-80.013232
 ,,Hampton County Sherrif's Office,411 Cemetery Rd,Varnville,SC,29944,,,803-914-2200,No,2025-01-08T00:00:00Z,No,,32.862512,-81.08871
@@ -2515,18 +2513,19 @@ Gregory,Chito,North Smithfield Police Department,575 Smithfield Rd,North Smithfi
 ,,Berkeley County Coroners Office,102 Gulledge St,Moncks Corner,SC,29461,,,843-719-4566,No,2023-10-20T00:00:00Z,No,,33.193296,-80.008486
 ,,Berkeley County Sheriff's Office,223 N. Live Oak Drive,223 N. Live Oak Drive,SC,29461,,,843-719-4505,No,2024-09-09T00:00:00Z,No,,33.199031,-80.006472
 ,,MUSC Women's Health Nurse Family Partnership,5000 Epson Plantation Dr,Moncks Corner,SC,29461,,,843-214-4216,No,2023-09-19T00:00:00Z,No,,33.204709,-79.98369
+,,Bamberg Fire Department,2320 Main Highway,Bamberg,SC,29003,,,803-707-9548,No,2026-07-23T00:00:00Z,No,,33.3071252,-81.0341334
 ,,Georgetown City Fire Department Station,2900 S Fraser St,Georgetown,SC,29440,,,843-545-4200,No,2023-01-30T00:00:00Z,No,,33.333906,-79.309214
 ,,Georgetown City Fire Headquarters,1405 Prince St,Georgetown,SC,29440,,,843-545-4200,No,2023-01-30T00:00:00Z,No,,33.372409,-79.290196
-,,Georgetown County Fire,3605 Highmarket St,Georgetown,SC,29440,,,843-545-3271,No,2023-01-30T00:00:00Z,No,,33.390163,-79.322879
+,,Georgetown County Fire,3605 Highmarket St,Georgetown,SC,29440,,,843-545-3135,No,2026-08-14T00:00:00Z,No,,33.3901631,-79.322879
+,,Orangeburg City Fire Department,1320 Middleton ST,Orangeburg,SC,29115,,,803-533-4105,No,2026-07-23T00:00:00Z,No,,33.492204,-80.866098
 ,,South Carolina Highway Patrol Troop 7 HQ,1391 Middleton St,Orangeburg,SC,29115,,,843-709-3782,No,2023-09-19T00:00:00Z,No,,33.492265,-80.867493
-,,Orangeburg DPS Fire Department,1320 Middleton ST,Orangeburg,SC,29115,,,803-533-4105,No,2023-11-21T00:00:00Z,No,,33.492574,-80.866429
 ,,Belvedere Fire Station,204 Hampton Ave,Belvedere,SC,29841,,,803-279-5505,No,2023-09-20T00:00:00Z,No,,33.533513,-81.942032
 ,,Safe Kids Aiken County / Tri-Development Center,1016 Vaucluse Rd,Aiken,SC,29801,,,803-642-8809,No,2023-02-01T00:00:00Z,No,,33.566845,-81.732122
 ,,Aiken Department of Public Safety,834 Beaufort St NE,Aiken,SC,29801,,,803-642-7620,No,2023-02-01T00:00:00Z,No,,33.570504,-81.697758
 ,,Surfside Beach FD,810 First Ave N,Surfside,SC,29575,,,843-467-5921,No,2025-01-08T00:00:00Z,No,,33.611906,-78.979902
 ,,Eli Collins Foundation for Premature Babies,137 E Mill St,Kingstree,SC,29556,,,843-355-5625,No,2023-01-31T00:00:00Z,No,,33.665617,-79.829553
-,,Myrtle Beach Fire Department Station 3,2108 S Kings Hwy,Myrtle Beach,SC,29577,,,843.918.1221,No,2023-01-31T00:00:00Z,No,,33.672561,-78.911056
 ,,Myrtle Beach Fire Department Station 4,1170 Howard Pkwy,Myrtle Beach,SC,29577,,,843.918.1221,No,2023-01-31T00:00:00Z,No,,33.672805,-78.93944
+,,Myrtle Beach Fire Department Station 3,500 Harrelson Blvd,Myrtle Beach,SC,29577,,,843.918.1221,No,2026-07-23T00:00:00Z,No,,33.6875357,-78.9241344
 ,,Clarendon County Fire Rescue,219 Commerce St,Manning,SC,29102,,,803-435-4075,No,2023-01-30T00:00:00Z,No,,33.694541,-80.22591
 ,,Manning Fire Department,38 W Boyce St,Manning,SC,29102,,,803-460-4052,No,2023-09-20T00:00:00Z,No,,33.69527,-80.21266
 ,,Myrtle Beach Fire Department Station 1,1250 Mr Joe White Ave,Myrtle Beach,SC,29577,,,843.918.1221,No,2023-01-31T00:00:00Z,No,,33.701257,-78.886634
@@ -2534,11 +2533,10 @@ Gregory,Chito,North Smithfield Police Department,575 Smithfield Rd,North Smithfi
 ,,Myrtle Beach Fire Department Station 2,5338 N Kings Hwy,Myrtle Beach,SC,29577,,,843.918.1221,No,2023-01-31T00:00:00Z,No,,33.72701,-78.842029
 ,,Myrtle Beach Fire Department Station 5,804 79th Ave N,Myrtle Beach,SC,29572,,,843.918.1221,No,2023-01-31T00:00:00Z,No,,33.754627,-78.82206
 ,,Grand Strand Medical Center,809 82nd Parkway,Myrtle Beach,SC,29572,,,843-692-4987,No,2024-09-09T00:00:00Z,No,,33.758566,-78.819995
-,,North Myrtle Beach DPS,1015 2nd Ave S,North Myrtle Beach,SC,29582,,,843-280-5511,No,2023-11-21T00:00:00Z,No,,33.827583,-78.685432
+,,North Myrtle Beach Fire Department,1015 2nd Ave S,North Myrtle Beach,SC,29582,,,843-280-5511,No,2026-07-23T00:00:00Z,No,,33.8276354,-78.6852195
 ,,Conway Police Department,1600 9th Ave,Conway,SC,29526,,,843-248-1790,No,2023-01-31T00:00:00Z,No,,33.839561,-79.058908
 ,,Horry County Fire Rescue,2560 Main St,Conway,SC,29526,,,843-915-5190,No,2023-01-31T00:00:00Z,No,,33.864417,-79.053543
 ,,Batesburg/Leesville Police Department,660 W Columbia Ave,Batesburg-Leesville,SC,29006,,,803-532-4408,No,2020-02-25T00:00:00Z,No,,33.899871,-81.555217
-,,South Congaree Police Department,119 W Berry Rd,West Columbia,SC,29172,,,803-755-2760,No,2023-09-19T00:00:00Z,No,,33.913131,-81.124426
 ,,Safe Kids Sumter/Prisma Health Tuomey,129 N Washington St,Sumter,SC,29150,,,803-774-8822,No,2023-01-30T00:00:00Z,No,,33.92377,-80.343047
 ,,Sumter Fire Department,315 N Lafayette Dr,Sumter,SC,29150,,,803-305-5538,No,2023-05-30T00:00:00Z,No,,33.925927,-80.336144
 ,,Tandem Health,370 S Pike W,Sumter,SC,29150,,,803-774-4500 ext.587,No,2023-05-30T00:00:00Z,No,,33.947558,-80.359083
@@ -2563,14 +2561,15 @@ Gregory,Chito,North Smithfield Police Department,575 Smithfield Rd,North Smithfi
 ,,Sardis-Timmonsville Fire Dept.,431 E. Smith St.,Timmonsville,SC,29161,,,843-346-5555,No,2024-09-09T00:00:00Z,No,,34.136307,-79.932274
 ,,Safe Kids Lakelands,410 Epting Ave,Greenwood,SC,29646,,,864-725-6048,No,2023-09-20T00:00:00Z,No,,34.171853,-82.15641
 ,,Kershaw County Fire Rescue Station 13,2344 Highway 1 S,Elgin,SC,29045,,,803-425-1522,No,2023-09-19T00:00:00Z,No,,34.177521,-80.780847
-,,Greenwood City Police Department,520 Monument St,Greenwood,SC,29646,,,864.942.8423,No,2023-09-19T00:00:00Z,No,,34.18859,-82.162623
 ,,Carolina Health Centers,313 Main St,Greenwood,SC,29646,,,864-229-4446,No,2023-01-31T00:00:00Z,No,,34.190692,-82.159775
-,,Greenwood County FIrst Steps,1402 C Highway 72 West,Greenwood,SC,29461,,,843-291-0636,No,2024-11-12T00:00:00Z,No,,34.194707,-82.196193
+,,Greenwood County FIrst Steps,1402 C Highway 72 West,Greenwood,SC,29649,,,864-388-4102,No,2026-08-14T00:00:00Z,No,,34.1947434,-82.196179
 ,,Lee County EMS,130 Industrial Blvd.,Bishopville,SC,29010,,,803-229-0185,No,2024-09-09T00:00:00Z,No,,34.195394,-80.209956
 ,,Safe Kids Pee Dee/Coastal/McLeod Regional Medical Center,555 E Cheves St,Florence,SC,29506,,,843-777-5021,No,2023-01-31T00:00:00Z,No,,34.197138,-79.758224
 ,,Lugoff Fire Department,892 Highway 1 S,Lugoff,SC,29078,,,803-438-2553,No,2023-01-30T00:00:00Z,No,,34.227287,-80.678451
-,,Jones Insurance Agency,728 Dewitt Drive,Lugoff,SC,29078,,,803-669-3082,No,2024-04-22T00:00:00Z,No,,34.233624,-80.670779
 ,,Camden Fire Department,1000 Lyttleton St,Camden,SC,29020,,,803-425-6042,No,2023-01-30T00:00:00Z,No,,34.244254,-80.601616
+,,Camden Fire Department Station 2,2009 Liberty Hill Rd,Camden,SC,29020,,,803.425.6060,No,2022-02-14T00:00:00Z,No,,34.355352,-80.690137
+,,Hartsville Fire Department,111 S 7th St,Hartsville,SC,29550,,,843-383-3000,No,2023-01-31T00:00:00Z,No,,34.371887,-80.076641
+,,Fairfield County Sheriff's Office,250 N Walnut St.,Winnsboro,SC,29180,,,803-718-4080,No,2026-06-18T00:00:00Z,No,,34.3846764,-81.0841082
 April,Flemming,Family Resource Network,Pugsley Center 201,Brookings,SD,57007,,,1-800-354-8238,No,2017-08-07T00:00:00Z,No,,,
 Kristy,Breske,Sanford Clinic Webster,101 Peabody Drive,Webster,SD,57274,,,605-345-4141,No,2017-08-07T00:00:00Z,No,,42.546619,-83.212217
 Amy,Heisinger,Sanford Children's CHILD Services,1115 W 41st Street,Sioux Falls,SD,57105,,,605-312-8370,No,2017-08-07T00:00:00Z,No,,43.514825,-96.73904
@@ -2836,8 +2835,8 @@ Jann,Fawcett,Weber-Morgan Health Department,477 23rd St,Ogden,UT,84401,jfawcett@
 Michael,Irvine,Utah Highway Patrol,461 Stewart St,Ogden,UT,84404,,,801.393.1136,No,2022-09-19T00:00:00Z,No,,41.255118,-111.991828
 Craig,Hamer,Mantua City Police Department,409 N Main St,Mantua,UT,84324,,,435.723.7054,No,2022-09-19T00:00:00Z,No,,41.503434,-111.943417
 Mike,Scriver,Logan Regional Hospital,500 E 1400 N,Logan,UT,84341,,,435.716.1000,No,2022-09-19T00:00:00Z,No,,41.756072,-111.822249
-,,Fairfax Rescue,144 Goodall St,Fairfax,VT,05454,,,802-849-2773,No,2023-06-28T00:00:00Z,No,,,
 ,,Orleans County Sheriff's Department,5578 US Route 5,Derby,VT,05829,,,802-334-3333,No,2023-06-28T00:00:00Z,No,,,
+,,Fairfax Rescue,144 Goodall St,Fairfax,VT,05454,,,802-849-2773,No,2023-06-28T00:00:00Z,No,,,
 ,,Rescue Inc.,541 Canal St,Brattleboro,VT,05301,,,802-257-0504,No,2023-06-28T00:00:00Z,No,,42.837588,-72.566341
 ,,Deerfield Rescue Squad,22 Stow Hill Road,Wilmington,VT,05363,,,802-464-5557,No,2024-09-12T00:00:00Z,No,,42.876759,-72.893993
 ,,Sunrise Family Resource Center,238 Union St,Bennington,VT,05201,,,802-442-0059,No,2023-06-28T00:00:00Z,No,,42.877025,-73.190307
@@ -2886,8 +2885,6 @@ Patrick,McLaughlin,Lyndon Rescue Inc.,114 Vail Dr,Lyndonville,VT,05851,,,802-427
 ,,Family Center and NCSS,30 Lower Welden St,St Albans,VT,05478,,,802-393-9415,No,2023-06-28T00:00:00Z,No,,44.807168,-73.087637
 ,,Enosburgh Ambulance Service,83 Sampsonville Rd,Enosburg Falls,VT,05450,,,802-933-2118 X3,No,2023-06-28T00:00:00Z,No,,44.914897,-72.795677
 ,,Highgate Volunteer Fire Station,2296 VT Route 78,Highgate Center,VT,05459,,,802-868-7722,No,2023-06-28T00:00:00Z,No,,44.938232,-73.046945
-Cary,Middlebrook,Williamsburg Fire and EMS,440 North Boundary Street,Williamsburg,VA,23185,,,757-220-6222,No,2021-08-20T00:00:00Z,No,James City,,
-Ian,Talbot,King George FD,8122 Kings Highway,King George,VA,22485,,,540-775-8900,No,2021-08-20T00:00:00Z,No,King George,,
 CPS Coordinator,,Winchester Fire and Rescue,21 South Kent St,Winchester,VA,22601,winfrd@winchesterva.gov,,540-662-2298,No,2021-03-25T00:00:00Z,No,,,
 CPS Coordinator,,Friendship Fire Company,627 South Pleasant Valley Rd,Winchester,VA,22601,winfrd@winchesterva.gov,,540-662-2298,No,2021-03-25T00:00:00Z,No,,,
 CPS Coordinator,,Rouss Fire Company,3 South Braddock St,Winchester,VA,22601,winfrd@winchesterva.gov,,540-662-2298,No,2021-03-25T00:00:00Z,No,,,
@@ -2895,15 +2892,17 @@ CPS Coordinator,,Shawnee Fire Company,2210 Valor Drive,Winchester,VA,22601,winfr
 CPS Coordinator,,South End Fire Company,17 West Monmouth St,Winchester,VA,22601,winfrd@winchesterva.gov,,540-662-2298,No,2021-03-25T00:00:00Z,No,,,
 McRae,Brittingham,Aunt McRae's LLC,1909 Huguenot Rd,Chesterfield,VA,23235,support@auntmcrae.com,,805-691-2778,No,2021-03-25T00:00:00Z,No,,,
 Keith,Boyd,Fort Eustis Fire and EMS,648 Washington Blvd,Fort Eustis,VA,23604,,,757-878-4281,No,2021-03-25T00:00:00Z,No,,,
-Claire,Szanyi,Saving Prince Williams Littles,Prince William Co,Prince William,VA,22192,savingprincewilliamslittles@gmail.com,,None,No,2021-06-09T00:00:00Z,No,,,
 Harold,Shreves,Prince George PD,6600 Courthouse Rd.,Prince George,VA,23875,,,804-733-2773,No,2020-05-20T00:00:00Z,No,Prince George,,
 Officer on Duty,,Richmond Fire Station #14,2934 Hawthorne Rd.,Richmond,VA,23222,,,804-646-0745,No,2021-08-20T00:00:00Z,No,"Henrico, Chesterfield",,
 Officer on Duty,,Richmond Fire Station #19,311 Maple Ave.,Richmond,VA,23226,,,804-646-1701,No,2021-08-20T00:00:00Z,No,"Henrico, Chesterfield",,
 Holly,Dalby,AAA of Tidewater,5366 VA Beach Blvd.,VA Beach,VA,23462,,,757-233-3889,No,2021-03-25T00:00:00Z,No,VA Beach,,
-Mike,Ramsey,Fort Lee Police,1900 Mahone Ave.,Fort Lee,VA,23801,,,804-734-6548,No,2021-03-25T00:00:00Z,No,Prince George,,
+Claire,Szanyi,Saving Prince Williams Littles,Prince William Co,Prince William,VA,22192,savingprincewilliamslittles@gmail.com,,None,No,2021-06-09T00:00:00Z,No,,,
 John,Ogburn,Sussex County Sheriff's Office,20212 Thornton Sq,Sussex,VA,23884,,,434-246-5000,No,2021-03-25T00:00:00Z,No,,,
+Mike,Ramsey,Fort Lee Police,1900 Mahone Ave.,Fort Lee,VA,23801,,,804-734-6548,No,2021-03-25T00:00:00Z,No,Prince George,,
 Michelle,Hallett,Northampton County Sheriff,5211 The Hornes,Eastville,VA,23347,,,757-678-0440,No,2020-05-20T00:00:00Z,No,Northampton/Eastern Shore of VA,,
 Jenni,Overbay,York County Dept. of Fire and Life Safety,301 Godwin Neck Rd.,Yorktown,VA,23690,,,757-890-3600,No,2021-08-20T00:00:00Z,No,York,,
+Cary,Middlebrook,Williamsburg Fire and EMS,440 North Boundary Street,Williamsburg,VA,23185,,,757-220-6222,No,2021-08-20T00:00:00Z,No,James City,,
+Ian,Talbot,King George FD,8122 Kings Highway,King George,VA,22485,,,540-775-8900,No,2021-08-20T00:00:00Z,No,King George,,
 ,,Bristol Faith in Action,1534 Euclid Ave,Bristol,VA,24201,,,276-254-5439,No,2015-09-30T00:00:00Z,No,,36.600707,-82.197126
 Rhonda,Halsey,Grayson County Sheriff's Office,304 Davis St,Independence,VA,24348,,,276.773.3241,No,2021-08-20T00:00:00Z,No,,36.623205,-81.148912
 Elizabeth,Strader,Danville Regional One EMS,135 Forestdale Dr,Danville,VA,24540,,,434.836.0994,No,2015-09-03T00:00:00Z,No,,36.623974,-79.38092
@@ -2973,10 +2972,10 @@ Berti,Connor,Arlington fire,12131 28th Pl NE,Lake Stevens,WA,98258,,,360-435-331
 Jenny,McCandless,Buckled Up Babies,1111 Child Passenger Safety,Snoqualmie,WA,98065,,,317-431-6133,No,2022-09-26T00:00:00Z,No,,,
 Jessica,McGregor,Child Passenger Safety Technician,XXXXXXXXXXXXXXX,Hooper,WA,99333,,,509-595-8070,No,2023-01-04T00:00:00Z,No,,,
 Matt,Treadway,Car Seat Technician,12835 Newcastle Way #200,Newcastle,WA,98056,matthew.treadway@kingcounty.gov,,206-552-5545,No,2022-02-22T00:00:00Z,No,,,
-Jamie,Willaims,Child Passenger Safety Technician,123 Car Seat Lane,Walla Walla,WA,99362,jamiesporleder@yahoo.com,,n/a,No,2022-12-30T00:00:00Z,No,,,
-Julie,Wilcox,Simply Safe LLC,1111 Child Passenger Safety,Peshastin,WA,98847,,,509-262-2630,No,2022-09-26T00:00:00Z,No,,,
 Fleur,Coe,Car Seat Technician,123 Car Seat Lane,n/a,WA,98122,fleur.cpst@gmail.com,,n/a,No,2026-05-12T00:00:00Z,No,,,
 Dara,Higham,Child Passenger Safety Technician,123 Car Seat Lane,Dayton,WA,99328,dara.higham@gmail.com,,509-460-3017,No,2026-05-12T00:00:00Z,No,,,
+Jamie,Willaims,Child Passenger Safety Technician,123 Car Seat Lane,Walla Walla,WA,99362,jamiesporleder@yahoo.com,,n/a,No,2022-12-30T00:00:00Z,No,,,
+Julie,Wilcox,Simply Safe LLC,1111 Child Passenger Safety,Peshastin,WA,98847,,,509-262-2630,No,2022-09-26T00:00:00Z,No,,,
 DeAnn,Sharp,Cowlitz County Fire District #5,382 NE Frontage Rd,Kalama,WA,98625,,,360-673-2222,No,2022-04-07T00:00:00Z,No,,,
 Janet,Fabian,EPIC,PO Box 1103,Ellensburg,WA,98926,,,509-872-5132,No,2022-04-07T00:00:00Z,No,,,
 Sue,Emery,The Car Seat Lady,1111 Child Passenger Safety,Seattle,WA,98124,,,206-619-2871,No,2022-09-26T00:00:00Z,No,"King, Pierce, Snohomish",,
@@ -3073,12 +3072,12 @@ Laurea,Ellis,Wood County DHHR,400 5th St,Parkersburg,WV,26102,,,304-420-2560,No,
 Sheila,Perry,MountainHeart Community Services,33 Mountain Heart Ln,Matheny,WV,24860,,,304-682-8271,No,2023-02-28T00:00:00Z,No,,,
 Connie,Kincaid,St Josephs Hospital Center for Women's Health,100 W. Main St,Buckannon,WV,26201,connie.kincaid@wvumedicine.org,,304-460-7943,No,2023-09-26T00:00:00Z,No,,,
 Amy,Haskins,Jackson Co Health Dept.,504 S. Church St,Ripley,WV,25271,amy.r.haskins@wv.gov,,304-372-2634,No,2022-11-23T00:00:00Z,No,,,
+Amy,Dowdy,Monroe County Early Headstart,Route 1 Box 97 B,Lindside,WV,24951,,,304-753-6000,No,2020-04-10T00:00:00Z,No,,,
 Dora,McDuffie,Preston County Family Support Center,105 W. High St,Preston,WV,26537,dkzuchowski1@gmail.com,,304-329-1968,No,2022-12-08T00:00:00Z,No,,,
 Kalie,Perdue,WVU Medical Center,1 Medical Center Dr,Morgantown,WV,26506,wvumchildrensinjuryprevention@wvumedicine.org,,304-554-8519,No,2022-12-07T00:00:00Z,No,,,
 Stephanie,Fitzwater,Allegheny Highlands Parents as Teachers Randolph Office,142 Robert E Lee Ave Ext,Elkins,WV,26241,tuckerfamilyresources@gmail.com,,304 478 3827,No,2022-12-08T00:00:00Z,No,,,
 Stephanie,Fitzwater,Allegheny Highlands Parents as Teachers Barbour Office,80 North Main St,Philippi,WV,26416,tuckerfamilyresources@gmail.com,,304 478 3827,No,2022-12-08T00:00:00Z,No,,,
 Stephanie,Fitzwater,Allegheny Highlands Parents as Teachers Tucker Office,100 Education Lane,Parsons,WV,26287,tuckerfamilyresources@gmail.com,,304 478 3827,No,2022-12-08T00:00:00Z,No,,,
-Amy,Dowdy,Monroe County Early Headstart,Route 1 Box 97 B,Lindside,WV,24951,,,304-753-6000,No,2020-04-10T00:00:00Z,No,,,
 Dora,McDuffie,Preston County Family Resource Network,105 W High Street,Kingwood,WV,26537,,,304-329-1965,No,2021-10-06T00:00:00Z,No,,,
 John,Hedrick,Putnam Co Sheriffs Office,236 Court House Dr,Putnam,WV,25213,jhedrick@putnamwv.org,,304-586-0256,No,2023-02-28T00:00:00Z,No,,,
 H,Blake,Nitro Police Department,497 1st Street South,Nitro,WV,25143,,,(304) 729-8071,No,2020-11-24T00:00:00Z,No,,,
