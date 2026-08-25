@@ -204,8 +204,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7057,2013,CHEVROLET,TAHOE,2013 Chevrolet Tahoe SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,232,4,1,2013/CHEVROLET/TAHOE/2013 Chevrolet Tahoe SUV RWD.png
 7058,2013,CHEVROLET,TAHOE HYBRID,2013 Chevrolet Tahoe Hybrid SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.246,0,No Tip,5,Standard,No,No,0,0,1,2013/CHEVROLET/TAHOE HYBRID/2013 Chevrolet Tahoe Hybrid SUV RWD.png
 7059,2013,CHEVROLET,TAHOE HYBRID,2013 Chevrolet Tahoe Hybrid SUV 4WD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.228,0,No Tip,5,Standard,No,No,0,0,1,2013/CHEVROLET/TAHOE HYBRID/2013 Chevrolet Tahoe Hybrid SUV 4WD.png
-7501,2013,CHEVROLET,TRAVERSE,2013 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,161,4,2,2013/CHEVROLET/TRAVERSE/2013 Chevrolet Traverse SUV FWD.png
-7716,2013,CHEVROLET,TRAVERSE,2013 Chevrolet Traverse SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,161,4,2,2013/CHEVROLET/TRAVERSE/2013 Chevrolet Traverse SUV AWD.png
+7501,2013,CHEVROLET,TRAVERSE,2013 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,162,4,2,2013/CHEVROLET/TRAVERSE/2013 Chevrolet Traverse SUV FWD.png
+7716,2013,CHEVROLET,TRAVERSE,2013 Chevrolet Traverse SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,162,4,2,2013/CHEVROLET/TRAVERSE/2013 Chevrolet Traverse SUV AWD.png
 7052,2013,CHEVROLET,VOLT,2013 Chevrolet Volt 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,Optional,Optional,308,3,2,2013/CHEVROLET/VOLT/2013 Chevrolet Volt 4 DR FWD.png
 7215,2013,CHRYSLER,200,2013 Chrysler 200 4 DR FWD,,4,4,4,3,3,5,4,2,4,5,4,Not Rated,0.111,0,No Tip,1,Standard,No,No,627,5,1,2013/CHRYSLER/200/2013 Chrysler 200 4 DR FWD.png
 7737,2013,CHRYSLER,200,2013 Chrysler 200 C FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,627,5,1,2013/CHRYSLER/200/2013 Chrysler 200 C FWD.png
@@ -276,8 +276,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7478,2013,FORD,FUSION HYBRID,2013 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1861,19,6,2013/FORD/FUSION HYBRID/2013 Ford Fusion Hybrid 4 DR FWD.png
 7020,2013,FORD,MUSTANG,2013 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,271,6,0,2013/FORD/MUSTANG/2013 Ford Mustang C RWD.png
 7021,2013,FORD,MUSTANG,2013 Ford Mustang 2 DR RWD,,4,4,4,5,4,5,3,5,3,4,5,Not Rated,0.087,0,No Tip,4,Standard,No,No,271,6,0,2013/FORD/MUSTANG/2013 Ford Mustang 2 DR RWD.png
-7022,2013,FORD,TAURUS,2013 Ford Taurus 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,588,9,0,2013/FORD/TAURUS/2013 Ford Taurus 4 DR FWD.png
-7023,2013,FORD,TAURUS,2013 Ford Taurus 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,588,9,0,2013/FORD/TAURUS/2013 Ford Taurus 4 DR AWD.png
+7022,2013,FORD,TAURUS,2013 Ford Taurus 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,589,9,0,2013/FORD/TAURUS/2013 Ford Taurus 4 DR FWD.png
+7023,2013,FORD,TAURUS,2013 Ford Taurus 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,589,9,0,2013/FORD/TAURUS/2013 Ford Taurus 4 DR AWD.png
 7347,2013,FORD,TRANSIT CONNECT,2013 Ford Transit Connect VAN FWD,,2,3,3,3,2,2,5,1,5,3,3,Not Rated,0.256,0,No Tip,1,Standard,No,No,32,4,0,2013/FORD/TRANSIT CONNECT/2013 Ford Transit Connect VAN FWD.png
 7241,2013,FREIGHTLINER,SPRINTER 2500,2013 Freightliner Sprinter 2500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,1,Not Rated,0.843,0,No Tip,Not Rated,Standard,No,No,2,4,0,2013/FREIGHTLINER/SPRINTER 2500/2013 Freightliner Sprinter 2500 VAN RWD.png
 7761,2013,FREIGHTLINER,SPRINTER 2500,2013 Freightliner Sprinter 2500 CARGO VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,2,4,0,2013/FREIGHTLINER/SPRINTER 2500/2013 Freightliner Sprinter 2500 CARGO VAN RWD.png
@@ -566,8 +566,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7566,2013,NISSAN,PATHFINDER,2013 Nissan Pathfinder SUV FWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,890,11,4,2013/NISSAN/PATHFINDER/2013 Nissan Pathfinder SUV FWD.png
 7698,2013,NISSAN,PATHFINDER,2013 Nissan Pathfinder SUV AWD,,4,4,5,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,890,11,4,2013/NISSAN/PATHFINDER/2013 Nissan Pathfinder SUV AWD.png
 7567,2013,NISSAN,QUEST,2013 Nissan Quest VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,18,0,0,2013/NISSAN/QUEST/2013 Nissan Quest VAN FWD.png
-7289,2013,NISSAN,ROGUE,2013 Nissan Rogue SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,607,1,1,2013/NISSAN/ROGUE/2013 Nissan Rogue SUV FWD.png
-7290,2013,NISSAN,ROGUE,2013 Nissan Rogue SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,No,607,1,1,2013/NISSAN/ROGUE/2013 Nissan Rogue SUV AWD.png
+7289,2013,NISSAN,ROGUE,2013 Nissan Rogue SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,608,1,1,2013/NISSAN/ROGUE/2013 Nissan Rogue SUV FWD.png
+7290,2013,NISSAN,ROGUE,2013 Nissan Rogue SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,No,608,1,1,2013/NISSAN/ROGUE/2013 Nissan Rogue SUV AWD.png
 7568,2013,NISSAN,SENTRA,2013 Nissan Sentra 4 DR FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.121,0,No Tip,5,Standard,No,No,638,6,3,2013/NISSAN/SENTRA/2013 Nissan Sentra 4 DR FWD.png
 7273,2013,NISSAN,TITAN,2013 Nissan Titan King Cab PU/EC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.212,0,No Tip,Not Rated,Standard,No,No,11,3,0,2013/NISSAN/TITAN/2013 Nissan Titan King Cab PU_EC 4WD.png
 7274,2013,NISSAN,TITAN,2013 Nissan Titan King Cab PU/EC RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.191,0,No Tip,Not Rated,Standard,No,No,11,3,0,2013/NISSAN/TITAN/2013 Nissan Titan King Cab PU_EC RWD.png

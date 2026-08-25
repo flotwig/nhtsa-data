@@ -254,14 +254,14 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9261,2015,FORD,CMAX HEV,2015 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,45,5,1,2015/FORD/CMAX HEV/2015 Ford CMAX Hybrid 5 HB FWD.png
 9536,2015,FORD,EDGE,2015 Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,720,7,2,2015/FORD/EDGE/2015 Ford Edge SUV AWD.png
 9537,2015,FORD,EDGE,2015 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,720,7,2,2015/FORD/EDGE/2015 Ford Edge SUV FWD.png
-9270,2015,FORD,ESCAPE,2015 Ford Escape SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,1061,9,2,2015/FORD/ESCAPE/2015 Ford Escape SUV AWD.png
-9271,2015,FORD,ESCAPE,2015 Ford Escape SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,1061,9,2,2015/FORD/ESCAPE/2015 Ford Escape SUV FWD.png
+9270,2015,FORD,ESCAPE,2015 Ford Escape SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,1063,9,2,2015/FORD/ESCAPE/2015 Ford Escape SUV AWD.png
+9271,2015,FORD,ESCAPE,2015 Ford Escape SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,1063,9,2,2015/FORD/ESCAPE/2015 Ford Escape SUV FWD.png
 9272,2015,FORD,EXPEDITION,2015 Ford Expedition SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,164,3,0,2015/FORD/EXPEDITION/2015 Ford Expedition SUV 4x4.png
 9273,2015,FORD,EXPEDITION,2015 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,164,3,0,2015/FORD/EXPEDITION/2015 Ford Expedition SUV 4x2.png
 9274,2015,FORD,EXPEDITION EL,2015 Ford Expedition EL EXTENDED SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,143,1,0,2015/FORD/EXPEDITION EL/2015 Ford Expedition EL EXTENDED SUV 4x2.png
 9275,2015,FORD,EXPEDITION EL,2015 Ford Expedition EL EXTENDED SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,143,1,0,2015/FORD/EXPEDITION EL/2015 Ford Expedition EL EXTENDED SUV 4x4.png
-9313,2015,FORD,EXPLORER,2015 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1769,9,5,2015/FORD/EXPLORER/2015 Ford Explorer 4 DR SUV FWD.png
-9314,2015,FORD,EXPLORER,2015 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1769,9,5,2015/FORD/EXPLORER/2015 Ford Explorer 4 DR SUV AWD.png
+9313,2015,FORD,EXPLORER,2015 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1770,9,5,2015/FORD/EXPLORER/2015 Ford Explorer 4 DR SUV FWD.png
+9314,2015,FORD,EXPLORER,2015 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1770,9,5,2015/FORD/EXPLORER/2015 Ford Explorer 4 DR SUV AWD.png
 9538,2015,FORD,F-150 REGULAR CAB,2015 Ford F-150 Regular Cab PU/RC 4x2,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1425,13,5,2015/FORD/F-150 REGULAR CAB/2015 Ford F-150 Regular Cab PU_RC 4x2.png
 9539,2015,FORD,F-150 REGULAR CAB,2015 Ford F-150 Regular Cab PU/RC 4x4,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1425,13,5,2015/FORD/F-150 REGULAR CAB/2015 Ford F-150 Regular Cab PU_RC 4x4.png
 9540,2015,FORD,F-150 SUPER CREW,2015 Ford F-150 Super Crew PU/CC 4x2,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1425,13,5,2015/FORD/F-150 SUPER CREW/2015 Ford F-150 Super Crew PU_CC 4x2.png
@@ -287,14 +287,14 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9550,2015,FORD,FOCUS,2015 Ford Focus 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,1027,11,6,2015/FORD/FOCUS/2015 Ford Focus 4 DR FWD.png
 9551,2015,FORD,FOCUS,2015 Ford Focus 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,1027,11,6,2015/FORD/FOCUS/2015 Ford Focus 5 HB FWD.png
 9552,2015,FORD,FOCUS BEV,2015 Ford Focus Bev 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.101,0,No Tip,Not Rated,Standard,No,Optional,979,8,6,2015/FORD/FOCUS BEV/2015 Ford Focus Bev 5 HB FWD.png
-9262,2015,FORD,FUSION,2015 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1054,14,5,2015/FORD/FUSION/2015 Ford Fusion 4 DR AWD.png
-9263,2015,FORD,FUSION,2015 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1054,14,5,2015/FORD/FUSION/2015 Ford Fusion 4 DR FWD.png
+9262,2015,FORD,FUSION,2015 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1058,14,5,2015/FORD/FUSION/2015 Ford Fusion 4 DR AWD.png
+9263,2015,FORD,FUSION,2015 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1058,14,5,2015/FORD/FUSION/2015 Ford Fusion 4 DR FWD.png
 9265,2015,FORD,FUSION ENERGI,2015 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,995,13,5,2015/FORD/FUSION ENERGI/2015 Ford Fusion Energi 4 DR FWD.png
 9264,2015,FORD,FUSION HEV,2015 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,995,13,5,2015/FORD/FUSION HEV/2015 Ford Fusion Hybrid 4 DR FWD.png
 9555,2015,FORD,MUSTANG,2015 Ford Mustang 2 DR RWD,,5,5,5,5,5,5,4,5,4,5,5,Not Rated,0.081,0,No Tip,5,Standard,Optional,No,436,11,3,2015/FORD/MUSTANG/2015 Ford Mustang 2 DR RWD.png
 9556,2015,FORD,MUSTANG,2015 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.081,0,No Tip,Not Rated,Standard,Optional,No,436,11,3,2015/FORD/MUSTANG/2015 Ford Mustang C RWD.png
-9266,2015,FORD,TAURUS,2015 Ford Taurus 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,268,6,0,2015/FORD/TAURUS/2015 Ford Taurus 4 DR FWD.png
-9267,2015,FORD,TAURUS,2015 Ford Taurus 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,268,6,0,2015/FORD/TAURUS/2015 Ford Taurus 4 DR AWD.png
+9266,2015,FORD,TAURUS,2015 Ford Taurus 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,269,6,0,2015/FORD/TAURUS/2015 Ford Taurus 4 DR FWD.png
+9267,2015,FORD,TAURUS,2015 Ford Taurus 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,269,6,0,2015/FORD/TAURUS/2015 Ford Taurus 4 DR AWD.png
 9558,2015,FORD,TRANSIT,2015 Ford Transit VAN RWD,,Not Rated,4,4,3,5,5,Not Rated,5,Not Rated,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,191,26,1,2015/FORD/TRANSIT/2015 Ford Transit VAN RWD.png
 9276,2015,FORD,TRANSIT CONNECT,2015 Ford Transit Connect Wagon FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,Optional,66,10,2,2015/FORD/TRANSIT CONNECT/2015 Ford Transit Connect Wagon FWD.png
 9277,2015,FORD,TRANSIT CONNECT,2015 Ford Transit Connect VAN FWD,,Not Rated,4,4,4,5,5,Not Rated,5,Not Rated,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,66,10,2,2015/FORD/TRANSIT CONNECT/2015 Ford Transit Connect VAN FWD.png
@@ -326,12 +326,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9237,2015,GMC,SAVANA PASSENGER 2500,2015 GMC Savana Passenger 2500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.292,0,No Tip,Not Rated,Standard,No,No,3,4,0,2015/GMC/SAVANA PASSENGER 2500/2015 GMC Savana Passenger 2500 VAN RWD.png
 9238,2015,GMC,SAVANA PASSENGER 3500 12 PASS,2015 GMC Savana Passenger 3500 12 PASS VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.292,0,No Tip,Not Rated,Standard,No,No,3,4,0,2015/GMC/SAVANA PASSENGER 3500 12 PASS/2015 GMC Savana Passenger 3500 12 PASS VAN RWD.png
 9239,2015,GMC,SAVANA PASSENGER 3500 15 PASS,2015 GMC Savana Passenger 3500 15 PASS VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,3,4,0,2015/GMC/SAVANA PASSENGER 3500 15 PASS/2015 GMC Savana Passenger 3500 15 PASS VAN RWD.png
-9240,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/CC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,811,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_CC RWD.png
-9241,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/CC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,811,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_CC 4WD.png
-9578,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/EC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,789,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_EC 4WD.png
-9579,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/RC 4WD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,811,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_RC 4WD.png
-9580,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/RC RWD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,811,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_RC RWD.png
-9581,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/EC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,811,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_EC RWD.png
+9240,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/CC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,812,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_CC RWD.png
+9241,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/CC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,812,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_CC 4WD.png
+9578,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/EC 4WD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,790,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_EC 4WD.png
+9579,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/RC 4WD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.174,0,No Tip,4,Standard,Optional,Optional,812,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_RC 4WD.png
+9580,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/RC RWD,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,812,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_RC RWD.png
+9581,2015,GMC,SIERRA 1500,2015 GMC Sierra 1500 PU/EC RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,812,20,2,2015/GMC/SIERRA 1500/2015 GMC Sierra 1500 PU_EC RWD.png
 9026,2015,GMC,SIERRA 2500,2015 GMC Sierra 2500 PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.205,0,No Tip,5,Standard,No,No,147,17,1,2015/GMC/SIERRA 2500/2015 GMC Sierra 2500 PU_CC 4WD.png
 9027,2015,GMC,SIERRA 2500,2015 GMC Sierra 2500 PU/CC RWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.207,0,No Tip,5,Standard,No,No,147,17,1,2015/GMC/SIERRA 2500/2015 GMC Sierra 2500 PU_CC RWD.png
 9091,2015,GMC,SIERRA 2500,2015 GMC Sierra 2500 PU/RC RWD,,3,2,2,2,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.207,0,No Tip,5,Standard,No,No,147,17,1,2015/GMC/SIERRA 2500/2015 GMC Sierra 2500 PU_RC RWD.png
@@ -425,8 +425,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9616,2015,JAGUAR,XJ (SWB),2015 Jaguar XJ (SWB) 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,7,3,0,2015/JAGUAR/XJ (SWB)/2015 Jaguar XJ (SWB) 4 DR RWD.png
 9617,2015,JAGUAR,XK,2015 Jaguar XK C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,2,2,0,2015/JAGUAR/XK/2015 Jaguar XK C RWD.png
 9618,2015,JAGUAR,XK,2015 Jaguar XK 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,2,2,0,2015/JAGUAR/XK/2015 Jaguar XK 2 DR RWD.png
-9206,2015,JEEP,CHEROKEE,2015 Jeep Cherokee SUV 4WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1782,11,4,2015/JEEP/CHEROKEE/2015 Jeep Cherokee SUV 4WD.png
-9207,2015,JEEP,CHEROKEE,2015 Jeep Cherokee SUV 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1782,11,4,2015/JEEP/CHEROKEE/2015 Jeep Cherokee SUV 2WD.png
+9206,2015,JEEP,CHEROKEE,2015 Jeep Cherokee SUV 4WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1783,11,4,2015/JEEP/CHEROKEE/2015 Jeep Cherokee SUV 4WD.png
+9207,2015,JEEP,CHEROKEE,2015 Jeep Cherokee SUV 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1783,11,4,2015/JEEP/CHEROKEE/2015 Jeep Cherokee SUV 2WD.png
 9200,2015,JEEP,COMPASS,2015 Jeep Compass SUV 2WD,,Not Rated,3,3,3,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,113,1,4,2015/JEEP/COMPASS/2015 Jeep Compass SUV 2WD.png
 9201,2015,JEEP,COMPASS,2015 Jeep Compass SUV 4WD,,Not Rated,3,3,3,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,No,No,113,1,4,2015/JEEP/COMPASS/2015 Jeep Compass SUV 4WD.png
 9208,2015,JEEP,GRAND CHEROKEE,2015 Jeep Grand Cherokee SUV 2WD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.204,0,No Tip,5,Standard,Optional,No,1353,10,8,2015/JEEP/GRAND CHEROKEE/2015 Jeep Grand Cherokee SUV 2WD.png
@@ -613,8 +613,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9350,2015,NISSAN,PATHFINDER,2015 Nissan Pathfinder SUV FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,320,6,1,2015/NISSAN/PATHFINDER/2015 Nissan Pathfinder SUV FWD.png
 9351,2015,NISSAN,PATHFINDER,2015 Nissan Pathfinder SUV AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,No,320,6,1,2015/NISSAN/PATHFINDER/2015 Nissan Pathfinder SUV AWD.png
 9352,2015,NISSAN,QUEST,2015 Nissan Quest VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,12,0,0,2015/NISSAN/QUEST/2015 Nissan Quest VAN FWD.png
-9330,2015,NISSAN,ROGUE,2015 Nissan Rogue SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,Optional,Optional,549,9,1,2015/NISSAN/ROGUE/2015 Nissan Rogue SUV AWD.png
-9331,2015,NISSAN,ROGUE,2015 Nissan Rogue SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,4,Standard,Optional,Optional,549,9,1,2015/NISSAN/ROGUE/2015 Nissan Rogue SUV FWD.png
+9330,2015,NISSAN,ROGUE,2015 Nissan Rogue SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,Optional,Optional,550,9,1,2015/NISSAN/ROGUE/2015 Nissan Rogue SUV AWD.png
+9331,2015,NISSAN,ROGUE,2015 Nissan Rogue SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,4,Standard,Optional,Optional,550,9,1,2015/NISSAN/ROGUE/2015 Nissan Rogue SUV FWD.png
 9813,2015,NISSAN,ROGUE SELECT,2015 Nissan Rogue Select SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,No,519,9,0,2015/NISSAN/ROGUE SELECT/2015 Nissan Rogue Select SUV AWD.png
 9814,2015,NISSAN,ROGUE SELECT,2015 Nissan Rogue Select SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,519,9,0,2015/NISSAN/ROGUE SELECT/2015 Nissan Rogue Select SUV FWD.png
 9816,2015,NISSAN,SENTRA,2015 Nissan Sentra 4 DR FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,No,No,351,3,0,2015/NISSAN/SENTRA/2015 Nissan Sentra 4 DR FWD.png
@@ -706,7 +706,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 9254,2015,SUBARU,IMPREZA,2015 Subaru Impreza 4 DR AWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,4,Standard,Optional,Optional,79,2,0,2015/SUBARU/IMPREZA/2015 Subaru Impreza 4 DR AWD.png
 9255,2015,SUBARU,IMPREZA,2015 Subaru Impreza SW AWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,4,Standard,Optional,Optional,79,2,0,2015/SUBARU/IMPREZA/2015 Subaru Impreza SW AWD.png
 9783,2015,SUBARU,LEGACY,2015 Subaru Legacy 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,159,3,1,2015/SUBARU/LEGACY/2015 Subaru Legacy 4 DR AWD.png
-9784,2015,SUBARU,OUTBACK,2015 Subaru Outback SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.175,0, ,5,Standard,Optional,Optional,507,5,1,2015/SUBARU/OUTBACK/2015 Subaru Outback SUV AWD.png
+9784,2015,SUBARU,OUTBACK,2015 Subaru Outback SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.175,0, ,5,Standard,Optional,Optional,508,5,1,2015/SUBARU/OUTBACK/2015 Subaru Outback SUV AWD.png
 9785,2015,SUBARU,WRX,2015 Subaru WRX 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,52,3,0,2015/SUBARU/WRX/2015 Subaru WRX 4 DR AWD.png
 9256,2015,SUBARU,XV CROSSTREK,2015 Subaru XV Crosstrek SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,Optional,Optional,98,2,0,2015/SUBARU/XV CROSSTREK/2015 Subaru XV Crosstrek SUV AWD.png
 9257,2015,SUBARU,XV CROSSTREK HYBRID,2015 Subaru XV Crosstrek Hybrid SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,No,No,94,2,0,2015/SUBARU/XV CROSSTREK HYBRID/2015 Subaru XV Crosstrek Hybrid SUV AWD.png
