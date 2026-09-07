@@ -149,8 +149,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8324,2014,CADILLAC,SRX,2014 Cadillac SRX SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,4,Standard,Optional,Optional,389,2,1,2014/CADILLAC/SRX/2014 Cadillac SRX SUV FWD.png
 8044,2014,CADILLAC,XTS,2014 Cadillac XTS 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Optional,Optional,49,4,0,2014/CADILLAC/XTS/2014 Cadillac XTS 4 DR AWD.png
 8045,2014,CADILLAC,XTS,2014 Cadillac XTS 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Optional,Optional,49,4,0,2014/CADILLAC/XTS/2014 Cadillac XTS 4 DR FWD.png
-8297,2014,CHEVROLET,CAMARO,2014 Chevrolet Camaro 2 DR RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.087,0,No Tip,5,Standard,No,No,187,4,0,2014/CHEVROLET/CAMARO/2014 Chevrolet Camaro 2 DR RWD.png
-8298,2014,CHEVROLET,CAMARO,2014 Chevrolet Camaro C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,187,4,0,2014/CHEVROLET/CAMARO/2014 Chevrolet Camaro C RWD.png
+8297,2014,CHEVROLET,CAMARO,2014 Chevrolet Camaro 2 DR RWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.087,0,No Tip,5,Standard,No,No,188,4,0,2014/CHEVROLET/CAMARO/2014 Chevrolet Camaro 2 DR RWD.png
+8298,2014,CHEVROLET,CAMARO,2014 Chevrolet Camaro C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,188,4,0,2014/CHEVROLET/CAMARO/2014 Chevrolet Camaro C RWD.png
 8424,2014,CHEVROLET,CAPRICE PPV,2014 Chevrolet Caprice PPV 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,17,10,1,2014/CHEVROLET/CAPRICE PPV/2014 Chevrolet Caprice PPV 4 DR RWD.png
 8019,2014,CHEVROLET,CAPTIVA,2014 Chevrolet Captiva SUV AWD,,3,3,3,3,3,5,2,5,2,3,4,Not Rated,0.159,0,No Tip,5,Standard,No,No,144,0,0,2014/CHEVROLET/CAPTIVA/2014 Chevrolet Captiva SUV AWD.png
 8020,2014,CHEVROLET,CAPTIVA,2014 Chevrolet Captiva SUV FWD,,3,3,3,3,3,5,2,5,2,3,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,144,0,0,2014/CHEVROLET/CAPTIVA/2014 Chevrolet Captiva SUV FWD.png
@@ -228,10 +228,10 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8245,2014,FORD,EDGE,2014 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,381,3,1,2014/FORD/EDGE/2014 Ford Edge SUV FWD.png
 8246,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2078,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x4.png
 8247,2014,FORD,ESCAPE,2014 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2078,16,2,2014/FORD/ESCAPE/2014 Ford Escape SUV 4x2.png
-8253,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,71,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x4.png
-8254,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,71,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x2.png
-8255,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,71,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x2.png
-8256,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,71,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x4.png
+8253,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,72,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x4.png
+8254,2014,FORD,EXPEDITION,2014 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,72,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition SUV 4x2.png
+8255,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,72,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x2.png
+8256,2014,FORD,EXPEDITION,2014 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,72,0,0,2014/FORD/EXPEDITION/2014 Ford Expedition EXTENDED SUV 4x4.png
 8248,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,1674,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV FWD.png
 8249,2014,FORD,EXPLORER,2014 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,1674,7,4,2014/FORD/EXPLORER/2014 Ford Explorer 4 DR SUV AWD.png
 8257,2014,FORD,F-150 REGULAR CAB,2014 Ford F-150 Regular Cab PU/RC 4x2,,4,4,4,3,5,5,Not Rated,5,0,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1362,7,2,2014/FORD/F-150 REGULAR CAB/2014 Ford F-150 Regular Cab PU_RC 4x2.png
@@ -648,8 +648,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 8594,2014,TOYOTA,SCION XD,2014 Toyota Scion XD 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,6,0,0,2014/TOYOTA/SCION XD/2014 Toyota Scion XD 5 HB FWD.png
 8147,2014,TOYOTA,SEQUOIA,2014 Toyota Sequoia SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,17,3,1,2014/TOYOTA/SEQUOIA/2014 Toyota Sequoia SUV 4WD.png
 8148,2014,TOYOTA,SEQUOIA,2014 Toyota Sequoia SUV 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,17,3,1,2014/TOYOTA/SEQUOIA/2014 Toyota Sequoia SUV 2WD.png
-8145,2014,TOYOTA,SIENNA,2014 Toyota Sienna VAN FWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,No,No,162,6,1,2014/TOYOTA/SIENNA/2014 Toyota Sienna VAN FWD.png
-8146,2014,TOYOTA,SIENNA,2014 Toyota Sienna VAN AWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,No,No,162,6,1,2014/TOYOTA/SIENNA/2014 Toyota Sienna VAN AWD.png
+8145,2014,TOYOTA,SIENNA,2014 Toyota Sienna VAN FWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,No,No,163,6,1,2014/TOYOTA/SIENNA/2014 Toyota Sienna VAN FWD.png
+8146,2014,TOYOTA,SIENNA,2014 Toyota Sienna VAN AWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,No,No,163,6,1,2014/TOYOTA/SIENNA/2014 Toyota Sienna VAN AWD.png
 8153,2014,TOYOTA,TACOMA,2014 Toyota Tacoma PU/CC 4WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,4,Standard,No,No,93,4,1,2014/TOYOTA/TACOMA/2014 Toyota Tacoma PU_CC 4WD.png
 8154,2014,TOYOTA,TACOMA,2014 Toyota Tacoma PU/CC 2WD,,4,3,4,3,5,4,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,93,4,1,2014/TOYOTA/TACOMA/2014 Toyota Tacoma PU_CC 2WD.png
 8155,2014,TOYOTA,TACOMA,2014 Toyota Tacoma PU/EC 2WD,,4,4,4,4,5,5,5,4,5,5,4,Not Rated,0.147,0,No Tip,4,Standard,No,No,93,4,1,2014/TOYOTA/TACOMA/2014 Toyota Tacoma PU_EC 2WD.png
