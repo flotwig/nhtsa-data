@@ -159,8 +159,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7508,2013,CHEVROLET,CORVETTE Z06,2013 Chevrolet Corvette Z06 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,79,0,0,2013/CHEVROLET/CORVETTE Z06/2013 Chevrolet Corvette Z06 2 DR RWD.png
 7509,2013,CHEVROLET,CORVETTE ZR1,2013 Chevrolet Corvette ZR1 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,79,0,0,2013/CHEVROLET/CORVETTE ZR1/2013 Chevrolet Corvette ZR1 2 DR RWD.png
 7358,2013,CHEVROLET,CRUZE,2013 Chevrolet Cruze 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,586,5,0,2013/CHEVROLET/CRUZE/2013 Chevrolet Cruze 4 DR FWD.png
-7359,2013,CHEVROLET,EQUINOX,2013 Chevrolet Equinox SUV FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,750,2,0,2013/CHEVROLET/EQUINOX/2013 Chevrolet Equinox SUV FWD.png
-7360,2013,CHEVROLET,EQUINOX,2013 Chevrolet Equinox SUV AWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,750,2,0,2013/CHEVROLET/EQUINOX/2013 Chevrolet Equinox SUV AWD.png
+7359,2013,CHEVROLET,EQUINOX,2013 Chevrolet Equinox SUV FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,751,2,0,2013/CHEVROLET/EQUINOX/2013 Chevrolet Equinox SUV FWD.png
+7360,2013,CHEVROLET,EQUINOX,2013 Chevrolet Equinox SUV AWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,751,2,0,2013/CHEVROLET/EQUINOX/2013 Chevrolet Equinox SUV AWD.png
 7361,2013,CHEVROLET,EXPRESS PASSENGER 1500,2013 Chevrolet Express Passenger 1500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.279,0,No Tip,Not Rated,Standard,No,No,22,8,0,2013/CHEVROLET/EXPRESS PASSENGER 1500/2013 Chevrolet Express Passenger 1500 VAN RWD.png
 7362,2013,CHEVROLET,EXPRESS PASSENGER 1500,2013 Chevrolet Express Passenger 1500 VAN AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.228,0,No Tip,Not Rated,Standard,No,No,22,8,0,2013/CHEVROLET/EXPRESS PASSENGER 1500/2013 Chevrolet Express Passenger 1500 VAN AWD.png
 7363,2013,CHEVROLET,EXPRESS PASSENGER 2500,2013 Chevrolet Express Passenger 2500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.292,0,No Tip,Not Rated,Standard,No,No,22,8,0,2013/CHEVROLET/EXPRESS PASSENGER 2500/2013 Chevrolet Express Passenger 2500 VAN RWD.png
@@ -237,8 +237,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7326,2013,FORD,E-350 P15,2013 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,13,9,0,2013/FORD/E-350 P15/2013 Ford E-350 P15 VAN RWD.png
 7014,2013,FORD,EDGE,2013 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,2443,2,1,2013/FORD/EDGE/2013 Ford Edge SUV AWD.png
 7015,2013,FORD,EDGE,2013 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,2443,2,1,2013/FORD/EDGE/2013 Ford Edge SUV FWD.png
-7378,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2750,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x2.png
-7379,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2750,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x4.png
+7378,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x2,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,2752,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x2.png
+7379,2013,FORD,ESCAPE,2013 Ford Escape SUV 4x4,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,2752,18,4,2013/FORD/ESCAPE/2013 Ford Escape SUV 4x4.png
 7335,2013,FORD,EXPEDITION,2013 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,92,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition SUV 4x4.png
 7336,2013,FORD,EXPEDITION,2013 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,92,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition SUV 4x2.png
 7337,2013,FORD,EXPEDITION,2013 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,92,0,1,2013/FORD/EXPEDITION/2013 Ford Expedition EXTENDED SUV 4x2.png
@@ -270,8 +270,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7333,2013,FORD,FOCUS,2013 Ford Focus 5 HB FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2110,12,4,2013/FORD/FOCUS/2013 Ford Focus 5 HB FWD.png
 7334,2013,FORD,FOCUS,2013 Ford Focus 4 DR FWD,,5,4,5,4,5,4,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,2110,12,4,2013/FORD/FOCUS/2013 Ford Focus 4 DR FWD.png
 7475,2013,FORD,FOCUS BEV,2013 Ford Focus BEV 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,No,No,2157,13,5,2013/FORD/FOCUS BEV/2013 Ford Focus BEV 5 HB FWD.png
-7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1954,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
-7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1954,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
+7476,2013,FORD,FUSION,2013 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1955,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR FWD.png
+7668,2013,FORD,FUSION,2013 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1955,20,6,2013/FORD/FUSION/2013 Ford Fusion 4 DR AWD.png
 7477,2013,FORD,FUSION ENERGI,2013 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1774,18,6,2013/FORD/FUSION ENERGI/2013 Ford Fusion Energi 4 DR FWD.png
 7478,2013,FORD,FUSION HYBRID,2013 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1861,19,6,2013/FORD/FUSION HYBRID/2013 Ford Fusion Hybrid 4 DR FWD.png
 7020,2013,FORD,MUSTANG,2013 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,271,6,0,2013/FORD/MUSTANG/2013 Ford Mustang C RWD.png
@@ -355,8 +355,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7042,2013,HYUNDAI,ACCENT,2013 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,141,1,1,2013/HYUNDAI/ACCENT/2013 Hyundai Accent 4 DR FWD.png
 7532,2013,HYUNDAI,ACCENT 5,2013 Hyundai Accent 5 5 HB FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,135,1,0,2013/HYUNDAI/ACCENT 5/2013 Hyundai Accent 5 5 HB FWD.png
 7533,2013,HYUNDAI,AZERA,2013 Hyundai Azera 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,112,2,1,2013/HYUNDAI/AZERA/2013 Hyundai Azera 4 DR FWD.png
-7032,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 4 DR FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1328,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 4 DR FWD.png
-7742,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1338,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 2 DR FWD.png
+7032,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 4 DR FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1329,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 4 DR FWD.png
+7742,2013,HYUNDAI,ELANTRA,2013 Hyundai Elantra 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1339,4,4,2013/HYUNDAI/ELANTRA/2013 Hyundai Elantra 2 DR FWD.png
 7144,2013,HYUNDAI,ELANTRA GT,2013 Hyundai Elantra GT 5 HB FWD,,5,4,5,4,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,1293,4,2,2013/HYUNDAI/ELANTRA GT/2013 Hyundai Elantra GT 5 HB FWD.png
 7534,2013,HYUNDAI,EQUUS,2013 Hyundai Equus 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,Optional,10,1,0,2013/HYUNDAI/EQUUS/2013 Hyundai Equus 4 DR RWD.png
 7030,2013,HYUNDAI,GENESIS,2013 Hyundai Genesis 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.082,0,No Tip,Not Rated,Standard,No,No,195,4,0,2013/HYUNDAI/GENESIS/2013 Hyundai Genesis 2 DR RWD.png
@@ -365,7 +365,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7692,2013,HYUNDAI,SANTA FE,2013 Hyundai Santa Fe SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,605,3,8,2013/HYUNDAI/SANTA FE/2013 Hyundai Santa Fe SUV AWD.png
 7531,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,197,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV FWD.png
 7693,2013,HYUNDAI,SANTA FE SPORT,2013 Hyundai Santa Fe Sport SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,197,6,5,2013/HYUNDAI/SANTA FE SPORT/2013 Hyundai Santa Fe Sport SUV AWD.png
-7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1907,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
+7031,2013,HYUNDAI,SONATA,2013 Hyundai Sonata 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,1908,9,9,2013/HYUNDAI/SONATA/2013 Hyundai Sonata 4 DR FWD.png
 7140,2013,HYUNDAI,SONATA HYBRID,2013 Hyundai Sonata Hybrid 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,No,No,107,4,7,2013/HYUNDAI/SONATA HYBRID/2013 Hyundai Sonata Hybrid 4 DR FWD.png
 7142,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.18,0,No Tip,5,Standard,No,No,266,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV FWD.png
 7143,2013,HYUNDAI,TUCSON,2013 Hyundai Tucson SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.176,0,No Tip,5,Standard,No,No,266,3,2,2013/HYUNDAI/TUCSON/2013 Hyundai Tucson SUV AWD.png
@@ -415,7 +415,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 7543,2013,KIA,RIO,2013 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,153,1,2,2013/KIA/RIO/2013 Kia Rio 4 DR FWD.png
 7034,2013,KIA,SORENTO,2013 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,981,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV FWD.png
 7035,2013,KIA,SORENTO,2013 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,981,5,10,2013/KIA/SORENTO/2013 Kia Sorento SUV AWD.png
-7125,2013,KIA,SOUL,2013 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,660,3,4,2013/KIA/SOUL/2013 Kia Soul SUV FWD.png
+7125,2013,KIA,SOUL,2013 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,661,3,4,2013/KIA/SOUL/2013 Kia Soul SUV FWD.png
 7123,2013,KIA,SPORTAGE,2013 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,380,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV AWD.png
 7124,2013,KIA,SPORTAGE,2013 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,380,3,4,2013/KIA/SPORTAGE/2013 Kia Sportage SUV FWD.png
 7550,2013,LAND ROVER,LR2,2013 Land Rover LR2 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,12,1,0,2013/LAND ROVER/LR2/2013 Land Rover LR2 SUV 4WD.png
