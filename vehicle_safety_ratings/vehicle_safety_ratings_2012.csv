@@ -252,13 +252,13 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6650,2012,FORD,FLEX,2012 Ford Flex SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,No,No,64,2,0,2012/FORD/FLEX/2012 Ford Flex SUV AWD.png
 6416,2012,FORD,FOCUS,2012 Ford Focus 4 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3801,11,6,2012/FORD/FOCUS/2012 Ford Focus 4 DR FWD.png
 6417,2012,FORD,FOCUS,2012 Ford Focus 5 DR FWD,,4,4,5,4,5,4,5,4,5,4,4,Not Rated,0.117,0,No Tip,5,Standard,No,No,3801,11,6,2012/FORD/FOCUS/2012 Ford Focus 5 DR FWD.png
-6418,2012,FORD,FUSION,2012 Ford Fusion 4 DR FWD,,4,3,4,3,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2614,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR FWD.png
-6718,2012,FORD,FUSION,2012 Ford Fusion 4 DR AWD,,4,3,4,3,4,5,3,5,3,4,5,Not Rated,0.092,0,No Tip,4,Standard,No,No,2614,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR AWD.png
+6418,2012,FORD,FUSION,2012 Ford Fusion 4 DR FWD,,4,3,4,3,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2616,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR FWD.png
+6718,2012,FORD,FUSION,2012 Ford Fusion 4 DR AWD,,4,3,4,3,4,5,3,5,3,4,5,Not Rated,0.092,0,No Tip,4,Standard,No,No,2616,6,5,2012/FORD/FUSION/2012 Ford Fusion 4 DR AWD.png
 6419,2012,FORD,FUSION HYBRID,2012 Ford Fusion Hybrid 4 DR FWD,,4,3,3,4,4,5,3,5,3,4,4,Not Rated,0.105,0,No Tip,4,Standard,No,No,2558,6,5,2012/FORD/FUSION HYBRID/2012 Ford Fusion Hybrid 4 DR FWD.png
 6424,2012,FORD,MUSTANG,2012 Ford Mustang 2 DR RWD,,4,4,4,5,4,5,3,5,3,4,5,Not Rated,0.087,0,No Tip,4,Standard,No,No,469,7,1,2012/FORD/MUSTANG/2012 Ford Mustang 2 DR RWD.png
 6425,2012,FORD,MUSTANG,2012 Ford Mustang C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.087,0,No Tip,Not Rated,Standard,No,No,469,7,1,2012/FORD/MUSTANG/2012 Ford Mustang C RWD.png
-6428,2012,FORD,TAURUS,2012 Ford Taurus 4 DR FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,78,5,0,2012/FORD/TAURUS/2012 Ford Taurus 4 DR FWD.png
-6648,2012,FORD,TAURUS,2012 Ford Taurus 4 DR AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,78,5,0,2012/FORD/TAURUS/2012 Ford Taurus 4 DR AWD.png
+6428,2012,FORD,TAURUS,2012 Ford Taurus 4 DR FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,79,5,0,2012/FORD/TAURUS/2012 Ford Taurus 4 DR FWD.png
+6648,2012,FORD,TAURUS,2012 Ford Taurus 4 DR AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,No,No,79,5,0,2012/FORD/TAURUS/2012 Ford Taurus 4 DR AWD.png
 6423,2012,FORD,TRANSIT CONNECT,2012 Ford Transit Connect VAN FWD,,2,3,3,3,2,2,5,1,5,3,3,Not Rated,0.256,0,No Tip,1,Standard,No,No,26,1,0,2012/FORD/TRANSIT CONNECT/2012 Ford Transit Connect VAN FWD.png
 6385,2012,FREIGHTLINER,SPRINTER 2500,2012 Freightliner Sprinter 2500 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,1,Not Rated,0.843,0,No Tip,Not Rated,Standard,No,No,2,2,0,2012/FREIGHTLINER/SPRINTER 2500/2012 Freightliner Sprinter 2500 VAN RWD.png
 6387,2012,FREIGHTLINER,SPRINTER 2500,2012 Freightliner Sprinter 2500 CARGO VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,2,2,0,2012/FREIGHTLINER/SPRINTER 2500/2012 Freightliner Sprinter 2500 CARGO VAN RWD.png
@@ -388,8 +388,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6116,2012,JAGUAR,XK,2012 Jaguar XK C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,2,2,0,2012/JAGUAR/XK/2012 Jaguar XK C RWD.png
 6318,2012,JEEP,COMPASS,2012 Jeep Compass SUV 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.185,0,No Tip,Not Rated,Standard,No,No,184,4,2,2012/JEEP/COMPASS/2012 Jeep Compass SUV 2WD.png
 6588,2012,JEEP,COMPASS,2012 Jeep Compass SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,No,No,184,4,2,2012/JEEP/COMPASS/2012 Jeep Compass SUV 4WD.png
-6323,2012,JEEP,GRAND CHEROKEE,2012 Jeep Grand Cherokee SUV 2WD,,4,4,5,4,5,5,5,5,5,5,3,Not Rated,0.207,0,No Tip,5,Standard,Optional,No,1641,11,7,2012/JEEP/GRAND CHEROKEE/2012 Jeep Grand Cherokee SUV 2WD.png
-6591,2012,JEEP,GRAND CHEROKEE,2012 Jeep Grand Cherokee SUV 4WD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,Optional,No,1641,11,7,2012/JEEP/GRAND CHEROKEE/2012 Jeep Grand Cherokee SUV 4WD.png
+6323,2012,JEEP,GRAND CHEROKEE,2012 Jeep Grand Cherokee SUV 2WD,,4,4,5,4,5,5,5,5,5,5,3,Not Rated,0.207,0,No Tip,5,Standard,Optional,No,1642,11,7,2012/JEEP/GRAND CHEROKEE/2012 Jeep Grand Cherokee SUV 2WD.png
+6591,2012,JEEP,GRAND CHEROKEE,2012 Jeep Grand Cherokee SUV 4WD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,Optional,No,1642,11,7,2012/JEEP/GRAND CHEROKEE/2012 Jeep Grand Cherokee SUV 4WD.png
 6322,2012,JEEP,LIBERTY,2012 Jeep Liberty SUV 2WD,,3,2,3,2,4,5,5,3,5,5,3,Not Rated,0.256,0,No Tip,1,Standard,No,No,385,2,6,2012/JEEP/LIBERTY/2012 Jeep Liberty SUV 2WD.png
 6590,2012,JEEP,LIBERTY,2012 Jeep Liberty SUV 4WD,,3,2,3,2,4,5,5,3,5,5,3,Not Rated,0.228,0,No Tip,1,Standard,No,No,385,2,6,2012/JEEP/LIBERTY/2012 Jeep Liberty SUV 4WD.png
 6319,2012,JEEP,PATRIOT,2012 Jeep Patriot SUV 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,354,4,3,2012/JEEP/PATRIOT/2012 Jeep Patriot SUV 2WD.png

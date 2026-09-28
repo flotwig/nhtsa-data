@@ -101,10 +101,10 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11103,2017,BMW,X3,2017 BMW X3 SUV RWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,92,6,2,2017/BMW/X3/2017 BMW X3 SUV RWD.png
 11104,2017,BMW,X3,2017 BMW X3 SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,92,6,2,2017/BMW/X3/2017 BMW X3 SUV AWD.png
 11435,2017,BMW,X4,2017 BMW X4 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,3,2,1,2017/BMW/X4/2017 BMW X4 SUV AWD.png
-11105,2017,BMW,X5,2017 BMW X5 SUV RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.188,0,No Tip,5,Standard,No,No,73,6,3,2017/BMW/X5/2017 BMW X5 SUV RWD.png
-11106,2017,BMW,X5,2017 BMW X5 SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.188,0,No Tip,5,Standard,No,No,73,6,3,2017/BMW/X5/2017 BMW X5 SUV AWD.png
-11470,2017,BMW,X5 M,2017 BMW X5 M SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,73,6,3,2017/BMW/X5 M/2017 BMW X5 M SUV AWD.png
-11468,2017,BMW,X5 PHEV,2017 BMW X5 PHEV SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,73,6,3,2017/BMW/X5 PHEV/2017 BMW X5 PHEV SUV AWD.png
+11105,2017,BMW,X5,2017 BMW X5 SUV RWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.188,0,No Tip,5,Standard,No,No,74,6,3,2017/BMW/X5/2017 BMW X5 SUV RWD.png
+11106,2017,BMW,X5,2017 BMW X5 SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.188,0,No Tip,5,Standard,No,No,74,6,3,2017/BMW/X5/2017 BMW X5 SUV AWD.png
+11470,2017,BMW,X5 M,2017 BMW X5 M SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,74,6,3,2017/BMW/X5 M/2017 BMW X5 M SUV AWD.png
+11468,2017,BMW,X5 PHEV,2017 BMW X5 PHEV SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,74,6,3,2017/BMW/X5 PHEV/2017 BMW X5 PHEV SUV AWD.png
 11471,2017,BMW,X6,2017 BMW X6 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,3,2,1,2017/BMW/X6/2017 BMW X6 SUV AWD.png
 11472,2017,BMW,X6,2017 BMW X6 SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,3,2,1,2017/BMW/X6/2017 BMW X6 SUV FWD.png
 11473,2017,BMW,X6 M,2017 BMW X6 M SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,1,1,2017/BMW/X6 M/2017 BMW X6 M SUV FWD.png
@@ -135,8 +135,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11283,2017,CADILLAC,ESCALADE,2017 Cadillac Escalade SUV AWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.219,0,No Tip,5,Standard,Optional,Optional,89,2,0,2017/CADILLAC/ESCALADE/2017 Cadillac Escalade SUV AWD.png
 11284,2017,CADILLAC,ESCALADE ESV,2017 Cadillac Escalade ESV SUV RWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.204,0,No Tip,4,Standard,Optional,Optional,89,2,0,2017/CADILLAC/ESCALADE ESV/2017 Cadillac Escalade ESV SUV RWD.png
 11285,2017,CADILLAC,ESCALADE ESV,2017 Cadillac Escalade ESV SUV AWD,,4,5,5,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,4,Standard,Optional,Optional,89,2,0,2017/CADILLAC/ESCALADE ESV/2017 Cadillac Escalade ESV SUV AWD.png
-11530,2017,CADILLAC,XT5,2017 Cadillac XT5 SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,Optional,123,1,0,2017/CADILLAC/XT5/2017 Cadillac XT5 SUV AWD.png
-11531,2017,CADILLAC,XT5,2017 Cadillac XT5 SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,123,1,0,2017/CADILLAC/XT5/2017 Cadillac XT5 SUV FWD.png
+11530,2017,CADILLAC,XT5,2017 Cadillac XT5 SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,Optional,124,1,0,2017/CADILLAC/XT5/2017 Cadillac XT5 SUV AWD.png
+11531,2017,CADILLAC,XT5,2017 Cadillac XT5 SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,124,1,0,2017/CADILLAC/XT5/2017 Cadillac XT5 SUV FWD.png
 11035,2017,CADILLAC,XTS,2017 Cadillac XTS 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Optional,Optional,24,0,1,2017/CADILLAC/XTS/2017 Cadillac XTS 4 DR FWD.png
 11036,2017,CADILLAC,XTS,2017 Cadillac XTS 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Optional,Optional,24,0,1,2017/CADILLAC/XTS/2017 Cadillac XTS 4 DR AWD.png
 11532,2017,CHEVROLET,BOLT,2017 Chevrolet Bolt 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,316,4,1,2017/CHEVROLET/BOLT/2017 Chevrolet Bolt 4 DR FWD.png
@@ -158,8 +158,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11544,2017,CHEVROLET,CRUZE,2017 Chevrolet Cruze 5 DR FWD Early Release,,4,5,5,5,4,5,4,5,4,4,4,Not Rated,0.107,0,No Tip,5,Standard,Optional,Optional,201,2,0,2017/CHEVROLET/CRUZE/2017 Chevrolet Cruze 5 DR FWD Early Release.png
 11832,2017,CHEVROLET,CRUZE,2017 Chevrolet Cruze 4 DR FWD Later Release,,5,5,5,5,4,5,4,5,4,4,4,Not Rated,0.107,0,No Tip,5,Standard,Optional,Optional,11,0,0,2017/CHEVROLET/CRUZE/2017 Chevrolet Cruze 4 DR FWD Later Release.png
 11833,2017,CHEVROLET,CRUZE,2017 Chevrolet Cruze 5 DR FWD Later Release,,5,5,5,5,4,5,4,5,4,4,4,Not Rated,0.107,0,No Tip,5,Standard,Optional,Optional,11,0,0,2017/CHEVROLET/CRUZE/2017 Chevrolet Cruze 5 DR FWD Later Release.png
-11020,2017,CHEVROLET,EQUINOX,2017 Chevrolet Equinox SUV FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,272,0,0,2017/CHEVROLET/EQUINOX/2017 Chevrolet Equinox SUV FWD.png
-11021,2017,CHEVROLET,EQUINOX,2017 Chevrolet Equinox SUV AWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,272,0,0,2017/CHEVROLET/EQUINOX/2017 Chevrolet Equinox SUV AWD.png
+11020,2017,CHEVROLET,EQUINOX,2017 Chevrolet Equinox SUV FWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,273,0,0,2017/CHEVROLET/EQUINOX/2017 Chevrolet Equinox SUV FWD.png
+11021,2017,CHEVROLET,EQUINOX,2017 Chevrolet Equinox SUV AWD,,4,4,5,4,5,4,5,4,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,273,0,0,2017/CHEVROLET/EQUINOX/2017 Chevrolet Equinox SUV AWD.png
 11546,2017,CHEVROLET,EXPRESS CARGO G23405,2017 Chevrolet Express Cargo G23405 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,21,6,0,2017/CHEVROLET/EXPRESS CARGO G23405/2017 Chevrolet Express Cargo G23405 VAN RWD.png
 11547,2017,CHEVROLET,EXPRESS CARGO G23705,2017 Chevrolet Express Cargo G23705 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,21,6,0,2017/CHEVROLET/EXPRESS CARGO G23705/2017 Chevrolet Express Cargo G23705 VAN RWD.png
 11548,2017,CHEVROLET,EXPRESS CARGO G33405,2017 Chevrolet Express Cargo G33405 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,21,6,0,2017/CHEVROLET/EXPRESS CARGO G33405/2017 Chevrolet Express Cargo G33405 VAN RWD.png
@@ -199,8 +199,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11253,2017,CHEVROLET,TAHOE,2017 Chevrolet Tahoe SUV 4WD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.222,0,No Tip,5,Standard,Optional,Optional,173,4,0,2017/CHEVROLET/TAHOE/2017 Chevrolet Tahoe SUV 4WD.png
 11024,2017,CHEVROLET,TRAVERSE,2017 Chevrolet Traverse SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,361,3,0,2017/CHEVROLET/TRAVERSE/2017 Chevrolet Traverse SUV AWD.png
 11025,2017,CHEVROLET,TRAVERSE,2017 Chevrolet Traverse SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,361,3,0,2017/CHEVROLET/TRAVERSE/2017 Chevrolet Traverse SUV FWD.png
-11250,2017,CHEVROLET,TRAX,2017 Chevrolet Trax SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,112,3,0,2017/CHEVROLET/TRAX/2017 Chevrolet Trax SUV AWD.png
-11251,2017,CHEVROLET,TRAX,2017 Chevrolet Trax SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,Optional,Optional,112,3,0,2017/CHEVROLET/TRAX/2017 Chevrolet Trax SUV FWD.png
+11250,2017,CHEVROLET,TRAX,2017 Chevrolet Trax SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,Optional,Optional,113,3,0,2017/CHEVROLET/TRAX/2017 Chevrolet Trax SUV AWD.png
+11251,2017,CHEVROLET,TRAX,2017 Chevrolet Trax SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,Optional,Optional,113,3,0,2017/CHEVROLET/TRAX/2017 Chevrolet Trax SUV FWD.png
 11556,2017,CHEVROLET,VOLT,2017 Chevrolet Volt 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,Optional,Optional,698,0,2,2017/CHEVROLET/VOLT/2017 Chevrolet Volt 5 HB FWD.png
 11315,2017,CHRYSLER,200,2017 Chrysler 200 4 DR AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,5,Standard,Optional,Optional,43,1,0,2017/CHRYSLER/200/2017 Chrysler 200 4 DR AWD.png
 11316,2017,CHRYSLER,200,2017 Chrysler 200 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,5,Standard,Optional,Optional,43,1,0,2017/CHRYSLER/200/2017 Chrysler 200 4 DR FWD.png
@@ -232,8 +232,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11557,2017,FIAT,500e BEV,2017 Fiat 500e BEV 3 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,1,2017/FIAT/500e BEV/2017 Fiat 500e BEV 3 HB FWD.png
 11203,2017,FORD,CMAX ENERGI,2017 Ford CMAX Energi 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,22,1,1,2017/FORD/CMAX ENERGI/2017 Ford CMAX Energi 5 HB FWD.png
 11204,2017,FORD,CMAX HEV,2017 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,22,1,1,2017/FORD/CMAX HEV/2017 Ford CMAX Hybrid 5 HB FWD.png
-11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1356,8,3,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
-11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1356,8,3,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
+11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1357,8,3,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
+11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1357,8,3,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
 11077,2017,FORD,ESCAPE,2017 Ford Escape SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,Optional,Optional,2681,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV AWD.png
 11078,2017,FORD,ESCAPE,2017 Ford Escape SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,2681,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV FWD.png
 11215,2017,FORD,EXPEDITION,2017 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,357,4,0,2017/FORD/EXPEDITION/2017 Ford Expedition SUV 4x2.png
@@ -285,8 +285,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11223,2017,FORD,"TRANSIT LOW ROOF(8,10,12) PASS","2017 Ford Transit Low Roof(8,10,12) Pass WAGON RWD",,4,4,4,3,5,5,5,5,5,5,3,Not Rated,0.267,0, ,5,Standard,No,Optional,2,0,0,"2017/FORD/TRANSIT LOW ROOF(8,10,12) PASS/2017 Ford Transit Low Roof(8,10,12) Pass WAGON RWD.png"
 11224,2017,FORD,TRANSIT MEDIUM ROOF 15 PASS,2017 Ford Transit Medium Roof 15 Pass WAGON RWD,,3,4,4,3,5,5,5,5,5,5,2,Not Rated,0.376,0,No Tip,5,Standard,No,Optional,2,0,0,2017/FORD/TRANSIT MEDIUM ROOF 15 PASS/2017 Ford Transit Medium Roof 15 Pass WAGON RWD.png
 11225,2017,FORD,"TRANSIT MEDIUM ROOF(8,10,12) PASS","2017 Ford Transit Medium Roof(8,10,12) Pass WAGON RWD",,Not Rated,4,4,3,5,5,5,5,5,5,Not Rated,Not Rated,0,0, ,5,Standard,No,Optional,2,0,0,"2017/FORD/TRANSIT MEDIUM ROOF(8,10,12) PASS/2017 Ford Transit Medium Roof(8,10,12) Pass WAGON RWD.png"
-11108,2017,GENESIS,G80,2017 Genesis G80 4 DR AWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,65,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR AWD.png
-11109,2017,GENESIS,G80,2017 Genesis G80 4 DR RWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,65,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR RWD.png
+11108,2017,GENESIS,G80,2017 Genesis G80 4 DR AWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,66,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR AWD.png
+11109,2017,GENESIS,G80,2017 Genesis G80 4 DR RWD,,5,5,5,5,5,4,5,4,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Standard,Standard,66,2,1,2017/GENESIS/G80/2017 Genesis G80 4 DR RWD.png
 11572,2017,GENESIS,G90,2017 Genesis G90 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,25,3,0,2017/GENESIS/G90/2017 Genesis G90 4 DR AWD.png
 11573,2017,GENESIS,G90,2017 Genesis G90 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,25,3,0,2017/GENESIS/G90/2017 Genesis G90 4 DR RWD.png
 11574,2017,GMC,ACADIA,2017 GMC Acadia SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,703,4,0,2017/GMC/ACADIA/2017 GMC Acadia SUV FWD.png
@@ -335,8 +335,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11291,2017,GMC,YUKON DENALI XL 1500,2017 GMC Yukon Denali XL 1500 SUV RWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.203,0,No Tip,4,Standard,Optional,Optional,4,0,0,2017/GMC/YUKON DENALI XL 1500/2017 GMC Yukon Denali XL 1500 SUV RWD.png
 11292,2017,GMC,YUKON XL 1500,2017 GMC Yukon XL 1500 SUV 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.203,0,No Tip,4,Standard,Optional,Optional,147,1,0,2017/GMC/YUKON XL 1500/2017 GMC Yukon XL 1500 SUV 4WD.png
 11293,2017,GMC,YUKON XL 1500,2017 GMC Yukon XL 1500 SUV RWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,4,Standard,Optional,Optional,147,1,0,2017/GMC/YUKON XL 1500/2017 GMC Yukon XL 1500 SUV RWD.png
-11041,2017,HONDA,ACCORD,2017 Honda Accord 2 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,534,3,0,2017/HONDA/ACCORD/2017 Honda Accord 2 DR FWD.png
-11042,2017,HONDA,ACCORD,2017 Honda Accord 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,534,3,0,2017/HONDA/ACCORD/2017 Honda Accord 4 DR FWD.png
+11041,2017,HONDA,ACCORD,2017 Honda Accord 2 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,535,3,0,2017/HONDA/ACCORD/2017 Honda Accord 2 DR FWD.png
+11042,2017,HONDA,ACCORD,2017 Honda Accord 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Optional,Optional,535,3,0,2017/HONDA/ACCORD/2017 Honda Accord 4 DR FWD.png
 11014,2017,HONDA,ACCORD HYBRID,2017 Honda Accord Hybrid 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Standard,Standard,45,2,1,2017/HONDA/ACCORD HYBRID/2017 Honda Accord Hybrid 4 DR FWD.png
 11167,2017,HONDA,CIVIC,2017 Honda Civic 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,593,6,0,2017/HONDA/CIVIC/2017 Honda Civic 4 DR FWD.png
 11168,2017,HONDA,CIVIC,2017 Honda Civic 5 HB FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,593,6,0,2017/HONDA/CIVIC/2017 Honda Civic 5 HB FWD.png
@@ -346,16 +346,16 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11806,2017,HONDA,CIVIC TYPE R,2017 Honda Civic Type R 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,No,No,523,5,0,2017/HONDA/CIVIC TYPE R/2017 Honda Civic Type R 5 HB FWD.png
 11825,2017,HONDA,CLARITY ELECTRIC,2017 Honda Clarity Electric 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,1,0,1,2017/HONDA/CLARITY ELECTRIC/2017 Honda Clarity Electric 4 DR AWD.png
 11802,2017,HONDA,CLARITY FUEL CELL,2017 Honda Clarity Fuel Cell 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,3,3,0,2017/HONDA/CLARITY FUEL CELL/2017 Honda Clarity Fuel Cell 4 DR AWD.png
-11023,2017,HONDA,CR-V,2017 Honda CR-V SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.163,0,No Tip,5,Standard,Optional,Optional,1767,7,2,2017/HONDA/CR-V/2017 Honda CR-V SUV FWD.png
-11032,2017,HONDA,CR-V,2017 Honda CR-V SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.162,0,No Tip,5,Standard,Optional,Optional,1767,7,2,2017/HONDA/CR-V/2017 Honda CR-V SUV AWD.png
+11023,2017,HONDA,CR-V,2017 Honda CR-V SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.163,0,No Tip,5,Standard,Optional,Optional,1768,7,2,2017/HONDA/CR-V/2017 Honda CR-V SUV FWD.png
+11032,2017,HONDA,CR-V,2017 Honda CR-V SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.162,0,No Tip,5,Standard,Optional,Optional,1768,7,2,2017/HONDA/CR-V/2017 Honda CR-V SUV AWD.png
 11517,2017,HONDA,FIT,2017 Honda Fit 5 HB FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,43,0,1,2017/HONDA/FIT/2017 Honda Fit 5 HB FWD.png
 11084,2017,HONDA,HR-V,2017 Honda HR-V SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.135,0,No Tip,5,Standard,No,No,122,0,0,2017/HONDA/HR-V/2017 Honda HR-V SUV AWD.png
 11085,2017,HONDA,HR-V,2017 Honda HR-V SUV FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.153,0,No Tip,5,Standard,No,No,122,0,0,2017/HONDA/HR-V/2017 Honda HR-V SUV FWD.png
 11803,2017,HONDA,ODYSSEY,2017 Honda Odyssey VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.127,0,No Tip,5,Standard,Optional,Optional,39,2,1,2017/HONDA/ODYSSEY/2017 Honda Odyssey VAN FWD.png
-11784,2017,HONDA,PILOT,2017 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,922,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV FWD.png
-11785,2017,HONDA,PILOT,2017 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,922,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV AWD.png
-11518,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,339,9,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC FWD.png
-11519,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,339,9,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC AWD.png
+11784,2017,HONDA,PILOT,2017 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,923,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV FWD.png
+11785,2017,HONDA,PILOT,2017 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,923,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV AWD.png
+11518,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,340,9,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC FWD.png
+11519,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,340,9,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC AWD.png
 11111,2017,HYUNDAI,ACCENT,2017 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,68,0,0,2017/HYUNDAI/ACCENT/2017 Hyundai Accent 4 DR FWD.png
 11112,2017,HYUNDAI,ACCENT 5,2017 Hyundai Accent 5 5 HB FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,61,0,0,2017/HYUNDAI/ACCENT 5/2017 Hyundai Accent 5 5 HB FWD.png
 11588,2017,HYUNDAI,AZERA,2017 Hyundai Azera 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,12,1,0,2017/HYUNDAI/AZERA/2017 Hyundai Azera 4 DR FWD.png
@@ -437,8 +437,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11003,2017,KIA,RIO,2017 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,31,2,1,2017/KIA/RIO/2017 Kia Rio 4 DR FWD.png
 11004,2017,KIA,RIO,2017 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,31,2,1,2017/KIA/RIO/2017 Kia Rio 5 HB FWD.png
 11007,2017,KIA,SEDONA,2017 Kia Sedona VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.13,0,No Tip,5,Standard,Optional,Optional,134,4,0,2017/KIA/SEDONA/2017 Kia Sedona VAN FWD.png
-11005,2017,KIA,SORENTO,2017 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.158,0,No Tip,5,Standard,Optional,Optional,803,4,3,2017/KIA/SORENTO/2017 Kia Sorento SUV FWD.png
-11006,2017,KIA,SORENTO,2017 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.15,0,No Tip,5,Standard,Optional,Optional,803,4,3,2017/KIA/SORENTO/2017 Kia Sorento SUV AWD.png
+11005,2017,KIA,SORENTO,2017 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.158,0,No Tip,5,Standard,Optional,Optional,804,4,3,2017/KIA/SORENTO/2017 Kia Sorento SUV FWD.png
+11006,2017,KIA,SORENTO,2017 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.15,0,No Tip,5,Standard,Optional,Optional,804,4,3,2017/KIA/SORENTO/2017 Kia Sorento SUV AWD.png
 11353,2017,KIA,SOUL,2017 Kia Soul SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,Optional,Optional,272,1,0,2017/KIA/SOUL/2017 Kia Soul SUV FWD.png
 11607,2017,KIA,SOUL EV,2017 Kia Soul EV SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,18,3,2,2017/KIA/SOUL EV/2017 Kia Soul EV SUV FWD.png
 11241,2017,KIA,SPORTAGE,2017 Kia Sportage SUV AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,Optional,Optional,399,4,2,2017/KIA/SPORTAGE/2017 Kia Sportage SUV AWD.png
