@@ -339,8 +339,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6093,2012,HONDA,FIT,2012 Honda Fit 5 HB FWD,,4,4,5,4,4,3,5,3,5,4,4,Not Rated,0.124,0,No Tip,2,Standard,No,No,113,11,1,2012/HONDA/FIT/2012 Honda Fit 5 HB FWD.png
 6095,2012,HONDA,INSIGHT,2012 Honda Insight 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.113,0,No Tip,Not Rated,Standard,No,No,59,8,1,2012/HONDA/INSIGHT/2012 Honda Insight 5 HB FWD.png
 6086,2012,HONDA,ODYSSEY,2012 Honda Odyssey VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.127,0,No Tip,5,Standard,No,No,245,5,1,2012/HONDA/ODYSSEY/2012 Honda Odyssey VAN FWD.png
-6087,2012,HONDA,PILOT,2012 Honda Pilot SUV FWD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,171,9,0,2012/HONDA/PILOT/2012 Honda Pilot SUV FWD.png
-6625,2012,HONDA,PILOT,2012 Honda Pilot SUV 4WD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,171,9,0,2012/HONDA/PILOT/2012 Honda Pilot SUV 4WD.png
+6087,2012,HONDA,PILOT,2012 Honda Pilot SUV FWD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,172,9,0,2012/HONDA/PILOT/2012 Honda Pilot SUV FWD.png
+6625,2012,HONDA,PILOT,2012 Honda Pilot SUV 4WD,,4,4,5,4,5,5,4,5,4,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,172,9,0,2012/HONDA/PILOT/2012 Honda Pilot SUV 4WD.png
 6088,2012,HONDA,RIDGELINE,2012 Honda Ridgeline PU/CC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.143,0,No Tip,Not Rated,Standard,No,No,24,12,1,2012/HONDA/RIDGELINE/2012 Honda Ridgeline PU_CC 4WD.png
 6726,2012,HYUNDAI,ACCENT,2012 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,153,2,1,2012/HYUNDAI/ACCENT/2012 Hyundai Accent 4 DR FWD.png
 6727,2012,HYUNDAI,ACCENT,2012 Hyundai Accent 5 HB FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,153,2,1,2012/HYUNDAI/ACCENT/2012 Hyundai Accent 5 HB FWD.png
@@ -406,7 +406,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6135,2012,KIA,SEDONA,2012 Kia Sedona VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.136,0,No Tip,Not Rated,Standard,No,No,108,5,1,2012/KIA/SEDONA/2012 Kia Sedona VAN FWD.png
 6137,2012,KIA,SORENTO,2012 Kia Sorento SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.178,0,No Tip,5,Standard,No,No,880,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV FWD.png
 6733,2012,KIA,SORENTO,2012 Kia Sorento SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.168,0,No Tip,5,Standard,No,No,880,5,10,2012/KIA/SORENTO/2012 Kia Sorento SUV AWD.png
-6134,2012,KIA,SOUL,2012 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,514,3,5,2012/KIA/SOUL/2012 Kia Soul SUV FWD.png
+6134,2012,KIA,SOUL,2012 Kia Soul SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,515,3,5,2012/KIA/SOUL/2012 Kia Soul SUV FWD.png
 6136,2012,KIA,SPORTAGE,2012 Kia Sportage SUV FWD,,4,5,5,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,392,5,4,2012/KIA/SPORTAGE/2012 Kia Sportage SUV FWD.png
 6734,2012,KIA,SPORTAGE,2012 Kia Sportage SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,392,5,4,2012/KIA/SPORTAGE/2012 Kia Sportage SUV AWD.png
 6124,2012,LAND ROVER,LR2,2012 Land Rover LR2 SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,6,2,0,2012/LAND ROVER/LR2/2012 Land Rover LR2 SUV 4WD.png

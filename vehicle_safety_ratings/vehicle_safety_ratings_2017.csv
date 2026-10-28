@@ -29,7 +29,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11370,2017,AUDI,Q3,2017 Audi Q3 SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,8,3,0,2017/AUDI/Q3/2017 Audi Q3 SUV FWD.png
 11371,2017,AUDI,Q3,2017 Audi Q3 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,8,3,0,2017/AUDI/Q3/2017 Audi Q3 SUV AWD.png
 11049,2017,AUDI,Q5,2017 Audi Q5 SUV AWD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,42,5,0,2017/AUDI/Q5/2017 Audi Q5 SUV AWD.png
-11372,2017,AUDI,Q7,2017 Audi Q7 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Optional,320,7,0,2017/AUDI/Q7/2017 Audi Q7 SUV AWD.png
+11372,2017,AUDI,Q7,2017 Audi Q7 SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Optional,321,7,0,2017/AUDI/Q7/2017 Audi Q7 SUV AWD.png
 11373,2017,AUDI,R8,2017 Audi R8 2 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,2,0,2017/AUDI/R8/2017 Audi R8 2 DR AWD.png
 11367,2017,AUDI,RS7,2017 Audi RS7 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,No,0,3,0,2017/AUDI/RS7/2017 Audi RS7 4 DR AWD.png
 11045,2017,AUDI,S3,2017 Audi S3 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,9,2,1,2017/AUDI/S3/2017 Audi S3 4 DR AWD.png
@@ -206,7 +206,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11316,2017,CHRYSLER,200,2017 Chrysler 200 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,5,Standard,Optional,Optional,43,1,0,2017/CHRYSLER/200/2017 Chrysler 200 4 DR FWD.png
 11317,2017,CHRYSLER,300,2017 Chrysler 300 4 DR RWD,,4,4,4,4,5,4,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,82,2,0,2017/CHRYSLER/300/2017 Chrysler 300 4 DR RWD.png
 11318,2017,CHRYSLER,300,2017 Chrysler 300 4 DR AWD,,4,4,4,4,5,4,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,82,2,0,2017/CHRYSLER/300/2017 Chrysler 300 4 DR AWD.png
-11422,2017,CHRYSLER,PACIFICA,2017 Chrysler Pacifica VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,Optional,1537,11,3,2017/CHRYSLER/PACIFICA/2017 Chrysler Pacifica VAN FWD.png
+11422,2017,CHRYSLER,PACIFICA,2017 Chrysler Pacifica VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,Optional,1540,11,3,2017/CHRYSLER/PACIFICA/2017 Chrysler Pacifica VAN FWD.png
 11821,2017,CHRYSLER,PACIFICA PHEV,2017 Chrysler Pacifica PHEV VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,79,6,4,2017/CHRYSLER/PACIFICA PHEV/2017 Chrysler Pacifica PHEV VAN FWD.png
 11323,2017,DODGE,CHALLENGER,2017 Dodge Challenger 2 DR RWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,Optional,No,49,3,1,2017/DODGE/CHALLENGER/2017 Dodge Challenger 2 DR RWD.png
 11822,2017,DODGE,CHALLENGER,2017 Dodge Challenger 2 DR AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,Optional,No,49,3,1,2017/DODGE/CHALLENGER/2017 Dodge Challenger 2 DR AWD.png
@@ -214,11 +214,11 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11324,2017,DODGE,CHARGER,2017 Dodge Charger 4 DR RWD,,5,4,4,4,5,4,5,4,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,128,4,1,2017/DODGE/CHARGER/2017 Dodge Charger 4 DR RWD.png
 11325,2017,DODGE,CHARGER,2017 Dodge Charger 4 DR AWD,,5,4,4,4,5,4,5,4,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,128,4,1,2017/DODGE/CHARGER/2017 Dodge Charger 4 DR AWD.png
 11425,2017,DODGE,CHARGER SRT,2017 Dodge Charger SRT 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,121,4,0,2017/DODGE/CHARGER SRT/2017 Dodge Charger SRT 4 DR RWD.png
-11321,2017,DODGE,DURANGO,2017 Dodge Durango SUV 4WD,,4,4,4,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,Optional,No,213,2,2,2017/DODGE/DURANGO/2017 Dodge Durango SUV 4WD.png
-11322,2017,DODGE,DURANGO,2017 Dodge Durango SUV 2WD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,Optional,No,213,2,2,2017/DODGE/DURANGO/2017 Dodge Durango SUV 2WD.png
+11321,2017,DODGE,DURANGO,2017 Dodge Durango SUV 4WD,,4,4,4,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,Optional,No,214,2,2,2017/DODGE/DURANGO/2017 Dodge Durango SUV 4WD.png
+11322,2017,DODGE,DURANGO,2017 Dodge Durango SUV 2WD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,Optional,No,214,2,2,2017/DODGE/DURANGO/2017 Dodge Durango SUV 2WD.png
 11326,2017,DODGE,GRAND CARAVAN,2017 Dodge Grand Caravan VAN FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,No,No,414,3,1,2017/DODGE/GRAND CARAVAN/2017 Dodge Grand Caravan VAN FWD.png
-11319,2017,DODGE,JOURNEY,2017 Dodge Journey SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.179,0, ,5,Standard,No,No,201,2,3,2017/DODGE/JOURNEY/2017 Dodge Journey SUV AWD.png
-11320,2017,DODGE,JOURNEY,2017 Dodge Journey SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0, ,5,Standard,No,No,201,2,3,2017/DODGE/JOURNEY/2017 Dodge Journey SUV FWD.png
+11319,2017,DODGE,JOURNEY,2017 Dodge Journey SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.179,0, ,5,Standard,No,No,202,2,3,2017/DODGE/JOURNEY/2017 Dodge Journey SUV AWD.png
+11320,2017,DODGE,JOURNEY,2017 Dodge Journey SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0, ,5,Standard,No,No,202,2,3,2017/DODGE/JOURNEY/2017 Dodge Journey SUV FWD.png
 11423,2017,DODGE,VIPER,2017 Dodge Viper 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,0,2017/DODGE/VIPER/2017 Dodge Viper 2 DR RWD.png
 11514,2017,FIAT,124 SPIDER,2017 Fiat 124 Spider C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,33,1,0,2017/FIAT/124 SPIDER/2017 Fiat 124 Spider C RWD.png
 11314,2017,FIAT,500,2017 Fiat 500 3 HB FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,3,Standard,No,No,14,2,1,2017/FIAT/500/2017 Fiat 500 3 HB FWD.png
@@ -232,8 +232,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11557,2017,FIAT,500e BEV,2017 Fiat 500e BEV 3 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,0,1,2017/FIAT/500e BEV/2017 Fiat 500e BEV 3 HB FWD.png
 11203,2017,FORD,CMAX ENERGI,2017 Ford CMAX Energi 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,No,No,22,1,1,2017/FORD/CMAX ENERGI/2017 Ford CMAX Energi 5 HB FWD.png
 11204,2017,FORD,CMAX HEV,2017 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,22,1,1,2017/FORD/CMAX HEV/2017 Ford CMAX Hybrid 5 HB FWD.png
-11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1374,8,3,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
-11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1374,8,3,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
+11211,2017,FORD,EDGE,2017 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,1375,8,3,2017/FORD/EDGE/2017 Ford Edge SUV FWD.png
+11212,2017,FORD,EDGE,2017  Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,1375,8,3,2017/FORD/EDGE/2017  Ford Edge SUV AWD.png
 11077,2017,FORD,ESCAPE,2017 Ford Escape SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,Optional,Optional,2698,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV AWD.png
 11078,2017,FORD,ESCAPE,2017 Ford Escape SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,2698,4,0,2017/FORD/ESCAPE/2017 Ford Escape SUV FWD.png
 11215,2017,FORD,EXPEDITION,2017 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,357,4,0,2017/FORD/EXPEDITION/2017 Ford Expedition SUV 4x2.png
@@ -270,7 +270,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11570,2017,FORD,FOCUS RS,2017 Ford Focus RS 5 HB AWD,,5,4,4,4,5,4,5,4,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,No,No,842,5,4,2017/FORD/FOCUS RS/2017 Ford Focus RS 5 HB AWD.png
 11073,2017,FORD,FUSION,2017 Ford Fusion 4 DR FWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1114,4,1,2017/FORD/FUSION/2017 Ford Fusion 4 DR FWD.png
 11074,2017,FORD,FUSION,2017 Ford Fusion 4 DR AWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1114,4,1,2017/FORD/FUSION/2017 Ford Fusion 4 DR AWD.png
-11076,2017,FORD,FUSION ENERGI,2017 Ford Fusion Energi 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.109,0,No Tip,Not Rated,Standard,Optional,Optional,1031,4,2,2017/FORD/FUSION ENERGI/2017 Ford Fusion Energi 4 DR FWD.png
+11076,2017,FORD,FUSION ENERGI,2017 Ford Fusion Energi 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.109,0,No Tip,Not Rated,Standard,Optional,Optional,1033,4,2,2017/FORD/FUSION ENERGI/2017 Ford Fusion Energi 4 DR FWD.png
 11075,2017,FORD,FUSION HEV,2017 Ford Fusion Hybrid 4 DR FWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1084,4,2,2017/FORD/FUSION HEV/2017 Ford Fusion Hybrid 4 DR FWD.png
 11571,2017,FORD,GT,2017 Ford GT 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,0,2,0,2017/FORD/GT/2017 Ford GT 2 DR RWD.png
 11205,2017,FORD,MUSTANG,2017 Ford Mustang 2 DR RWD,,5,5,5,5,5,5,4,5,4,5,5,Not Rated,0.081,0,No Tip,5,Standard,Optional,No,268,6,1,2017/FORD/MUSTANG/2017 Ford Mustang 2 DR RWD.png
@@ -352,8 +352,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11084,2017,HONDA,HR-V,2017 Honda HR-V SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.135,0,No Tip,5,Standard,No,No,123,0,0,2017/HONDA/HR-V/2017 Honda HR-V SUV AWD.png
 11085,2017,HONDA,HR-V,2017 Honda HR-V SUV FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.153,0,No Tip,5,Standard,No,No,123,0,0,2017/HONDA/HR-V/2017 Honda HR-V SUV FWD.png
 11803,2017,HONDA,ODYSSEY,2017 Honda Odyssey VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.127,0,No Tip,5,Standard,Optional,Optional,39,2,1,2017/HONDA/ODYSSEY/2017 Honda Odyssey VAN FWD.png
-11784,2017,HONDA,PILOT,2017 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,934,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV FWD.png
-11785,2017,HONDA,PILOT,2017 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,934,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV AWD.png
+11784,2017,HONDA,PILOT,2017 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,935,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV FWD.png
+11785,2017,HONDA,PILOT,2017 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,935,4,4,2017/HONDA/PILOT/2017 Honda Pilot SUV AWD.png
 11518,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,344,9,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC FWD.png
 11519,2017,HONDA,RIDGELINE,2017 Honda Ridgeline PU/CC AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,344,9,5,2017/HONDA/RIDGELINE/2017 Honda Ridgeline PU_CC AWD.png
 11111,2017,HYUNDAI,ACCENT,2017 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,68,0,0,2017/HYUNDAI/ACCENT/2017 Hyundai Accent 4 DR FWD.png
@@ -582,7 +582,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 11117,2017,MITSUBISHI,OUTLANDER SPORT,2017 Mitsubishi Outlander Sport SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,73,4,0,2017/MITSUBISHI/OUTLANDER SPORT/2017 Mitsubishi Outlander Sport SUV FWD.png
 11696,2017,NISSAN,370Z,2017 Nissan 370Z 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,5,0,1,2017/NISSAN/370Z/2017 Nissan 370Z 2 DR RWD.png
 11697,2017,NISSAN,370Z ROADSTER,2017 Nissan 370Z Roadster C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,5,0,1,2017/NISSAN/370Z ROADSTER/2017 Nissan 370Z Roadster C RWD.png
-11086,2017,NISSAN,ALTIMA,2017 Nissan Altima 4 DR FWD,,5,5,5,4,5,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,5,Standard,Optional,No,392,3,3,2017/NISSAN/ALTIMA/2017 Nissan Altima 4 DR FWD.png
+11086,2017,NISSAN,ALTIMA,2017 Nissan Altima 4 DR FWD,,5,5,5,4,5,3,5,3,5,4,4,Not Rated,0.103,0,No Tip,5,Standard,Optional,No,393,3,3,2017/NISSAN/ALTIMA/2017 Nissan Altima 4 DR FWD.png
 11698,2017,NISSAN,ARMADA,2017 Nissan Armada SUV RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,81,0,0,2017/NISSAN/ARMADA/2017 Nissan Armada SUV RWD.png
 11699,2017,NISSAN,ARMADA,2017 Nissan Armada SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,81,0,0,2017/NISSAN/ARMADA/2017 Nissan Armada SUV AWD.png
 11088,2017,NISSAN,FRONTIER,2017 Nissan Frontier King Cab PU/EC AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.198,0,No Tip,Not Rated,Standard,No,No,38,1,0,2017/NISSAN/FRONTIER/2017 Nissan Frontier King Cab PU_EC AWD.png

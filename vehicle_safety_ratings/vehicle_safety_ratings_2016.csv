@@ -220,14 +220,14 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10219,2016,FORD,CMAX HEV,2016 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,14,2,1,2016/FORD/CMAX HEV/2016 Ford CMAX Hybrid 5 HB FWD.png
 10226,2016,FORD,EDGE,2016 Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,926,7,3,2016/FORD/EDGE/2016 Ford Edge SUV AWD.png
 10227,2016,FORD,EDGE,2016 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,926,7,3,2016/FORD/EDGE/2016 Ford Edge SUV FWD.png
-10228,2016,FORD,ESCAPE,2016 Ford Escape SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,1164,4,0,2016/FORD/ESCAPE/2016 Ford Escape SUV FWD.png
-10229,2016,FORD,ESCAPE,2016 Ford Escape SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,1164,4,0,2016/FORD/ESCAPE/2016 Ford Escape SUV AWD.png
+10228,2016,FORD,ESCAPE,2016 Ford Escape SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,1165,4,0,2016/FORD/ESCAPE/2016 Ford Escape SUV FWD.png
+10229,2016,FORD,ESCAPE,2016 Ford Escape SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,No,No,1165,4,0,2016/FORD/ESCAPE/2016 Ford Escape SUV AWD.png
 10230,2016,FORD,EXPEDITION,2016 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,217,3,0,2016/FORD/EXPEDITION/2016 Ford Expedition SUV 4x2.png
 10231,2016,FORD,EXPEDITION,2016 Ford Expedition SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,217,3,0,2016/FORD/EXPEDITION/2016 Ford Expedition SUV 4x4.png
 10232,2016,FORD,EXPEDITION EL,2016 Ford Expedition EL EXTENDED SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,5,Standard,No,No,181,2,0,2016/FORD/EXPEDITION EL/2016 Ford Expedition EL EXTENDED SUV 4x2.png
 10233,2016,FORD,EXPEDITION EL,2016 Ford Expedition EL EXTENDED SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,181,2,0,2016/FORD/EXPEDITION EL/2016 Ford Expedition EL EXTENDED SUV 4x4.png
-10325,2016,FORD,EXPLORER,2016 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,2461,15,2,2016/FORD/EXPLORER/2016 Ford Explorer 4 DR SUV FWD.png
-10326,2016,FORD,EXPLORER,2016 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,2461,15,2,2016/FORD/EXPLORER/2016 Ford Explorer 4 DR SUV AWD.png
+10325,2016,FORD,EXPLORER,2016 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,2462,15,2,2016/FORD/EXPLORER/2016 Ford Explorer 4 DR SUV FWD.png
+10326,2016,FORD,EXPLORER,2016 Ford Explorer 4 DR SUV AWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,2462,15,2,2016/FORD/EXPLORER/2016 Ford Explorer 4 DR SUV AWD.png
 10236,2016,FORD,F-150 REGULAR CAB,2016 Ford F-150 Regular Cab PU/RC 4x4,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1686,13,4,2016/FORD/F-150 REGULAR CAB/2016 Ford F-150 Regular Cab PU_RC 4x4.png
 10237,2016,FORD,F-150 REGULAR CAB,2016 Ford F-150 Regular Cab PU/RC 4x2,,5,5,5,5,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1686,13,4,2016/FORD/F-150 REGULAR CAB/2016 Ford F-150 Regular Cab PU_RC 4x2.png
 10238,2016,FORD,F-150 SUPER CREW,2016 Ford F-150 Super Crew PU/CC 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1686,13,4,2016/FORD/F-150 SUPER CREW/2016 Ford F-150 Super Crew PU_CC 4x4.png
@@ -254,8 +254,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10217,2016,FORD,FOCUS,2016 Ford Focus 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,Optional,1188,11,5,2016/FORD/FOCUS/2016 Ford Focus 5 HB FWD.png
 10425,2016,FORD,FOCUS BEV,2016 Ford Focus Bev 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.101,0,No Tip,Not Rated,Standard,No,No,1137,6,5,2016/FORD/FOCUS BEV/2016 Ford Focus Bev 5 HB FWD.png
 10910,2016,FORD,FOCUS RS,2016 Ford Focus RS 5 HB AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1143,6,5,2016/FORD/FOCUS RS/2016 Ford Focus RS 5 HB AWD.png
-10029,2016,FORD,FUSION,2016 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1727,13,5,2016/FORD/FUSION/2016 Ford Fusion 4 DR FWD.png
-10030,2016,FORD,FUSION,2016 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1727,13,5,2016/FORD/FUSION/2016 Ford Fusion 4 DR AWD.png
+10029,2016,FORD,FUSION,2016 Ford Fusion 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1728,13,5,2016/FORD/FUSION/2016 Ford Fusion 4 DR FWD.png
+10030,2016,FORD,FUSION,2016 Ford Fusion 4 DR AWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1728,13,5,2016/FORD/FUSION/2016 Ford Fusion 4 DR AWD.png
 10031,2016,FORD,FUSION ENERGI,2016 Ford Fusion Energi 4 DR FWD,,5,5,5,5,5,4,5,4,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1468,11,5,2016/FORD/FUSION ENERGI/2016 Ford Fusion Energi 4 DR FWD.png
 10032,2016,FORD,FUSION HEV,2016 Ford Fusion Hybrid 4 DR FWD,,5,5,5,4,4,3,5,3,5,4,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,1468,11,5,2016/FORD/FUSION HEV/2016 Ford Fusion Hybrid 4 DR FWD.png
 10220,2016,FORD,MUSTANG,2016 Ford Mustang 2 DR RWD,,5,5,5,5,5,5,4,5,4,5,5,Not Rated,0.081,0,No Tip,5,Standard,Optional,No,380,5,1,2016/FORD/MUSTANG/2016 Ford Mustang 2 DR RWD.png
@@ -325,8 +325,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10330,2016,HONDA,HR-V,2016 Honda HR-V SUV FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.153,0,No Tip,5,Standard,No,No,243,2,0,2016/HONDA/HR-V/2016 Honda HR-V SUV FWD.png
 10331,2016,HONDA,HR-V,2016 Honda HR-V SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.135,0,No Tip,5,Standard,No,No,243,2,0,2016/HONDA/HR-V/2016 Honda HR-V SUV AWD.png
 10173,2016,HONDA,ODYSSEY,2016 Honda Odyssey VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.127,0,No Tip,5,Standard,Optional,Optional,271,6,1,2016/HONDA/ODYSSEY/2016 Honda Odyssey VAN FWD.png
-10563,2016,HONDA,PILOT,2016 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,1717,8,4,2016/HONDA/PILOT/2016 Honda Pilot SUV FWD.png
-10564,2016,HONDA,PILOT,2016 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,1717,8,4,2016/HONDA/PILOT/2016 Honda Pilot SUV AWD.png
+10563,2016,HONDA,PILOT,2016 Honda Pilot SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.175,0,No Tip,5,Standard,Optional,Optional,1719,8,4,2016/HONDA/PILOT/2016 Honda Pilot SUV FWD.png
+10564,2016,HONDA,PILOT,2016 Honda Pilot SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,1719,8,4,2016/HONDA/PILOT/2016 Honda Pilot SUV AWD.png
 10065,2016,HYUNDAI,ACCENT,2016 Hyundai Accent 4 DR FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,102,0,0,2016/HYUNDAI/ACCENT/2016 Hyundai Accent 4 DR FWD.png
 10066,2016,HYUNDAI,ACCENT 5,2016 Hyundai Accent 5 5 HB FWD,,4,4,5,4,4,5,3,5,3,4,4,Not Rated,0.124,0,No Tip,5,Standard,No,No,93,0,0,2016/HYUNDAI/ACCENT 5/2016 Hyundai Accent 5 5 HB FWD.png
 10565,2016,HYUNDAI,AZERA,2016 Hyundai Azera 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,15,1,0,2016/HYUNDAI/AZERA/2016 Hyundai Azera 4 DR FWD.png
@@ -346,7 +346,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10701,2016,HYUNDAI,TUCSON,2016 Hyundai Tucson SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,4,Standard,Optional,Optional,1625,5,1,2016/HYUNDAI/TUCSON/2016 Hyundai Tucson SUV FWD.png
 10702,2016,HYUNDAI,TUCSON,2016 Hyundai Tucson SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.162,0,No Tip,4,Standard,Optional,Optional,1625,5,1,2016/HYUNDAI/TUCSON/2016 Hyundai Tucson SUV AWD.png
 10703,2016,HYUNDAI,TUCSON FUEL CELL,2016 Hyundai Tucson Fuel Cell SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1536,5,1,2016/HYUNDAI/TUCSON FUEL CELL/2016 Hyundai Tucson Fuel Cell SUV FWD.png
-10016,2016,HYUNDAI,VELOSTER,2016 Hyundai VELOSTER 3 C FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,223,1,1,2016/HYUNDAI/VELOSTER/2016 Hyundai VELOSTER 3 C FWD.png
+10016,2016,HYUNDAI,VELOSTER,2016 Hyundai VELOSTER 3 C FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.105,0,No Tip,5,Standard,No,No,224,1,1,2016/HYUNDAI/VELOSTER/2016 Hyundai VELOSTER 3 C FWD.png
 10704,2016,INFINITI,Q50,2016 Infiniti Q50 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,39,4,0,2016/INFINITI/Q50/2016 Infiniti Q50 4 DR AWD.png
 10705,2016,INFINITI,Q50,2016 Infiniti Q50 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,5,5,5,5,5,5,5,Not Rated,0.097,0,No Tip,5,Standard,Optional,Optional,39,4,0,2016/INFINITI/Q50/2016 Infiniti Q50 4 DR RWD.png
 10201,2016,INFINITI,Q70,2016 Infiniti Q70 4 DR AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,Optional,3,1,0,2016/INFINITI/Q70/2016 Infiniti Q70 4 DR AWD.png
@@ -387,10 +387,10 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10011,2016,KIA,FORTE,2016 Kia Forte 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,5,4,5,4,5,5,4,Not Rated,0.103,0,No Tip,5,Standard,No,No,4,0,0,2016/KIA/FORTE/2016 Kia Forte 5 HB FWD.png
 10709,2016,KIA,FORTE KOUP,2016 Kia Forte Koup 2 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,138,1,0,2016/KIA/FORTE KOUP/2016 Kia Forte Koup 2 DR FWD.png
 10710,2016,KIA,K900,2016 Kia K900 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,10,3,1,2016/KIA/K900/2016 Kia K900 4 DR RWD.png
-10711,2016,KIA,OPTIMA,2016 Kia Optima 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.098,0,No Tip,5,Standard,Optional,Optional,759,5,3,2016/KIA/OPTIMA/2016 Kia Optima 4 DR FWD.png
+10711,2016,KIA,OPTIMA,2016 Kia Optima 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.098,0,No Tip,5,Standard,Optional,Optional,760,5,3,2016/KIA/OPTIMA/2016 Kia Optima 4 DR FWD.png
 10060,2016,KIA,OPTIMA HYBRID,2016 Kia Optima Hybrid 4 DR FWD,,5,5,5,5,5,3,5,3,5,5,5,Not Rated,0.096,0,No Tip,5,Standard,No,No,4,0,3,2016/KIA/OPTIMA HYBRID/2016 Kia Optima Hybrid 4 DR FWD.png
-10012,2016,KIA,RIO,2016 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,78,2,1,2016/KIA/RIO/2016 Kia Rio 5 HB FWD.png
-10013,2016,KIA,RIO,2016 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,78,2,1,2016/KIA/RIO/2016 Kia Rio 4 DR FWD.png
+10012,2016,KIA,RIO,2016 Kia Rio 5 HB FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,79,2,1,2016/KIA/RIO/2016 Kia Rio 5 HB FWD.png
+10013,2016,KIA,RIO,2016 Kia Rio 4 DR FWD,,4,4,4,4,5,4,5,4,5,4,4,Not Rated,0.116,0,No Tip,5,Standard,No,No,79,2,1,2016/KIA/RIO/2016 Kia Rio 4 DR FWD.png
 10021,2016,KIA,SEDONA,2016 Kia Sedona VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.13,0,No Tip,5,Standard,Optional,Optional,297,4,1,2016/KIA/SEDONA/2016 Kia Sedona VAN FWD.png
 10022,2016,KIA,SORENTO,2016 Kia Sorento SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.158,0,No Tip,5,Standard,Optional,Optional,1258,8,3,2016/KIA/SORENTO/2016 Kia Sorento SUV FWD.png
 10023,2016,KIA,SORENTO,2016 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.15,0,No Tip,5,Standard,Optional,Optional,1258,8,3,2016/KIA/SORENTO/2016 Kia Sorento SUV AWD.png
@@ -545,15 +545,15 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10194,2016,NISSAN,LEAF,2016 Nissan Leaf 5 HB FWD,,4,4,5,3,4,5,3,5,3,4,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,36,4,1,2016/NISSAN/LEAF/2016 Nissan Leaf 5 HB FWD.png
 10823,2016,NISSAN,MAXIMA,2016 Nissan Maxima 4 DR FWD Early Release,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,4,Standard,Optional,No,142,8,1,2016/NISSAN/MAXIMA/2016 Nissan Maxima 4 DR FWD Early Release.png
 10920,2016,NISSAN,MAXIMA,2016 Nissan Maxima 4 DR FWD Later Release,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,4,Standard,Optional,No,3,0,0,2016/NISSAN/MAXIMA/2016 Nissan Maxima 4 DR FWD Later Release.png
-10195,2016,NISSAN,MURANO,2016 Nissan Murano SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,107,5,0,2016/NISSAN/MURANO/2016 Nissan Murano SUV AWD.png
-10196,2016,NISSAN,MURANO,2016 Nissan Murano SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,107,5,0,2016/NISSAN/MURANO/2016 Nissan Murano SUV FWD.png
+10195,2016,NISSAN,MURANO,2016 Nissan Murano SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,Optional,No,108,5,0,2016/NISSAN/MURANO/2016 Nissan Murano SUV AWD.png
+10196,2016,NISSAN,MURANO,2016 Nissan Murano SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,108,5,0,2016/NISSAN/MURANO/2016 Nissan Murano SUV FWD.png
 10824,2016,NISSAN,NV200,2016 Nissan NV200 VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,25,3,1,2016/NISSAN/NV200/2016 Nissan NV200 VAN FWD.png
 10193,2016,NISSAN,NV3500,2016 Nissan NV3500 Passenger Van VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,17,1,0,2016/NISSAN/NV3500/2016 Nissan NV3500 Passenger Van VAN RWD.png
 10187,2016,NISSAN,PATHFINDER,2016 Nissan Pathfinder SUV AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.179,0,No Tip,5,Standard,No,No,107,2,1,2016/NISSAN/PATHFINDER/2016 Nissan Pathfinder SUV AWD.png
 10188,2016,NISSAN,PATHFINDER,2016 Nissan Pathfinder SUV FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,No,No,107,2,1,2016/NISSAN/PATHFINDER/2016 Nissan Pathfinder SUV FWD.png
 10825,2016,NISSAN,QUEST,2016 Nissan Quest VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,13,0,0,2016/NISSAN/QUEST/2016 Nissan Quest VAN FWD.png
-10197,2016,NISSAN,ROGUE,2016 Nissan Rogue SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,Optional,No,541,7,0,2016/NISSAN/ROGUE/2016 Nissan Rogue SUV AWD.png
-10198,2016,NISSAN,ROGUE,2016 Nissan Rogue SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,4,Standard,Optional,No,541,7,0,2016/NISSAN/ROGUE/2016 Nissan Rogue SUV FWD.png
+10197,2016,NISSAN,ROGUE,2016 Nissan Rogue SUV AWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,4,Standard,Optional,No,542,7,0,2016/NISSAN/ROGUE/2016 Nissan Rogue SUV AWD.png
+10198,2016,NISSAN,ROGUE,2016 Nissan Rogue SUV FWD,,4,4,4,3,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,4,Standard,Optional,No,542,7,0,2016/NISSAN/ROGUE/2016 Nissan Rogue SUV FWD.png
 10186,2016,NISSAN,SENTRA,2016 Nissan Sentra 4 DR FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Optional,No,270,6,0,2016/NISSAN/SENTRA/2016 Nissan Sentra 4 DR FWD.png
 10826,2016,NISSAN,TITAN XD,2016 NissanTitan XD Crew Cab RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,198,3,2,2016/NISSAN/TITAN XD/2016 NissanTitan XD Crew Cab RWD.png
 10827,2016,NISSAN,TITAN XD,2016 NissanTitan XD Crew Cab AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,198,3,2,2016/NISSAN/TITAN XD/2016 NissanTitan XD Crew Cab AWD.png
@@ -618,12 +618,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10151,2016,RAM,1500,2016 Ram 1500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1554,17,4,2016/RAM/1500/2016 Ram 1500 Crew PU_CC 2WD.png
 10152,2016,RAM,1500,2016 Ram 1500 Regular PU/RC 4WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,3,Not Rated,0.219,0,No Tip,5,Standard,No,No,1554,17,4,2016/RAM/1500/2016 Ram 1500 Regular PU_RC 4WD.png
 10153,2016,RAM,1500,2016 Ram 1500 Regular PU/RC 2WD,,4,4,4,4,5,5,Not Rated,5,Not Rated,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1554,17,4,2016/RAM/1500/2016 Ram 1500 Regular PU_RC 2WD.png
-10154,2016,RAM,2500,2016 Ram 2500 Regular PU/RC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.237,0,No Tip,Not Rated,Standard,No,No,258,14,3,2016/RAM/2500/2016 Ram 2500 Regular PU_RC 4WD.png
-10155,2016,RAM,2500,2016 Ram 2500 Regular PU/RC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,258,14,3,2016/RAM/2500/2016 Ram 2500 Regular PU_RC 2WD.png
-10156,2016,RAM,2500,2016 Ram 2500 Mega PU/EC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.237,0,No Tip,Not Rated,Standard,No,No,258,14,3,2016/RAM/2500/2016 Ram 2500 Mega PU_EC 4WD.png
-10157,2016,RAM,2500,2016 Ram 2500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,258,14,3,2016/RAM/2500/2016 Ram 2500 Crew PU_CC 4WD.png
-10158,2016,RAM,2500,2016 Ram 2500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,258,14,3,2016/RAM/2500/2016 Ram 2500 Crew PU_CC 2WD.png
-10159,2016,RAM,2500,2016 Ram 2500 Mega PU/EC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,258,14,3,2016/RAM/2500/2016 Ram 2500 Mega PU_EC 2WD.png
+10154,2016,RAM,2500,2016 Ram 2500 Regular PU/RC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.237,0,No Tip,Not Rated,Standard,No,No,259,14,3,2016/RAM/2500/2016 Ram 2500 Regular PU_RC 4WD.png
+10155,2016,RAM,2500,2016 Ram 2500 Regular PU/RC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,259,14,3,2016/RAM/2500/2016 Ram 2500 Regular PU_RC 2WD.png
+10156,2016,RAM,2500,2016 Ram 2500 Mega PU/EC 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.237,0,No Tip,Not Rated,Standard,No,No,259,14,3,2016/RAM/2500/2016 Ram 2500 Mega PU_EC 4WD.png
+10157,2016,RAM,2500,2016 Ram 2500 Crew PU/CC 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.237,0,No Tip,5,Standard,No,No,259,14,3,2016/RAM/2500/2016 Ram 2500 Crew PU_CC 4WD.png
+10158,2016,RAM,2500,2016 Ram 2500 Crew PU/CC 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,259,14,3,2016/RAM/2500/2016 Ram 2500 Crew PU_CC 2WD.png
+10159,2016,RAM,2500,2016 Ram 2500 Mega PU/EC 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.155,0,No Tip,Not Rated,Standard,No,No,259,14,3,2016/RAM/2500/2016 Ram 2500 Mega PU_EC 2WD.png
 10853,2016,RAM,PROMASTER,2016 Ram Promaster VAN 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,71,16,0,2016/RAM/PROMASTER/2016 Ram Promaster VAN 2WD.png
 10854,2016,RAM,PROMASTER CITY,2016 Ram Promaster City VAN 2WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,58,16,0,2016/RAM/PROMASTER CITY/2016 Ram Promaster City VAN 2WD.png
 10566,2016,ROLLS-ROYCE,GHOST,2016 Rolls-Royce Ghost 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,Optional,0,0,0,2016/ROLLS-ROYCE/GHOST/2016 Rolls-Royce Ghost 4 DR RWD.png
@@ -639,7 +639,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10183,2016,SUBARU,BRZ,2016 Subaru BRZ 2 DR RWD,,5,4,4,4,5,3,5,4,5,5,5,Not Rated,0.071,0,No Tip,5,Standard,No,No,3,0,0,2016/SUBARU/BRZ/2016 Subaru BRZ 2 DR RWD.png
 10180,2016,SUBARU,CROSSTREK,2016 Subaru Crosstrek SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,Optional,Optional,132,1,0,2016/SUBARU/CROSSTREK/2016 Subaru Crosstrek SUV AWD.png
 10181,2016,SUBARU,CROSSTREK HYBRID,2016 Subaru Crosstrek Hybrid SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,4,Standard,No,No,132,1,0,2016/SUBARU/CROSSTREK HYBRID/2016 Subaru Crosstrek Hybrid SUV AWD.png
-10182,2016,SUBARU,FORESTER,2016 Subaru Forester SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,415,3,1,2016/SUBARU/FORESTER/2016 Subaru Forester SUV AWD.png
+10182,2016,SUBARU,FORESTER,2016 Subaru Forester SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,416,3,1,2016/SUBARU/FORESTER/2016 Subaru Forester SUV AWD.png
 10178,2016,SUBARU,IMPREZA,2016 Subaru Impreza 4 DR AWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,4,Standard,Optional,Optional,75,1,0,2016/SUBARU/IMPREZA/2016 Subaru Impreza 4 DR AWD.png
 10179,2016,SUBARU,IMPREZA,2016 Subaru Impreza SW AWD,,5,4,4,4,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,4,Standard,Optional,Optional,75,1,0,2016/SUBARU/IMPREZA/2016 Subaru Impreza SW AWD.png
 10176,2016,SUBARU,LEGACY,2016 Subaru Legacy 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,147,3,1,2016/SUBARU/LEGACY/2016 Subaru Legacy 4 DR AWD.png
@@ -728,8 +728,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 10077,2016,VOLKSWAGEN,TIGUAN,2016 Volkswagen Tiguan SUV AWD,,4,3,4,3,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,4,Standard,No,No,97,2,2,2016/VOLKSWAGEN/TIGUAN/2016 Volkswagen Tiguan SUV AWD.png
 10894,2016,VOLKSWAGEN,TOUAREG,2016 Volkswagen Touareg SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,45,2,0,2016/VOLKSWAGEN/TOUAREG/2016 Volkswagen Touareg SUV AWD.png
 10887,2016,VOLKSWAGEN,eGOLF,2016 Volkswagen eGolf 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,No,17,5,1,2016/VOLKSWAGEN/eGOLF/2016 Volkswagen eGolf 4 DR FWD.png
-10067,2016,VOLVO,S60,2016 Volvo S60 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.1,0,No Tip,5,Standard,Optional,Optional,27,4,0,2016/VOLVO/S60/2016 Volvo S60 4 DR AWD.png
-10068,2016,VOLVO,S60,2016 Volvo S60 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.1,0,No Tip,5,Standard,Optional,Optional,27,4,0,2016/VOLVO/S60/2016 Volvo S60 4 DR FWD.png
+10067,2016,VOLVO,S60,2016 Volvo S60 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.1,0,No Tip,5,Standard,Optional,Optional,28,4,0,2016/VOLVO/S60/2016 Volvo S60 4 DR AWD.png
+10068,2016,VOLVO,S60,2016 Volvo S60 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.1,0,No Tip,5,Standard,Optional,Optional,28,4,0,2016/VOLVO/S60/2016 Volvo S60 4 DR FWD.png
 10895,2016,VOLVO,S60CC,2016 Volvo S60CC 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,27,4,0,2016/VOLVO/S60CC/2016 Volvo S60CC 4 DR AWD.png
 10323,2016,VOLVO,S60I,2016 Volvo S60I 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,26,4,0,2016/VOLVO/S60I/2016 Volvo S60I 4 DR FWD.png
 10324,2016,VOLVO,S60I,2016 Volvo S60I 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.101,0,No Tip,5,Standard,Optional,Optional,26,4,0,2016/VOLVO/S60I/2016 Volvo S60I 4 DR AWD.png
