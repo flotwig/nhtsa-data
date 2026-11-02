@@ -14,7 +14,7 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 
 | Model Year | Ratings | File |
 |------------|---------:|------|
-| 2027 | 908 | [vehicle_safety_ratings_2027.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2027.csv) |
+| 2027 | 916 | [vehicle_safety_ratings_2027.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2027.csv) |
 | 2026 | 1,419 | [vehicle_safety_ratings_2026.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2026.csv) |
 | 2025 | 737 | [vehicle_safety_ratings_2025.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2025.csv) |
 | 2024 | 847 | [vehicle_safety_ratings_2024.csv](./vehicle_safety_ratings/vehicle_safety_ratings_2024.csv) |
@@ -52,7 +52,7 @@ This repository contains datasets collected from the [NHTSA APIs](https://www.nh
 | 1992 | 107 | [vehicle_safety_ratings_1992.csv](./vehicle_safety_ratings/vehicle_safety_ratings_1992.csv) |
 | 1991 | 103 | [vehicle_safety_ratings_1991.csv](./vehicle_safety_ratings/vehicle_safety_ratings_1991.csv) |
 | 1990 | 65 | [vehicle_safety_ratings_1990.csv](./vehicle_safety_ratings/vehicle_safety_ratings_1990.csv) |
-| **Total** | **19,019** | |
+| **Total** | **19,027** | |
 
 
 ## NHTSA Vehicle Recall Data
