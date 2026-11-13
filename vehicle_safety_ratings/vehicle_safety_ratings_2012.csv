@@ -97,10 +97,10 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6003,2012,BMW,Z4 SDRIVE35IS,2012 BMW Z4 Sdrive35IS 2 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,5,4,1,2012/BMW/Z4 SDRIVE35IS/2012 BMW Z4 Sdrive35IS 2 DR RWD.png
 6438,2012,BUICK,ENCLAVE,2012 Buick Enclave SUV FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,No,No,133,6,2,2012/BUICK/ENCLAVE/2012 Buick Enclave SUV FWD.png
 6658,2012,BUICK,ENCLAVE,2012 Buick Enclave SUV AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,No,No,133,6,2,2012/BUICK/ENCLAVE/2012 Buick Enclave SUV AWD.png
-6504,2012,BUICK,LACROSSE,2012 Buick Lacrosse 4 DR FWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,206,5,2,2012/BUICK/LACROSSE/2012 Buick Lacrosse 4 DR FWD.png
-6702,2012,BUICK,LACROSSE,2012 Buick Lacrosse 4 DR AWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,206,5,2,2012/BUICK/LACROSSE/2012 Buick Lacrosse 4 DR AWD.png
-6735,2012,BUICK,LACROSSE EASSIST,2012 Buick Lacrosse eAssist 4 DR FWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,2,0,0,2012/BUICK/LACROSSE EASSIST/2012 Buick Lacrosse eAssist 4 DR FWD.png
-6736,2012,BUICK,LACROSSE EASSIST,2012 Buick Lacrosse eAssist 4 DR AWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,2,0,0,2012/BUICK/LACROSSE EASSIST/2012 Buick Lacrosse eAssist 4 DR AWD.png
+6504,2012,BUICK,LACROSSE,2012 Buick Lacrosse 4 DR FWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,207,5,2,2012/BUICK/LACROSSE/2012 Buick Lacrosse 4 DR FWD.png
+6702,2012,BUICK,LACROSSE,2012 Buick Lacrosse 4 DR AWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,207,5,2,2012/BUICK/LACROSSE/2012 Buick Lacrosse 4 DR AWD.png
+6735,2012,BUICK,LACROSSE EASSIST,2012 Buick Lacrosse eAssist 4 DR FWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,3,0,0,2012/BUICK/LACROSSE EASSIST/2012 Buick Lacrosse eAssist 4 DR FWD.png
+6736,2012,BUICK,LACROSSE EASSIST,2012 Buick Lacrosse eAssist 4 DR AWD,,5,5,5,5,5,5,4,5,4,5,4,Not Rated,0.118,0,No Tip,4,Standard,No,No,3,0,0,2012/BUICK/LACROSSE EASSIST/2012 Buick Lacrosse eAssist 4 DR AWD.png
 6503,2012,BUICK,REGAL,2012 Buick Regal 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,92,7,2,2012/BUICK/REGAL/2012 Buick Regal 4 DR FWD.png
 6701,2012,BUICK,REGAL,2012 Buick Regal 4 DR AWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,92,7,2,2012/BUICK/REGAL/2012 Buick Regal 4 DR AWD.png
 6738,2012,BUICK,REGAL EASSIST,2012 Buick Regal eAssist 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,No,No,90,5,2,2012/BUICK/REGAL EASSIST/2012 Buick Regal eAssist 4 DR FWD.png
@@ -222,12 +222,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6704,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,604,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x4.png
 6401,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x2.png
 6705,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x4.png
-6402,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,118,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x2.png
-6706,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,118,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x4.png
-6724,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,118,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x2.png
-6725,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,118,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x4.png
-6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,830,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
-6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,830,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
+6402,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,119,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x2.png
+6706,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,119,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x4.png
+6724,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,119,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x2.png
+6725,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,119,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x4.png
+6404,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,831,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV FWD.png
+6708,2012,FORD,EXPLORER,2012 Ford Explorer 4 DR SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,831,7,4,2012/FORD/EXPLORER/2012 Ford Explorer 4 DR SUV AWD.png
 6405,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x2,,4,4,4,3,5,5,Not Rated,5,0,5,4,Not Rated,0.198,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x2.png
 6709,2012,FORD,F-150 REGULAR CAB,2012 Ford F-150 Regular Cab PU/RC 4x4,,4,4,4,3,5,5,Not Rated,5,0,5,3,Not Rated,0.228,0,No Tip,4,Standard,No,No,1717,4,4,2012/FORD/F-150 REGULAR CAB/2012 Ford F-150 Regular Cab PU_RC 4x4.png
 6407,2012,FORD,F-150 SUPER CREW,2012 Ford F-150 Super Crew PU/CC 4x2,,4,3,4,3,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,1717,4,4,2012/FORD/F-150 SUPER CREW/2012 Ford F-150 Super Crew PU_CC 4x2.png

@@ -214,8 +214,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 711,2011,FORD,E-350 P15,2011 Ford E-350 P15 VAN RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,2,Not Rated,0.306,0,No Tip,Not Rated,Standard,No,No,19,20,0,2011/FORD/E-350 P15/2011 Ford E-350 P15 VAN RWD.png
 146,2011,FORD,EDGE,2011 Ford Edge SUV FWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,Optional,No,1803,3,1,2011/FORD/EDGE/2011 Ford Edge SUV FWD.png
 496,2011,FORD,EDGE,2011 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,1803,3,1,2011/FORD/EDGE/2011 Ford Edge SUV AWD.png
-147,2011,FORD,ESCAPE,2011 Ford Escape SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,1319,3,4,2011/FORD/ESCAPE/2011 Ford Escape SUV 4x2.png
-497,2011,FORD,ESCAPE,2011 Ford Escape SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,1319,3,4,2011/FORD/ESCAPE/2011 Ford Escape SUV 4x4.png
+147,2011,FORD,ESCAPE,2011 Ford Escape SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,1320,3,4,2011/FORD/ESCAPE/2011 Ford Escape SUV 4x2.png
+497,2011,FORD,ESCAPE,2011 Ford Escape SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,1320,3,4,2011/FORD/ESCAPE/2011 Ford Escape SUV 4x4.png
 148,2011,FORD,ESCAPE HEV,2011 Ford Escape Hev SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,1334,3,5,2011/FORD/ESCAPE HEV/2011 Ford Escape Hev SUV 4x2.png
 498,2011,FORD,ESCAPE HEV,2011 Ford Escape Hev SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,1334,3,5,2011/FORD/ESCAPE HEV/2011 Ford Escape Hev SUV 4x4.png
 149,2011,FORD,EXPEDITION,2011 Ford Expedition SUV 4x2,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.212,0,No Tip,Not Rated,Standard,No,No,71,0,1,2011/FORD/EXPEDITION/2011 Ford Expedition SUV 4x2.png
@@ -636,7 +636,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 698,2011,TOYOTA,CAMRY,2011 Toyota Camry 4 DR FWD Later Release,,4,3,4,2,4,5,4,5,4,5,4,Not Rated,0.107,0,No Tip,2,Standard,No,No,625,5,2,2011/TOYOTA/CAMRY/2011 Toyota Camry 4 DR FWD Later Release.png
 447,2011,TOYOTA,CAMRY HV,2011 Toyota Camry HV 4 DR FWD Early Release,,3,3,4,2,3,5,2,4,2,3,4,Not Rated,0.107,0,No Tip,2,Standard,No,No,625,5,2,2011/TOYOTA/CAMRY HV/2011 Toyota Camry HV 4 DR FWD Early Release.png
 699,2011,TOYOTA,CAMRY HV,2011 Toyota Camry HV 4 DR FWD Later Release,,4,3,4,2,4,5,4,5,4,5,4,Not Rated,0.107,0,No Tip,2,Standard,No,No,625,5,2,2011/TOYOTA/CAMRY HV/2011 Toyota Camry HV 4 DR FWD Later Release.png
-448,2011,TOYOTA,COROLLA,2011 Toyota Corolla 4 DR FWD,,3,4,5,4,2,5,2,4,2,3,4,Not Rated,0.121,0,No Tip,1,Standard,No,No,590,9,3,2011/TOYOTA/COROLLA/2011 Toyota Corolla 4 DR FWD.png
+448,2011,TOYOTA,COROLLA,2011 Toyota Corolla 4 DR FWD,,3,4,5,4,2,5,2,4,2,3,4,Not Rated,0.121,0,No Tip,1,Standard,No,No,591,9,3,2011/TOYOTA/COROLLA/2011 Toyota Corolla 4 DR FWD.png
 449,2011,TOYOTA,FJ CRUISER,2011 Toyota FJ Cruiser SUV RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.256,0,No Tip,Not Rated,Standard,No,No,23,7,0,2011/TOYOTA/FJ CRUISER/2011 Toyota FJ Cruiser SUV RWD.png
 623,2011,TOYOTA,FJ CRUISER,2011 Toyota FJ Cruiser SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,3,Not Rated,0.267,0,No Tip,Not Rated,Standard,No,No,23,7,0,2011/TOYOTA/FJ CRUISER/2011 Toyota FJ Cruiser SUV AWD.png
 450,2011,TOYOTA,HIGHLANDER,2011 Toyota Highlander SUV FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,5,Standard,No,No,187,5,3,2011/TOYOTA/HIGHLANDER/2011 Toyota Highlander SUV FWD.png

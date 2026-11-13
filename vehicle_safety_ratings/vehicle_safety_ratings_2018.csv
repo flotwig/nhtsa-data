@@ -71,11 +71,11 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12514,2018,BMW,2 SERIES,2018 BMW 2 Series 2 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,3,2,0,2018/BMW/2 SERIES/2018 BMW 2 Series 2 DR AWD.png
 12516,2018,BMW,2 SERIES,2018 BMW 2 Series C AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,3,2,0,2018/BMW/2 SERIES/2018 BMW 2 Series C AWD.png
 12517,2018,BMW,2 SERIES,2018 BMW 2 Series C RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,3,2,0,2018/BMW/2 SERIES/2018 BMW 2 Series C RWD.png
-12088,2018,BMW,3 SERIES,2018 BMW 3 Series 4 DR RWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,60,5,2,2018/BMW/3 SERIES/2018 BMW 3 Series 4 DR RWD.png
-12089,2018,BMW,3 SERIES,2018 BMW 3 Series 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,60,5,2,2018/BMW/3 SERIES/2018 BMW 3 Series 4 DR AWD.png
-12090,2018,BMW,3 SERIES,2018 BMW 3 Series SW AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,60,5,2,2018/BMW/3 SERIES/2018 BMW 3 Series SW AWD.png
-12091,2018,BMW,3 SERIES GT,2018 BMW 3 Series GT 5 HB AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,60,5,2,2018/BMW/3 SERIES GT/2018 BMW 3 Series GT 5 HB AWD.png
-12527,2018,BMW,3 SERIES PHEV,2018 BMW 3 Series PHEV 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,60,5,2,2018/BMW/3 SERIES PHEV/2018 BMW 3 Series PHEV 4 DR RWD.png
+12088,2018,BMW,3 SERIES,2018 BMW 3 Series 4 DR RWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,61,5,2,2018/BMW/3 SERIES/2018 BMW 3 Series 4 DR RWD.png
+12089,2018,BMW,3 SERIES,2018 BMW 3 Series 4 DR AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,61,5,2,2018/BMW/3 SERIES/2018 BMW 3 Series 4 DR AWD.png
+12090,2018,BMW,3 SERIES,2018 BMW 3 Series SW AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,61,5,2,2018/BMW/3 SERIES/2018 BMW 3 Series SW AWD.png
+12091,2018,BMW,3 SERIES GT,2018 BMW 3 Series GT 5 HB AWD,,5,4,4,5,5,5,5,5,5,5,5,Not Rated,0.095,0,No Tip,5,Standard,Optional,Optional,61,5,2,2018/BMW/3 SERIES GT/2018 BMW 3 Series GT 5 HB AWD.png
+12527,2018,BMW,3 SERIES PHEV,2018 BMW 3 Series PHEV 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,61,5,2,2018/BMW/3 SERIES PHEV/2018 BMW 3 Series PHEV 4 DR RWD.png
 12519,2018,BMW,4 SERIES,2018 BMW 4 Series 4 DR RWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,34,1,0,2018/BMW/4 SERIES/2018 BMW 4 Series 4 DR RWD.png
 12520,2018,BMW,4 SERIES,2018 BMW 4 Series 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,34,1,0,2018/BMW/4 SERIES/2018 BMW 4 Series 4 DR AWD.png
 12521,2018,BMW,4 SERIES,2018 BMW 4 Series 2 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,34,1,0,2018/BMW/4 SERIES/2018 BMW 4 Series 2 DR AWD.png
@@ -206,7 +206,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12191,2018,CHEVROLET,VOLT,2018 Chevrolet Volt 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,Optional,Optional,228,2,2,2018/CHEVROLET/VOLT/2018 Chevrolet Volt 5 HB FWD.png
 12417,2018,CHRYSLER,300,2018 Chrysler 300 4 DR RWD,,4,4,4,4,5,4,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,153,4,0,2018/CHRYSLER/300/2018 Chrysler 300 4 DR RWD.png
 12418,2018,CHRYSLER,300,2018 Chrysler 300 4 DR AWD,,4,4,4,4,5,4,5,4,5,5,4,Not Rated,0.113,0,No Tip,5,Standard,Optional,No,153,4,0,2018/CHRYSLER/300/2018 Chrysler 300 4 DR AWD.png
-12419,2018,CHRYSLER,PACIFICA,2018 Chrysler Pacifica VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,Optional,897,12,4,2018/CHRYSLER/PACIFICA/2018 Chrysler Pacifica VAN FWD.png
+12419,2018,CHRYSLER,PACIFICA,2018 Chrysler Pacifica VAN FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,Optional,Optional,899,12,4,2018/CHRYSLER/PACIFICA/2018 Chrysler Pacifica VAN FWD.png
 12420,2018,CHRYSLER,PACIFICA PHEV,2018 Chrysler Pacifica PHEV VAN FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,225,6,5,2018/CHRYSLER/PACIFICA PHEV/2018 Chrysler Pacifica PHEV VAN FWD.png
 12422,2018,DODGE,CHALLENGER,2018 Dodge Challenger 2 DR AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,Optional,No,75,4,1,2018/DODGE/CHALLENGER/2018 Dodge Challenger 2 DR AWD.png
 12423,2018,DODGE,CHALLENGER,2018 Dodge Challenger 2 DR RWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,Optional,No,75,4,1,2018/DODGE/CHALLENGER/2018 Dodge Challenger 2 DR RWD.png
@@ -235,12 +235,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12102,2018,FORD,CMAX HEV,2018 Ford CMAX Hybrid 5 HB FWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,10,1,0,2018/FORD/CMAX HEV/2018 Ford CMAX Hybrid 5 HB FWD.png
 12169,2018,FORD,ECOSPORT,2018 Ford EcoSport 4 DR FWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.204,0,No Tip,5,Standard,No,No,728,2,1,2018/FORD/ECOSPORT/2018 Ford EcoSport 4 DR FWD.png
 12170,2018,FORD,ECOSPORT,2018 Ford EcoSport 4 DR AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,No,No,728,2,1,2018/FORD/ECOSPORT/2018 Ford EcoSport 4 DR AWD.png
-12113,2018,FORD,EDGE,2018 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,854,7,1,2018/FORD/EDGE/2018 Ford Edge SUV FWD.png
-12114,2018,FORD,EDGE,2018 Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,854,7,1,2018/FORD/EDGE/2018 Ford Edge SUV AWD.png
+12113,2018,FORD,EDGE,2018 Ford Edge SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,855,7,1,2018/FORD/EDGE/2018 Ford Edge SUV FWD.png
+12114,2018,FORD,EDGE,2018 Ford Edge SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,855,7,1,2018/FORD/EDGE/2018 Ford Edge SUV AWD.png
 12115,2018,FORD,ESCAPE,2018 Ford Escape SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.191,0,No Tip,5,Standard,Optional,Optional,1829,4,0,2018/FORD/ESCAPE/2018 Ford Escape SUV FWD.png
 12116,2018,FORD,ESCAPE,2018 Ford Escape SUV AWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,Optional,Optional,1829,4,0,2018/FORD/ESCAPE/2018 Ford Escape SUV AWD.png
-12152,2018,FORD,EXPEDITION,2018 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.208,0,No Tip,5,Standard,Optional,Optional,383,12,1,2018/FORD/EXPEDITION/2018 Ford Expedition SUV 4x2.png
-12153,2018,FORD,EXPEDITION,2018 Ford Expedition SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.193,0,No Tip,5,Standard,Optional,Optional,383,12,1,2018/FORD/EXPEDITION/2018 Ford Expedition SUV 4x4.png
+12152,2018,FORD,EXPEDITION,2018 Ford Expedition SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.208,0,No Tip,5,Standard,Optional,Optional,384,12,1,2018/FORD/EXPEDITION/2018 Ford Expedition SUV 4x2.png
+12153,2018,FORD,EXPEDITION,2018 Ford Expedition SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.193,0,No Tip,5,Standard,Optional,Optional,384,12,1,2018/FORD/EXPEDITION/2018 Ford Expedition SUV 4x4.png
 12144,2018,FORD,EXPEDITION EL,2018 Ford Expedition EL EXTENDED SUV 4x2,,5,5,5,5,5,5,5,5,5,5,3,Not Rated,0.208,0,No Tip,5,Standard,Optional,Optional,307,6,0,2018/FORD/EXPEDITION EL/2018 Ford Expedition EL EXTENDED SUV 4x2.png
 12145,2018,FORD,EXPEDITION EL,2018 Ford Expedition EL EXTENDED SUV 4x4,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.193,0,No Tip,5,Standard,Optional,Optional,307,6,0,2018/FORD/EXPEDITION EL/2018 Ford Expedition EL EXTENDED SUV 4x4.png
 12117,2018,FORD,EXPLORER,2018 Ford Explorer 4 DR SUV FWD,,5,5,4,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,735,7,2,2018/FORD/EXPLORER/2018 Ford Explorer 4 DR SUV FWD.png
@@ -267,8 +267,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12097,2018,FORD,FIESTA,2018 Ford Fiesta 5 HB FWD,,4,4,5,4,4,4,4,4,4,4,4,Not Rated,0.143,0,No Tip,5,Standard,No,No,35,0,0,2018/FORD/FIESTA/2018 Ford Fiesta 5 HB FWD.png
 12111,2018,FORD,FLEX,2018 Ford Flex SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,No,69,3,1,2018/FORD/FLEX/2018 Ford Flex SUV FWD.png
 12112,2018,FORD,FLEX,2018 Ford Flex SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,No,69,3,1,2018/FORD/FLEX/2018 Ford Flex SUV AWD.png
-12098,2018,FORD,FOCUS,2018 Ford Focus 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,Optional,838,7,5,2018/FORD/FOCUS/2018 Ford Focus 4 DR FWD.png
-12099,2018,FORD,FOCUS,2018 Ford Focus 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,Optional,838,7,5,2018/FORD/FOCUS/2018 Ford Focus 5 HB FWD.png
+12098,2018,FORD,FOCUS,2018 Ford Focus 4 DR FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,Optional,839,7,5,2018/FORD/FOCUS/2018 Ford Focus 4 DR FWD.png
+12099,2018,FORD,FOCUS,2018 Ford Focus 5 HB FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.116,0,No Tip,5,Standard,No,Optional,839,7,5,2018/FORD/FOCUS/2018 Ford Focus 5 HB FWD.png
 12101,2018,FORD,FOCUS BEV,2018 Ford Focus Bev 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,5,Not Rated,0.101,0,No Tip,Not Rated,Standard,No,No,743,2,4,2018/FORD/FOCUS BEV/2018 Ford Focus Bev 5 HB FWD.png
 12100,2018,FORD,FOCUS RS,2018 Ford Focus RS 5 HB AWD,,5,4,4,4,5,4,5,4,5,5,4,Not Rated,0.111,0,No Tip,5,Standard,No,No,743,2,4,2018/FORD/FOCUS RS/2018 Ford Focus RS 5 HB AWD.png
 12103,2018,FORD,FUSION,2018 Ford Fusion 4 DR FWD,,5,4,5,3,5,5,5,5,5,5,4,Not Rated,0.109,0,No Tip,5,Standard,Optional,Optional,445,2,1,2018/FORD/FUSION/2018 Ford Fusion 4 DR FWD.png
@@ -330,8 +330,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12026,2018,GMC,TERRAIN,2018 GMC Terrain SUV AWD Early Release,,4,5,5,5,4,5,3,5,3,4,4,Not Rated,0.165,0,No Tip,5,Standard,Optional,Optional,227,5,0,2018/GMC/TERRAIN/2018 GMC Terrain SUV AWD Early Release.png
 12808,2018,GMC,TERRAIN,2018 GMC Terrain SUV AWD Later Release,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,17,0,0,2018/GMC/TERRAIN/2018 GMC Terrain SUV AWD Later Release.png
 12809,2018,GMC,TERRAIN,2018 GMC Terrain SUV FWD Later Release,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.185,0,No Tip,5,Standard,Optional,Optional,17,0,0,2018/GMC/TERRAIN/2018 GMC Terrain SUV FWD Later Release.png
-12245,2018,GMC,YUKON,2018 GMC Yukon SUV 4WD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.222,0,No Tip,5,Standard,Optional,Optional,70,3,0,2018/GMC/YUKON/2018 GMC Yukon SUV 4WD.png
-12246,2018,GMC,YUKON,2018 GMC Yukon SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.229,0,No Tip,5,Standard,Optional,Optional,70,3,0,2018/GMC/YUKON/2018 GMC Yukon SUV RWD.png
+12245,2018,GMC,YUKON,2018 GMC Yukon SUV 4WD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.222,0,No Tip,5,Standard,Optional,Optional,71,3,0,2018/GMC/YUKON/2018 GMC Yukon SUV 4WD.png
+12246,2018,GMC,YUKON,2018 GMC Yukon SUV RWD,,4,5,5,5,5,5,5,5,5,5,3,Not Rated,0.229,0,No Tip,5,Standard,Optional,Optional,71,3,0,2018/GMC/YUKON/2018 GMC Yukon SUV RWD.png
 12247,2018,GMC,YUKON XL 1500,2018 GMC Yukon XL 1500 SUV RWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,4,Standard,Optional,Optional,57,2,0,2018/GMC/YUKON XL 1500/2018 GMC Yukon XL 1500 SUV RWD.png
 12248,2018,GMC,YUKON XL 1500,2018 GMC Yukon XL 1500 SUV 4WD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.203,0,No Tip,4,Standard,Optional,Optional,57,2,0,2018/GMC/YUKON XL 1500/2018 GMC Yukon XL 1500 SUV 4WD.png
 12650,2018,HONDA,ACCORD,2018 Honda Accord 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.093,0,No Tip,5,Standard,Standard,Standard,1900,6,2,2018/HONDA/ACCORD/2018 Honda Accord 4 DR FWD.png
@@ -345,8 +345,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12821,2018,HONDA,CLARITY ELECTRIC,2018 Honda Clarity Electric 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,24,0,1,2018/HONDA/CLARITY ELECTRIC/2018 Honda Clarity Electric 4 DR FWD.png
 12651,2018,HONDA,CLARITY FUEL CELL,2018 Honda Clarity Fuel Cell 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,2,2,0,2018/HONDA/CLARITY FUEL CELL/2018 Honda Clarity Fuel Cell 4 DR FWD.png
 12822,2018,HONDA,CLARITY PLUG-IN,2018 Honda Clarity Plug-In 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,0,0,0,2018/HONDA/CLARITY PLUG-IN/2018 Honda Clarity Plug-In 4 DR FWD.png
-12640,2018,HONDA,CR-V,2018 Honda CR-V SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.163,0,No Tip,5,Standard,Optional,Optional,2168,5,3,2018/HONDA/CR-V/2018 Honda CR-V SUV FWD.png
-12641,2018,HONDA,CR-V,2018 Honda CR-V SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.162,0,No Tip,5,Standard,Optional,Optional,2168,5,3,2018/HONDA/CR-V/2018 Honda CR-V SUV AWD.png
+12640,2018,HONDA,CR-V,2018 Honda CR-V SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.163,0,No Tip,5,Standard,Optional,Optional,2169,5,3,2018/HONDA/CR-V/2018 Honda CR-V SUV FWD.png
+12641,2018,HONDA,CR-V,2018 Honda CR-V SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.162,0,No Tip,5,Standard,Optional,Optional,2169,5,3,2018/HONDA/CR-V/2018 Honda CR-V SUV AWD.png
 12412,2018,HONDA,FIT,2018 Honda Fit 5 HB FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,Optional,Optional,117,4,0,2018/HONDA/FIT/2018 Honda Fit 5 HB FWD.png
 12413,2018,HONDA,HR-V,2018 Honda HR-V SUV FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.153,0,No Tip,5,Standard,No,No,161,3,1,2018/HONDA/HR-V/2018 Honda HR-V SUV FWD.png
 12414,2018,HONDA,HR-V,2018 Honda HR-V SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.135,0,No Tip,5,Standard,No,No,161,3,1,2018/HONDA/HR-V/2018 Honda HR-V SUV AWD.png
@@ -403,12 +403,12 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12585,2018,JAGUAR,XJ (LWB),2018 Jaguar XJ (LWB) 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1,0,0,2018/JAGUAR/XJ (LWB)/2018 Jaguar XJ (LWB) 4 DR FWD.png
 12586,2018,JAGUAR,XJ (SWB),2018 Jaguar XJ (SWB) 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1,0,0,2018/JAGUAR/XJ (SWB)/2018 Jaguar XJ (SWB) 4 DR FWD.png
 12587,2018,JAGUAR,XJ (SWB),2018 Jaguar XJ (SWB) 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,1,0,0,2018/JAGUAR/XJ (SWB)/2018 Jaguar XJ (SWB) 4 DR AWD.png
-12446,2018,JEEP,CHEROKEE,2018 Jeep Cherokee SUV 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,690,7,1,2018/JEEP/CHEROKEE/2018 Jeep Cherokee SUV 2WD.png
-12447,2018,JEEP,CHEROKEE,2018 Jeep Cherokee SUV 4WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,690,7,1,2018/JEEP/CHEROKEE/2018 Jeep Cherokee SUV 4WD.png
-12442,2018,JEEP,COMPASS,2018 Jeep Compass SUV AWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.206,0,No Tip,5,Standard,Optional,Optional,950,6,0,2018/JEEP/COMPASS/2018 Jeep Compass SUV AWD.png
-12443,2018,JEEP,COMPASS,2018 Jeep Compass SUV FWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.202,0,No Tip,5,Standard,Optional,Optional,950,6,0,2018/JEEP/COMPASS/2018 Jeep Compass SUV FWD.png
-12448,2018,JEEP,GRAND CHEROKEE,2018 Jeep Grand Cherokee SUV 4WD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,855,11,3,2018/JEEP/GRAND CHEROKEE/2018 Jeep Grand Cherokee SUV 4WD.png
-12449,2018,JEEP,GRAND CHEROKEE,2018 Jeep Grand Cherokee SUV 2WD,,4,4,4,5,5,5,5,5,5,5,3,Not Rated,0.204,0,No Tip,5,Standard,Optional,Optional,855,11,3,2018/JEEP/GRAND CHEROKEE/2018 Jeep Grand Cherokee SUV 2WD.png
+12446,2018,JEEP,CHEROKEE,2018 Jeep Cherokee SUV 2WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,Optional,692,7,1,2018/JEEP/CHEROKEE/2018 Jeep Cherokee SUV 2WD.png
+12447,2018,JEEP,CHEROKEE,2018 Jeep Cherokee SUV 4WD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,692,7,1,2018/JEEP/CHEROKEE/2018 Jeep Cherokee SUV 4WD.png
+12442,2018,JEEP,COMPASS,2018 Jeep Compass SUV AWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.206,0,No Tip,5,Standard,Optional,Optional,951,6,0,2018/JEEP/COMPASS/2018 Jeep Compass SUV AWD.png
+12443,2018,JEEP,COMPASS,2018 Jeep Compass SUV FWD,,4,4,4,4,5,5,5,5,5,5,3,Not Rated,0.202,0,No Tip,5,Standard,Optional,Optional,951,6,0,2018/JEEP/COMPASS/2018 Jeep Compass SUV FWD.png
+12448,2018,JEEP,GRAND CHEROKEE,2018 Jeep Grand Cherokee SUV 4WD,,4,4,4,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,856,11,3,2018/JEEP/GRAND CHEROKEE/2018 Jeep Grand Cherokee SUV 4WD.png
+12449,2018,JEEP,GRAND CHEROKEE,2018 Jeep Grand Cherokee SUV 2WD,,4,4,4,5,5,5,5,5,5,5,3,Not Rated,0.204,0,No Tip,5,Standard,Optional,Optional,856,11,3,2018/JEEP/GRAND CHEROKEE/2018 Jeep Grand Cherokee SUV 2WD.png
 12450,2018,JEEP,GRAND CHEROKEE SRT,2018 Jeep Grand Cherokee SRT SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,685,10,3,2018/JEEP/GRAND CHEROKEE SRT/2018 Jeep Grand Cherokee SRT SUV 4WD.png
 12451,2018,JEEP,GRAND CHEROKEE TRACKHAWK,2018 Jeep Grand Cherokee Trackhawk SUV 4WD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,685,10,3,2018/JEEP/GRAND CHEROKEE TRACKHAWK/2018 Jeep Grand Cherokee Trackhawk SUV 4WD.png
 12791,2018,JEEP,RENEGADE,2018 Jeep Renegade SUV 4WD,,4,4,4,4,5,5,3,5,3,5,3,Not Rated,0.23,0,No Tip,5,Standard,No,No,444,2,0,2018/JEEP/RENEGADE/2018 Jeep Renegade SUV 4WD.png
@@ -433,8 +433,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12037,2018,KIA,SORENTO,2018 Kia Sorento SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.15,0,No Tip,5,Standard,Optional,Optional,255,3,1,2018/KIA/SORENTO/2018 Kia Sorento SUV AWD.png
 12039,2018,KIA,SOUL,2018 Kia Soul SUV FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,Optional,Optional,221,1,0,2018/KIA/SOUL/2018 Kia Soul SUV FWD.png
 12676,2018,KIA,SOUL EV,2018 Kia Soul EV SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,224,3,2,2018/KIA/SOUL EV/2018 Kia Soul EV SUV FWD.png
-12034,2018,KIA,SPORTAGE,2018 Kia Sportage SUV FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,165,3,1,2018/KIA/SPORTAGE/2018 Kia Sportage SUV FWD.png
-12035,2018,KIA,SPORTAGE,2018 Kia Sportage SUV AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,Optional,Optional,165,3,1,2018/KIA/SPORTAGE/2018 Kia Sportage SUV AWD.png
+12034,2018,KIA,SPORTAGE,2018 Kia Sportage SUV FWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.155,0,No Tip,5,Standard,Optional,Optional,166,3,1,2018/KIA/SPORTAGE/2018 Kia Sportage SUV FWD.png
+12035,2018,KIA,SPORTAGE,2018 Kia Sportage SUV AWD,,5,4,4,5,5,5,5,5,5,5,4,Not Rated,0.147,0,No Tip,5,Standard,Optional,Optional,166,3,1,2018/KIA/SPORTAGE/2018 Kia Sportage SUV AWD.png
 12681,2018,KIA,STINGER,2018 Kia Stinger 4 DR FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,72,4,0,2018/KIA/STINGER/2018 Kia Stinger 4 DR FWD.png
 12682,2018,KIA,STINGER,2018 Kia Stinger 4 DR AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Optional,Optional,72,4,0,2018/KIA/STINGER/2018 Kia Stinger 4 DR AWD.png
 12600,2018,LAND ROVER,DISCOVERY,2018 Land Rover Discovery SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,No,No,37,4,0,2018/LAND ROVER/DISCOVERY/2018 Land Rover Discovery SUV AWD.png
@@ -479,8 +479,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12312,2018,LEXUS,RX450HL,2018 Lexus RX450HL SUV AWD,,4,4,4,4,5,5,5,5,5,5,4,Not Rated,0.167,0,No Tip,5,Standard,Standard,Standard,26,0,0,2018/LEXUS/RX450HL/2018 Lexus RX450HL SUV AWD.png
 12163,2018,LINCOLN,CONTINENTAL,2018 Lincoln Continental 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.106,0,No Tip,5,Standard,Optional,Optional,21,2,0,2018/LINCOLN/CONTINENTAL/2018 Lincoln Continental 4 DR FWD.png
 12164,2018,LINCOLN,CONTINENTAL,2018 Lincoln Continental 4 DR AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.106,0,No Tip,5,Standard,Optional,Optional,21,2,0,2018/LINCOLN/CONTINENTAL/2018 Lincoln Continental 4 DR AWD.png
-12161,2018,LINCOLN,MKC,2018 Lincoln MKC SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,78,4,0,2018/LINCOLN/MKC/2018 Lincoln MKC SUV FWD.png
-12162,2018,LINCOLN,MKC,2018 Lincoln MKC SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,78,4,0,2018/LINCOLN/MKC/2018 Lincoln MKC SUV AWD.png
+12161,2018,LINCOLN,MKC,2018 Lincoln MKC SUV FWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.164,0,No Tip,5,Standard,Optional,Optional,79,4,0,2018/LINCOLN/MKC/2018 Lincoln MKC SUV FWD.png
+12162,2018,LINCOLN,MKC,2018 Lincoln MKC SUV AWD,,4,4,5,4,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,Optional,79,4,0,2018/LINCOLN/MKC/2018 Lincoln MKC SUV AWD.png
 12157,2018,LINCOLN,MKT,2018 Lincoln MKT SUV FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.164,0,No Tip,Not Rated,Standard,Optional,Optional,7,2,0,2018/LINCOLN/MKT/2018 Lincoln MKT SUV FWD.png
 12158,2018,LINCOLN,MKT,2018 Lincoln MKT SUV AWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,4,Not Rated,0.151,0,No Tip,Not Rated,Standard,Optional,Optional,7,2,0,2018/LINCOLN/MKT/2018 Lincoln MKT SUV AWD.png
 12159,2018,LINCOLN,MKX,2018 Lincoln MKX SUV FWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.154,0,No Tip,5,Standard,Optional,Optional,31,5,0,2018/LINCOLN/MKX/2018 Lincoln MKX SUV FWD.png
@@ -503,8 +503,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12043,2018,MAZDA,CX-3,2018 Mazda CX-3 SUV AWD,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.136,0,No Tip,5,Standard,Optional,No,10,1,0,2018/MAZDA/CX-3/2018 Mazda CX-3 SUV AWD.png
 12055,2018,MAZDA,CX-5,2018 Mazda CX-5 SUV FWD Early Release,,4,5,5,5,5,5,4,5,4,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,231,3,0,2018/MAZDA/CX-5/2018 Mazda CX-5 SUV FWD Early Release.png
 12056,2018,MAZDA,CX-5,2018 Mazda CX-5 SUV AWD  Early Release,,4,5,5,5,5,5,4,5,4,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,231,3,0,2018/MAZDA/CX-5/2018 Mazda CX-5 SUV AWD  Early Release.png
-12814,2018,MAZDA,CX-5,2018 Mazda CX-5 SUV FWD Later Release,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,124,0,0,2018/MAZDA/CX-5/2018 Mazda CX-5 SUV FWD Later Release.png
-12815,2018,MAZDA,CX-5,2018 Mazda CX-5 SUV AWD Later Release,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,124,0,0,2018/MAZDA/CX-5/2018 Mazda CX-5 SUV AWD Later Release.png
+12814,2018,MAZDA,CX-5,2018 Mazda CX-5 SUV FWD Later Release,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.174,0,No Tip,5,Standard,Optional,No,125,0,0,2018/MAZDA/CX-5/2018 Mazda CX-5 SUV FWD Later Release.png
+12815,2018,MAZDA,CX-5,2018 Mazda CX-5 SUV AWD Later Release,,5,5,5,5,5,5,5,5,5,5,4,Not Rated,0.169,0,No Tip,5,Standard,Optional,No,125,0,0,2018/MAZDA/CX-5/2018 Mazda CX-5 SUV AWD Later Release.png
 12057,2018,MAZDA,CX-9,2018 Mazda CX-9 SUV AWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.151,0,No Tip,5,Standard,No,No,128,2,0,2018/MAZDA/CX-9/2018 Mazda CX-9 SUV AWD.png
 12058,2018,MAZDA,CX-9,2018 Mazda CX-9 SUV FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.159,0,No Tip,5,Standard,No,No,128,2,0,2018/MAZDA/CX-9/2018 Mazda CX-9 SUV FWD.png
 12044,2018,MAZDA,MAZDA2,2018 Mazda Mazda2  5 HB FWD,,5,5,5,4,5,5,5,5,5,5,4,Not Rated,0.13,0,No Tip,5,Standard,No,No,0,0,0,2018/MAZDA/MAZDA2/2018 Mazda Mazda2  5 HB FWD.png
@@ -723,7 +723,7 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 12321,2018,TOYOTA,AVALON,2018 Toyota Avalon 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,5,Standard,Standard,Standard,24,2,1,2018/TOYOTA/AVALON/2018 Toyota Avalon 4 DR FWD.png
 12322,2018,TOYOTA,AVALON HYBRID,2018 Toyota Avalon Hybrid 4 DR FWD,,5,4,4,4,5,5,5,5,5,5,4,Not Rated,0.107,0,No Tip,5,Standard,Standard,Standard,1,1,2,2018/TOYOTA/AVALON HYBRID/2018 Toyota Avalon Hybrid 4 DR FWD.png
 12354,2018,TOYOTA,C-HR,2018 Toyota C-HR 5 HB FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.142,0,No Tip,5,Standard,Standard,Standard,328,1,0,2018/TOYOTA/C-HR/2018 Toyota C-HR 5 HB FWD.png
-12323,2018,TOYOTA,CAMRY,2018 Toyota Camry 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,No,Standard,756,8,0,2018/TOYOTA/CAMRY/2018 Toyota Camry 4 DR FWD.png
+12323,2018,TOYOTA,CAMRY,2018 Toyota Camry 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,No,Standard,757,8,0,2018/TOYOTA/CAMRY/2018 Toyota Camry 4 DR FWD.png
 12324,2018,TOYOTA,CAMRY HYBRID,2018 Toyota Camry Hybrid 4 DR FWD,,5,5,5,5,5,5,5,5,5,5,5,Not Rated,0.099,0,No Tip,5,Standard,Standard,Standard,28,0,1,2018/TOYOTA/CAMRY HYBRID/2018 Toyota Camry Hybrid 4 DR FWD.png
 12325,2018,TOYOTA,COROLLA,2018 Toyota Corolla 4 DR FWD,,5,4,5,4,5,5,5,5,5,5,4,Not Rated,0.118,0,No Tip,5,Standard,Standard,Standard,136,3,2,2018/TOYOTA/COROLLA/2018 Toyota Corolla 4 DR FWD.png
 12326,2018,TOYOTA,COROLLA IM,2018 Toyota Corolla IM 5 HB FWD,,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,Not Rated,0,0, ,Not Rated,Standard,Standard,Standard,8,0,1,2018/TOYOTA/COROLLA IM/2018 Toyota Corolla IM 5 HB FWD.png
