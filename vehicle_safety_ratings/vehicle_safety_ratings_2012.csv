@@ -220,8 +220,8 @@ VehicleId,ModelYear,Make,Model,VehicleDescription,VehiclePicture,OverallRating,O
 6703,2012,FORD,EDGE,2012 Ford Edge SUV AWD,,4,3,3,3,5,5,5,5,5,5,4,Not Rated,0.14,0,No Tip,5,Standard,Optional,No,1135,3,1,2012/FORD/EDGE/2012 Ford Edge SUV AWD.png
 6400,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,604,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x2.png
 6704,2012,FORD,ESCAPE,2012 Ford Escape SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,604,2,2,2012/FORD/ESCAPE/2012 Ford Escape SUV 4x4.png
-6401,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x2.png
-6705,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,600,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x4.png
+6401,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x2,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.237,0,No Tip,4,Standard,No,No,601,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x2.png
+6705,2012,FORD,ESCAPE HEV,2012 Ford Escape Hev SUV 4x4,,3,3,2,4,3,3,3,3,3,3,3,Not Rated,0.204,0,No Tip,4,Standard,No,No,601,2,3,2012/FORD/ESCAPE HEV/2012 Ford Escape Hev SUV 4x4.png
 6402,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,119,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x2.png
 6706,2012,FORD,EXPEDITION,2012 Ford Expedition SUV 4x4,,4,4,3,4,5,5,5,5,5,5,4,Not Rated,0.198,0,No Tip,2,Standard,No,No,119,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition SUV 4x4.png
 6724,2012,FORD,EXPEDITION,2012 Ford Expedition EXTENDED SUV 4x2,,4,4,3,4,5,5,5,5,5,5,3,Not Rated,0.212,0,No Tip,2,Standard,No,No,119,3,1,2012/FORD/EXPEDITION/2012 Ford Expedition EXTENDED SUV 4x2.png
